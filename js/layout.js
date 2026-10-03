@@ -22,6 +22,7 @@
       <button class="menu-btn" aria-expanded="false" aria-controls="nav">Menu</button>
       <nav class="nav" id="nav" aria-label="Main">
         <a href="index.html#shop">Shop</a>
+        <a href="index.html#karat">Karats</a>
         <a href="index.html#projects">Projects</a>
         <a href="index.html#craft">Learn</a>
         <a href="index.html#help">Help</a>
