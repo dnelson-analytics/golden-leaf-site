@@ -16,7 +16,7 @@
   <div class="utility">
     <div class="wrap">
       <span>Family-owned. Ships from Oceanside, California.</span>
-      <a href="tel:+18888533672">Toll free 888-853-3672</a>
+      <a href="#help">Questions? Ask online</a>
     </div>
   </div>
 
@@ -44,7 +44,7 @@
         <a href="#shop">Shop</a>
         <a href="#karat">Karats</a>
         <a href="#craft">Learn</a>
-        <a href="#contact">Contact</a>
+        <a href="#help">Help</a>
         <a class="cart" href="https://www.goldenleafproducts.com/shoppingcart.html" rel="noopener">Cart</a>
       </nav>
     </div>
@@ -60,7 +60,7 @@
           <p class="lede">Twelve to 24 karat leaf in loose, transfer and roll form, with the tools and supplies to lay it. Packed and shipped from Oceanside, California.</p>
           <div class="btn-row">
             <a class="btn btn-gold" href="https://www.goldenleafproducts.com/cat-real-gold.html" rel="noopener">Shop gold leaf</a>
-            <a class="btn btn-line" href="tel:+18888533672">Order by phone</a>
+            <a class="btn btn-line" href="#karat">Choose your karat</a>
           </div>
         </div>
 
@@ -96,7 +96,7 @@
           <li><strong>Ships fast</strong><span>Most orders leave the same day, or the next business day after noon Pacific.</span></li>
           <li><strong>Family-owned</strong><span>Customer service first, from a hobby kit to an architectural project.</span></li>
           <li><strong>Society of Gilders</strong><span>A member of the Society of Gilders.</span></li>
-          <li><strong>Order your way</strong><span>Online or by phone. Ask for items we do not list.</span></li>
+          <li><strong>Ask online</strong><span>Quick answers and a message form. Replies come by email.</span></li>
         </ul>
       </div>
     </div>
@@ -221,13 +221,33 @@
       </div>
     </section>
 
-    <section id="contact" class="ask" aria-labelledby="contact-title">
+    <section id="help" class="ask" aria-labelledby="help-title">
       <div class="wrap">
-        <p class="eyebrow">Questions about your project</p>
-        <h2 id="contact-title">Talk to a gilder</h2>
-        <p>Not sure which leaf or size to use? Call, or ask for something we do not list.</p>
-        <a class="phone gold-text" href="tel:+18888533672">888-853-3672</a>
-        <p class="hours">Monday to Friday, 7am to 3pm Pacific &middot; gold@goldenleafproducts.com</p>
+        <div class="section-head reveal">
+          <p class="eyebrow">Help desk</p>
+          <h2 id="help-title">Ask us anything</h2>
+          <p>Tap a question for an instant answer. For anything else, send a message and we will reply by email.</p>
+        </div>
+        <div class="help reveal">
+          <div class="help-q">
+            <div class="chips" role="group" aria-label="Common questions">
+              <button type="button" data-a="ship">When will my order ship?</button>
+              <button type="button" data-a="flam">Shipping primers and sealers</button>
+              <button type="button" data-a="ret">Returns and exchanges</button>
+              <button type="button" data-a="bulk">Ordering in bulk</button>
+              <button type="button" data-a="intl">Ordering from outside the US</button>
+              <button type="button" data-a="missing">Can't find an item</button>
+            </div>
+            <div class="answer" id="answer" aria-live="polite">Pick a question to see the answer here.</div>
+          </div>
+          <form class="msg" id="msg" novalidate>
+            <label>Your name<input name="name" autocomplete="name" required></label>
+            <label>Email<input name="email" type="email" autocomplete="email" required></label>
+            <label>Your question<textarea name="message" rows="4" required></textarea></label>
+            <button class="btn btn-gold" type="submit">Send message</button>
+            <p class="form-note" id="form-note" role="status">Prototype form: nothing is sent yet.</p>
+          </form>
+        </div>
       </div>
     </section>
 
