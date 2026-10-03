@@ -4,14 +4,245 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
+  <meta name="description" content="Prototype home page for Golden Leaf Products: genuine gold leaf, gilding tools and supplies.">
   <title>Golden Leaf Products - Prototype</title>
   <link rel="stylesheet" href="css/styles.css">
+  <script>document.documentElement.className = "js";</script>
 </head>
 <body>
-  <main>
-    <p class="badge">Prototype</p>
-    <h1>Golden Leaf Products</h1>
-    <p>A work-in-progress rebuild. This is not the live store and cannot take orders.</p>
+
+  <div class="proto">Design prototype. Not the live store. Shop and learn links open the current site.</div>
+
+  <div class="utility">
+    <div class="wrap">
+      <span>Family-owned. Ships from Oceanside, California.</span>
+      <a href="tel:+18888533672">Toll free 888-853-3672</a>
+    </div>
+  </div>
+
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="#top" aria-label="Golden Leaf Products home">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <defs>
+            <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#f6e2a4"/>
+              <stop offset="0.5" stop-color="#c9a24a"/>
+              <stop offset="1" stop-color="#8a6420"/>
+            </linearGradient>
+          </defs>
+          <path d="M12 1.5C5.5 8 5.5 16 12 22.5 18.5 16 18.5 8 12 1.5Z" fill="url(#lg)"/>
+          <path d="M12 6v16" stroke="#0c0a07" stroke-width="0.8" fill="none"/>
+        </svg>
+        <span>
+          <span class="brand-name gold-text">Golden Leaf</span>
+          <span class="brand-sub">PRODUCTS</span>
+        </span>
+      </a>
+      <button class="menu-btn" aria-expanded="false" aria-controls="nav">Menu</button>
+      <nav class="nav" id="nav" aria-label="Main">
+        <a href="#shop">Shop</a>
+        <a href="#karat">Karats</a>
+        <a href="#craft">Learn</a>
+        <a href="#contact">Contact</a>
+        <a class="cart" href="https://www.goldenleafproducts.com/shoppingcart.html" rel="noopener">Cart</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="wrap">
+        <div>
+          <p class="eyebrow">Genuine gold leaf and gilding supplies</p>
+          <h1 id="hero-title">Gold leaf for work <em class="gold-text">that lasts.</em></h1>
+          <p class="lede">Twelve to 24 karat leaf in loose, transfer and roll form, with the tools and supplies to lay it. Packed and shipped from Oceanside, California.</p>
+          <div class="btn-row">
+            <a class="btn btn-gold" href="https://www.goldenleafproducts.com/cat-real-gold.html" rel="noopener">Shop gold leaf</a>
+            <a class="btn btn-line" href="tel:+18888533672">Order by phone</a>
+          </div>
+        </div>
+
+        <div class="foil-wrap">
+          <svg class="foil" viewBox="0 0 400 460" role="img" aria-label="A sheet of gold leaf catching the light">
+            <defs>
+              <filter id="foilfx" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+                <feTurbulence type="fractalNoise" baseFrequency="0.010 0.016" numOctaves="4" seed="11" result="noise"/>
+                <feDiffuseLighting in="noise" surfaceScale="10" diffuseConstant="1.25" lighting-color="#e9c466" result="diff">
+                  <feDistantLight azimuth="225" elevation="46">
+                    <animate attributeName="azimuth" values="205;245;205" dur="14s" repeatCount="indefinite"/>
+                  </feDistantLight>
+                </feDiffuseLighting>
+                <feSpecularLighting in="noise" surfaceScale="10" specularConstant="1" specularExponent="26" lighting-color="#fff6d6" result="spec">
+                  <feDistantLight azimuth="225" elevation="46">
+                    <animate attributeName="azimuth" values="205;245;205" dur="14s" repeatCount="indefinite"/>
+                  </feDistantLight>
+                </feSpecularLighting>
+                <feComposite in="spec" in2="diff" operator="arithmetic" k1="0" k2="1" k3="0.85" k4="0" result="lit"/>
+                <feComposite in="lit" in2="SourceAlpha" operator="in"/>
+              </filter>
+            </defs>
+            <path filter="url(#foilfx)" fill="#000" d="M18 22 L186 12 L382 20 L388 150 L379 300 L386 438 L214 448 L26 440 L14 290 L22 140 Z"/>
+          </svg>
+          <span class="foil-cap">Illustration. Photography to come.</span>
+        </div>
+      </div>
+    </section>
+
+    <div class="trust">
+      <div class="wrap">
+        <ul>
+          <li><strong>Ships fast</strong><span>Most orders leave the same day, or the next business day after noon Pacific.</span></li>
+          <li><strong>Family-owned</strong><span>Customer service first, from a hobby kit to an architectural project.</span></li>
+          <li><strong>Society of Gilders</strong><span>A member of the Society of Gilders.</span></li>
+          <li><strong>Order your way</strong><span>Online or by phone. Ask for items we do not list.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <section id="shop" aria-labelledby="shop-title">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <p class="eyebrow">The collection</p>
+          <h2 id="shop-title">Shop by material</h2>
+          <p>Everything for a gilding project, from the leaf to the burnisher.</p>
+        </div>
+        <div class="tiles reveal">
+          <a class="tile" href="https://www.goldenleafproducts.com/cat-real-gold.html" rel="noopener">
+            <div class="sw sw-gold"></div><span class="num">01</span>
+            <h3>Genuine Gold Leaf</h3>
+            <p>12k to 24k in loose and transfer leaf, with double and triple thickness for outdoor work.</p>
+            <span class="go">Shop</span>
+          </a>
+          <a class="tile" href="https://www.goldenleafproducts.com/cat-silver-copper-palladium.html" rel="noopener">
+            <div class="sw sw-silver"></div><span class="num">02</span>
+            <h3>Silver, Copper &amp; Palladium</h3>
+            <p>Genuine leaf in each metal.</p>
+            <span class="go">Shop</span>
+          </a>
+          <a class="tile" href="https://www.goldenleafproducts.com/cat-imitation-leaf.html" rel="noopener">
+            <div class="sw sw-imitation"></div><span class="num">03</span>
+            <h3>Imitation Gold &amp; Silver</h3>
+            <p>Imitation gold and imitation silver leaf.</p>
+            <span class="go">Shop</span>
+          </a>
+          <a class="tile" href="https://www.goldenleafproducts.com/cat-rolls.html" rel="noopener">
+            <div class="sw sw-roll"></div><span class="num">04</span>
+            <h3>Roll Leaf</h3>
+            <p>23k double roll gold in 67 ft lengths, 1/4 in to 3 in wide, plus copper and imitation rolls.</p>
+            <span class="go">Shop</span>
+          </a>
+          <a class="tile" href="https://www.goldenleafproducts.com/cat-variegated-leaf.html" rel="noopener">
+            <div class="sw sw-var"></div><span class="num">05</span>
+            <h3>Variegated Leaf</h3>
+            <p>Color-shifted leaf, with a color chart to choose from.</p>
+            <span class="go">Shop</span>
+          </a>
+          <a class="tile" href="https://www.goldenleafproducts.com/order-gold-leaf-scrap.html" rel="noopener">
+            <div class="sw sw-scrap"></div><span class="num">06</span>
+            <h3>Scrap Gold</h3>
+            <p>23k scrap gold. Other karats by special order.</p>
+            <span class="go">Shop</span>
+          </a>
+          <a class="tile" href="https://www.goldenleafproducts.com/cat-gilding-tools.html" rel="noopener">
+            <div class="sw sw-tools"></div><span class="num">07</span>
+            <h3>Gilding Tools</h3>
+            <p>Agate burnishers, tips, brushes, knives and cushions.</p>
+            <span class="go">Shop</span>
+          </a>
+          <a class="tile" href="https://www.goldenleafproducts.com/cat-gilding-supplies.html" rel="noopener">
+            <div class="sw sw-supplies"></div><span class="num">08</span>
+            <h3>Gilding Supplies</h3>
+            <p>Size, basecoat, primer, sealers, clay bole and kits.</p>
+            <span class="go">Shop</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section id="karat" class="karat" aria-labelledby="karat-title">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <p class="eyebrow">Genuine gold leaf</p>
+          <h2 id="karat-title">Choose your karat</h2>
+          <p>Genuine gold leaf from 24k down to 12k. Prices shown are for the smallest loose pack of each.</p>
+        </div>
+        <div class="karats reveal">
+          <a class="chip" href="https://www.goldenleafproducts.com/cat-24k-leaf.html" rel="noopener"><div class="dot k24"></div><b>24k</b><small>from $32</small></a>
+          <a class="chip" href="https://www.goldenleafproducts.com/cat-2375k-leaf.html" rel="noopener"><div class="dot k2375"></div><b>23.75k</b><small>from $30</small></a>
+          <a class="chip" href="https://www.goldenleafproducts.com/cat-23k-leaf.html" rel="noopener"><div class="dot k23"></div><b>23k</b><small>from $29</small></a>
+          <a class="chip" href="https://www.goldenleafproducts.com/order-22k-gold-leaf.html" rel="noopener"><div class="dot k22"></div><b>22k</b><small>from $26</small></a>
+          <a class="chip" href="https://www.goldenleafproducts.com/order-18k-gold-leaf.html" rel="noopener"><div class="dot k18"></div><b>18k</b><small>from $25</small></a>
+          <a class="chip" href="https://www.goldenleafproducts.com/order-12k-gold-leaf.html" rel="noopener"><div class="dot k12"></div><b>12k</b><small>from $21</small></a>
+        </div>
+        <p class="karat-note">Swatch colors are illustrative. Photographs will replace them.</p>
+      </div>
+    </section>
+
+    <section id="craft" aria-labelledby="craft-title">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <p class="eyebrow">Learn the craft</p>
+          <h2 id="craft-title">New to gilding, or a seasoned hand</h2>
+          <p>Guides on the leaf, how it is made, and how to lay it.</p>
+        </div>
+        <div class="craft-grid reveal">
+          <div class="craft-card">
+            <h3>What is gold leaf</h3>
+            <p>Start here: what genuine gold leaf is and how it behaves.</p>
+            <a href="https://www.goldenleafproducts.com/info-what-is-gold-leaf.html" rel="noopener">Read</a>
+          </div>
+          <div class="craft-card">
+            <h3>How gold leaf is made</h3>
+            <p>The process behind a sheet of leaf.</p>
+            <a href="https://www.goldenleafproducts.com/info-how-gold-leaf-is-made.html" rel="noopener">Read</a>
+          </div>
+          <div class="craft-card">
+            <h3>Introduction to gilding</h3>
+            <p>The basics of laying leaf on your first project.</p>
+            <a href="https://www.goldenleafproducts.com/info-introduction-to-gilding-with-gold-leaf.html" rel="noopener">Read</a>
+          </div>
+          <div class="craft-card">
+            <h3>Project gallery</h3>
+            <p>Finished gilding projects.</p>
+            <a href="https://www.goldenleafproducts.com/gold-leaf-project-gallery.html" rel="noopener">View</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="brands" aria-label="Brands">
+      <div class="wrap">
+        <p class="eyebrow">Brands we carry</p>
+        <div class="brand-list">
+          <span>Voltarra</span><span>Noris</span><span>Kölner</span><span>Sinopia</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="ask" aria-labelledby="contact-title">
+      <div class="wrap">
+        <p class="eyebrow">Questions about your project</p>
+        <h2 id="contact-title">Talk to a gilder</h2>
+        <p>Not sure which leaf or size to use? Call, or ask for something we do not list.</p>
+        <a class="phone gold-text" href="tel:+18888533672">888-853-3672</a>
+        <p class="hours">Monday to Friday, 7am to 3pm Pacific &middot; gold@goldenleafproducts.com</p>
+      </div>
+    </section>
+
   </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>Design prototype for Golden Leaf Products. Not the live store.</span>
+      <span>
+        <a href="https://www.facebook.com/goldenleafproducts/" rel="noopener">Facebook</a> &middot;
+        <a href="https://www.instagram.com/golden.leaf.products/" rel="noopener">Instagram</a>
+      </span>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
 </body>
 </html>

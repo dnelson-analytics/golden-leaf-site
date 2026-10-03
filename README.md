@@ -12,10 +12,26 @@ Plain HTML, CSS and JavaScript. No build step and no dependencies.
 
 | Path | Contents |
 |---|---|
-| `index.html` | Placeholder home page (marked `noindex`) |
-| `css/` | Styles |
-| `js/` | Scripts |
-| `assets/` | Images and other files |
+| `index.html` | Home page prototype, "luxury leaf" direction (marked `noindex`) |
+| `css/styles.css` | All styling; colors and fonts are CSS variables in `:root` |
+| `js/main.js` | Mobile menu and scroll reveal |
+| `assets/` | Images and other files (none yet) |
+
+## Home page notes
+
+- No photographs yet: the gold foil is an SVG lighting filter, and the
+  material and karat swatches are CSS gradients, all marked as illustrations.
+- System fonts only, so there is nothing to download or install.
+- Facts and prices come from the current site. Shop and learn links open the
+  live store until the prototype has its own pages.
+
+## Preview locally
+
+```bash
+python -m http.server 8801
+```
+
+Then open http://127.0.0.1:8801/.
 
 ## Deploying
 
