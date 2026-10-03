@@ -1,0 +1,216 @@
+{
+ "source": "Read from the current site on 2026-10-03; prices and ratings are the live site's.",
+ "products": [
+  {
+   "id": "22k-gold-leaf",
+   "name": "Voltarra 22k Gold Leaf",
+   "brand": "Voltarra",
+   "madeIn": "Thailand",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "summary": "Our 22 karat gold leaf is 91.8% real gold with silver and copper added, which gives it a lighter color than gold leaf with a higher gold content.",
+   "uses": "One of the preferred leafs for gilding projects which don't require a higher gold content. It is most commonly used on picture frames, artwork, and signs. If used outdoors, 22k leaf should be sealed.",
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Leaf types",
+     "Loose, and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves, or packs of 500 leaves. Booklets of 5 leaves are also available."
+    ],
+    [
+     "Composition",
+     "91.8% Au, 7.2% Ag, 1.0% Cu"
+    ],
+    [
+     "Made in",
+     "Thailand"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "GLP220Ls-5",
+     "mpn": "VLS220-5",
+     "name": "22K Gold Leaf Booklet - 5 Loose Leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 26,
+     "weightOz": 0.2,
+     "rating": 4.67,
+     "ratingCount": 12
+    },
+    {
+     "sku": "GLP220Ls-10",
+     "mpn": "VLS220-10",
+     "name": "22K Gold Leaf Booklet - 10 Loose Leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 48,
+     "weightOz": 0.2,
+     "rating": 4.79,
+     "ratingCount": 14
+    },
+    {
+     "sku": "GLP220Ls-25",
+     "mpn": "VLS220-25",
+     "name": "22K Gold Leaf Book - 25 Loose Leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 119,
+     "weightOz": 0.5,
+     "rating": 4.8,
+     "ratingCount": 265
+    },
+    {
+     "sku": "GLP220Ls-100",
+     "mpn": "VLS220-100",
+     "name": "22K Gold Leaf 4 Books - 100 Loose Leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 400,
+     "weightOz": 1.5,
+     "rating": 4.81,
+     "ratingCount": 123
+    },
+    {
+     "sku": "GLP220Ls-250",
+     "mpn": "VLS220-250",
+     "name": "22K Gold Leaf Half Pack - 250 Loose Leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 915,
+     "weightOz": 2.5,
+     "rating": 4.82,
+     "ratingCount": 45
+    },
+    {
+     "sku": "GLP220Ls-500",
+     "mpn": "VLS220-500",
+     "name": "22K Gold Leaf Pack - 500 Loose Leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 1643,
+     "weightOz": 6.5,
+     "rating": 4.88,
+     "ratingCount": 77
+    },
+    {
+     "sku": "GLP220Ts-5",
+     "mpn": "VTS220-5",
+     "name": "22K Gold Leaf Booklet - 5 Transfer Leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 27,
+     "weightOz": 0.2,
+     "rating": 4.92,
+     "ratingCount": 12
+    },
+    {
+     "sku": "GLP220Ts-10",
+     "mpn": "VTS220-10",
+     "name": "22K Gold Leaf Booklet - 10 Transfer Leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 50,
+     "weightOz": 0.5,
+     "rating": 4.69,
+     "ratingCount": 13
+    },
+    {
+     "sku": "GLP220Ts-25",
+     "mpn": "VTS220-25",
+     "name": "22K Gold Leaf Book - 25 Transfer Leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 124,
+     "weightOz": 0.5,
+     "rating": 4.7,
+     "ratingCount": 69
+    },
+    {
+     "sku": "GLP220Ts-100",
+     "mpn": "VTS220-100",
+     "name": "22K Gold Leaf 4 Books - 100 Transfer Leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 417,
+     "weightOz": 2.0,
+     "rating": 4.66,
+     "ratingCount": 32
+    },
+    {
+     "sku": "GLP220Ts-250",
+     "mpn": "VTS220-250",
+     "name": "22K Gold Leaf Half Pack - 250 Transfer Leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 955,
+     "weightOz": 5.0,
+     "rating": 4.75,
+     "ratingCount": 12
+    },
+    {
+     "sku": "GLP220Ts-500",
+     "mpn": "VTS220-500",
+     "name": "22K Gold Leaf Pack - 500 Transfer Leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 1712,
+     "weightOz": 12.0,
+     "rating": 4.75,
+     "ratingCount": 20
+    }
+   ],
+   "related": [
+    {
+     "name": "23k Gold Leaf",
+     "url": "https://www.goldenleafproducts.com/order-23k-gold-leaf.html"
+    },
+    {
+     "name": "18k Gold Leaf",
+     "url": "https://www.goldenleafproducts.com/order-18k-gold-leaf.html"
+    },
+    {
+     "name": "Rosenoble Gold Leaf",
+     "url": "https://www.goldenleafproducts.com/order-rosenoblelgoldleaf.html"
+    },
+    {
+     "name": "Imitation Gold Leaf",
+     "url": "https://www.goldenleafproducts.com/order-imitation-gold-leaf.html"
+    },
+    {
+     "name": "Kölner Squirrel Hair Gilders Tips",
+     "url": "https://www.goldenleafproducts.com/order-tip-kolner-squirrel.html"
+    },
+    {
+     "name": "Agate Burnishers",
+     "url": "https://www.goldenleafproducts.com/cat-agate-burnishers.html"
+    }
+   ]
+  }
+ ]
+}

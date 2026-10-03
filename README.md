@@ -14,8 +14,24 @@ Plain HTML, CSS and JavaScript. No build step and no dependencies.
 |---|---|
 | `index.html` | Home page prototype, "luxury leaf" direction (marked `noindex`) |
 | `css/styles.css` | All styling; colors and fonts are CSS variables in `:root` |
-| `js/main.js` | Mobile menu and scroll reveal |
+| `product.html` | Product page template; `?p=<id>` picks the product from `data/products.json` |
+| `cart.html` | Cart page |
+| `data/products.json` | Product data: one file, one entry per product (22k gold leaf so far) |
+| `js/main.js` | Home page: menu, help desk, scroll reveal |
+| `js/cart.js` | Cart held in the browser (`localStorage`), shared by every page |
+| `js/layout.js` | Shared header and footer for the product and cart pages |
+| `js/product.js`, `js/cart-page.js` | Render the product and cart pages |
 | `assets/` | Images and other files (none yet) |
+
+## Product and cart notes
+
+- The 22k page is the reference product: loose and transfer leaf in six pack
+  sizes each, price per pack and per leaf, ratings per pack, and the
+  bulk-order message above 2,000 leaves. Data was read from the current site.
+- The cart lives only in the visitor's browser. Prices come from
+  `data/products.json`; nothing checks totals on a server, and checkout, tax,
+  and shipping are not built yet.
+- To add a product, add an entry to `data/products.json` with the same shape.
 
 ## Home page notes
 
