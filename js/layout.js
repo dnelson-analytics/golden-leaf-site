@@ -25,7 +25,7 @@
         <a href="index.html#karat">Karats</a>
         <a href="index.html#projects">Projects</a>
         <a href="index.html#craft">Learn</a>
-        <a href="index.html#help">Help</a>
+        <a href="index.html#help">Questions</a>
         <a class="cart" href="cart.html">Cart <span class="badge" data-cart-count hidden></span></a>
       </nav>
     </div>

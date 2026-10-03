@@ -367,3 +367,5 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--gold-bright); o
 #projects { background: #efe4c8; }
 @media (max-width: 980px) { .karats { grid-template-columns: repeat(3, 1fr); } }
 @media (max-width: 520px) { .karats { grid-template-columns: repeat(2, 1fr); } }
+
+section[id] { scroll-margin-top: 4.5rem; }
