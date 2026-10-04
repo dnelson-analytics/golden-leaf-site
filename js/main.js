@@ -17,9 +17,9 @@ const ANSWERS = {
   ship: ["When will my order ship?", "Most orders go out the same day. Orders placed after noon Pacific go out the next business day. We ship from Oceanside, California by USPS or FedEx, and you choose the service level at checkout."],
   flam: ["Shipping primers and sealers", "Primers, topcoat sealers and oil-base size are flammable, so they ship by ground service only, within the US and Canada. If your cart mixes these with other items, we will sort out the shipping."],
   ret: ["Returns and exchanges", "You have 60 days to return an item. Special and custom orders cannot be returned. A restocking fee of 6% applies within 30 days and 12% within 60 days."],
-  bulk: ["Ordering in bulk", "For orders above 2,000 leaves, send us a message with what you need and we will reply by email with special pricing."],
-  intl: ["Ordering from outside the US", "We ship to Canada, Australia, New Zealand, and the UK and EU (EU orders need a valid VAT number). Send us your order details in a message and we will reply by email with an invoice and your shipping and payment options."],
-  missing: ["Can't find an item", "If we do not carry something you need, tell us what you are looking for in a message. We will reply by email."]
+  bulk: ["Ordering in bulk", "For orders above 2,000 leaves, call our sales team at 888-853-3672, or send us a message with what you need and we will reply by email with special pricing."],
+  intl: ["Ordering from outside the US", "We ship to Canada, Australia, New Zealand, and the UK and EU (EU orders need a valid VAT number). Call our sales team at 888-853-3672, or send us your order details in a message and we will reply by email with an invoice and your shipping and payment options."],
+  missing: ["Can't find an item", "If we do not carry something you need, call our sales team at 888-853-3672 or tell us what you are looking for in a message. We will reply by email."]
 };
 
 const answerBox = document.getElementById("answer");

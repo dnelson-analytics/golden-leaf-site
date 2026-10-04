@@ -27,9 +27,10 @@ credentials, customer data, or copied code from the current cart script.
 ## Conventions
 - Every page is labeled a prototype. The cart takes no
   money and sends nothing; the help desk form sends nothing.
-- No phone numbers or "call us" prompts; bulk orders and low-inventory options
-  point to the help desk (`index.html#help`). The owner discourages direct
-  customer contact.
+- Contact has three routes, shown together in the help section (`index.html#help`):
+  call sales (888-853-3672; the owner's two salespeople want calls), instant
+  answers, and the message form. Bulk orders and low-inventory options offer the
+  help desk and the phone. Show no phone hours until the owner gives them.
 - Facts and prices come from the current site; never invent claims, awards or
   reviews. Images are drawn illustrations labeled "Illustration. Photography to
   come."
