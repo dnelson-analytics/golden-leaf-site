@@ -1,5 +1,9 @@
 # Project: Golden Leaf Products site prototype
 
+House standards and how Doug works: the `myAI` repo (private, local
+`E:\Code\Repos\myAI`; start with its `skills/doug-dev-environment`). This file
+covers only what is specific to this project and wins where they differ.
+
 Public prototype of a rebuilt Golden Leaf Products website. Planning, decisions
 and findings live in the private repo `golden-leaf-products` (see its
 `docs/working-notes.md` first). This repo is **public**: no owner details,
