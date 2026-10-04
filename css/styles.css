@@ -399,3 +399,11 @@ section[id] { scroll-margin-top: 4.5rem; }
 .buyrow .btn[disabled] { opacity: 0.45; cursor: not-allowed; }
 .seg.single button { cursor: default; }
 @media (max-width: 560px) { .khead { flex-direction: column; align-items: flex-start; } .khead .dot { width: 72px; height: 72px; } }
+
+/* Swatches and tones for non-gold products */
+.s-silver { background: radial-gradient(circle at 35% 30%, #ffffff, #cfd4da 45%, #7d8087); }
+.s-copper { background: radial-gradient(circle at 35% 30%, #f2b08a, #c8703f 45%, #7a3e1c); }
+.s-imitation { background: radial-gradient(circle at 35% 30%, #f5e6a0, #d4b64a 45%, #8a7421); }
+.s-palladium { background: radial-gradient(circle at 35% 30%, #f4f5f6, #b9bdc3 45%, #6f7379); }
+.s-variegated { background: conic-gradient(from 200deg at 40% 40%, #2c6f73, #7b4a8c, #c9a24a, #a8452f, #2c6f73); }
+.pdp-media.tone-variegated .foil { filter: hue-rotate(35deg) saturate(1.25) drop-shadow(0 30px 40px rgba(0, 0, 0, 0.65)); }

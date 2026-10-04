@@ -16,9 +16,9 @@ Plain HTML, CSS and JavaScript. No build step and no dependencies.
 | `css/styles.css` | All styling; colors and fonts are CSS variables in `:root` |
 | `product.html` | Product page template; `?p=<id>` picks the product from `data/products.json` |
 | `cart.html` | Cart page |
-| `karat.html` | Karat listing page; `?k=<karat>` (24k, 23.75k, 23k, 22k, 18k, 12k) lists that karat's products |
-| `data/products.json` | Product data: one file, one entry per product (18 genuine gold leaf products, 200 packs) and the karat groups |
-| `js/karat.js` | Renders the karat listing page |
+| `karat.html` | Listing page: `?k=<karat>` (24k, 23.75k, 23k, 22k, 18k, 12k) or `?c=<collection>` (silver-copper-palladium, imitation, roll-leaf, variegated-leaf, specialty-gold, heavy-leaf) |
+| `data/products.json` | Product data: one file with the karats, the collections, and 35 products (297 packs): genuine gold leaf, silver, copper, palladium, imitation, variegated, rolls, shell gold, powder, flake, scrap and mini bundles |
+| `js/karat.js` | Renders the karat and collection listing pages |
 | `js/main.js` | Home page: menu, help desk, scroll reveal |
 | `js/cart.js` | Cart held in the browser (`localStorage`), shared by every page |
 | `js/layout.js` | Shared header and footer for the product and cart pages |
