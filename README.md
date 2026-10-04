@@ -16,7 +16,9 @@ Plain HTML, CSS and JavaScript. No build step and no dependencies.
 | `css/styles.css` | All styling; colors and fonts are CSS variables in `:root` |
 | `product.html` | Product page template; `?p=<id>` picks the product from `data/products.json` |
 | `cart.html` | Cart page |
-| `data/products.json` | Product data: one file, one entry per product (22k gold leaf so far) |
+| `karat.html` | Karat listing page; `?k=<karat>` (24k, 23.75k, 23k, 22k, 18k, 12k) lists that karat's products |
+| `data/products.json` | Product data: one file, one entry per product (18 genuine gold leaf products, 200 packs) and the karat groups |
+| `js/karat.js` | Renders the karat listing page |
 | `js/main.js` | Home page: menu, help desk, scroll reveal |
 | `js/cart.js` | Cart held in the browser (`localStorage`), shared by every page |
 | `js/layout.js` | Shared header and footer for the product and cart pages |
@@ -32,6 +34,8 @@ Plain HTML, CSS and JavaScript. No build step and no dependencies.
   `data/products.json`; nothing checks totals on a server, and checkout, tax,
   and shipping are not built yet.
 - To add a product, add an entry to `data/products.json` with the same shape.
+- A pack marked `"stock": "low"` shows as low inventory and cannot be added to
+  the cart; the page points to the help desk instead of "please call".
 
 ## Home page notes
 

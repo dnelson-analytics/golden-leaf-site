@@ -369,3 +369,33 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--gold-bright); o
 @media (max-width: 520px) { .karats { grid-template-columns: repeat(2, 1fr); } }
 
 section[id] { scroll-margin-top: 4.5rem; }
+
+/* Karat listing page and low-inventory note */
+.ktabs { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 2.4rem; }
+.ktabs a { border: 1px solid var(--line); padding: 0.55rem 1.1rem; font-family: var(--serif); font-size: 1.15rem; color: var(--muted); transition: border-color 0.2s, color 0.2s; }
+.ktabs a:hover { border-color: var(--gold); color: var(--gold-pale); }
+.ktabs a[aria-current="page"] { background: var(--gold-foil); color: var(--ink); border-color: transparent; font-weight: 600; }
+.khead { display: flex; gap: 1.8rem; align-items: center; margin-bottom: 2.6rem; }
+.khead .dot, .kcard .dot { border-radius: 50%; box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.45), 0 5px 12px rgba(0, 0, 0, 0.5); flex: none; }
+.khead .dot { width: 96px; height: 96px; }
+.khead h1 { font-size: clamp(2rem, 4.4vw, 3.2rem); margin-bottom: 0.7rem; }
+.khead .lede { color: var(--muted); max-width: 44rem; margin: 0; }
+.kgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr)); gap: 1rem; }
+.kcard { display: flex; flex-direction: column; gap: 0.5rem; background: var(--coal); border: 1px solid var(--line); padding: 1.5rem 1.4rem 1.3rem; transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s; }
+.kcard:hover { transform: translateY(-3px); border-color: var(--gold); box-shadow: 0 14px 28px rgba(0, 0, 0, 0.4); }
+.kcard .dot { width: 44px; height: 44px; margin-bottom: 0.4rem; }
+.kcard h3 { font-size: 1.35rem; }
+.kfacts { color: var(--muted); font-size: 0.85rem; margin: 0; }
+.kcomp { color: var(--gold-pale); font-size: 0.85rem; margin: 0; }
+.kprice { margin: 0.6rem 0 0; flex: 1; }
+.kprice b { font-family: var(--serif); font-size: 1.5rem; font-weight: 500; color: var(--gold-pale); }
+.kprice small { color: var(--muted); font-size: 0.82rem; }
+.klow { align-self: flex-start; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink); background: var(--gold-bright); padding: 0.15rem 0.55rem; border-radius: 1px; }
+.kcard .go { font-size: 0.75rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gold-bright); margin-top: 0.5rem; }
+.kgrid + .fine { margin-top: 2rem; }
+.lownote { margin: 1rem 0 0; font-size: 0.92rem; color: var(--gold-pale); min-height: 0; }
+.lownote:empty { display: none; }
+.lownote a { color: var(--gold-bright); border-bottom: 1px solid var(--gold); }
+.buyrow .btn[disabled] { opacity: 0.45; cursor: not-allowed; }
+.seg.single button { cursor: default; }
+@media (max-width: 560px) { .khead { flex-direction: column; align-items: flex-start; } .khead .dot { width: 72px; height: 72px; } }

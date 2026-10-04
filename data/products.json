@@ -1,17 +1,2950 @@
 {
- "source": "Read from the current site on 2026-10-03; prices and ratings are the live site's.",
+ "source": "Read from the current site on 2026-10-03/04. Prices, ratings and stock are the live site's; pack names are cleaned.",
+ "karats": [
+  {
+   "id": "24k",
+   "label": "24k",
+   "blurb": "Our 24k gold leaf is 99.9% gold, available as transfer and loose leaf books and in heavier double, triple and quad leaf. 24 karat gold is especially popular for gilding projects which require purity and durability, especially outdoor projects and religious iconography.",
+   "products": [
+    "24k-gold-leaf",
+    "24k-gold-double-leaf",
+    "24k-gold-triple-leaf",
+    "24k-gold-quad-leaf"
+   ]
+  },
+  {
+   "id": "23.75k",
+   "label": "23.75k",
+   "blurb": "Our 23.75k gold leaf has a slightly softer tone when compared to our 24k gold leaf. It comes in transfer leaf and loose leaf books, and in standard, double, and triple leaf. Our triple leaf is ideal for all outdoor applications.",
+   "products": [
+    "2375k-gold-leaf",
+    "2375k-gold-double-leaf",
+    "2375k-gold-triple-leaf",
+    "rosenoblelgoldleaf"
+   ]
+  },
+  {
+   "id": "23k",
+   "label": "23k",
+   "blurb": "23k gold leaf is one of the more popular colors. We have it in transfer and loose leaf books, in both standard and double leaf, from Voltarra and from Noris, plus a red gold.",
+   "products": [
+    "23k-gold-leaf",
+    "23k-gold-double-leaf",
+    "noris-23k-leaf",
+    "noris-23k-double-gold-leaf",
+    "23k-red-gold-leaf"
+   ]
+  },
+  {
+   "id": "22k",
+   "label": "22k",
+   "blurb": "22k gold leaf is 91.8% gold with silver and copper added, which gives it a lighter color than leaf with a higher gold content. Moon gold and rose gold are also 22 karat.",
+   "products": [
+    "22k-gold-leaf",
+    "22k-moon-gold-leaf",
+    "rosegoldleaf"
+   ]
+  },
+  {
+   "id": "18k",
+   "label": "18k",
+   "blurb": "18k gold leaf is an alloy of 75% gold and 25% silver, which gives the leaf a bright yellow color. Because of the high silver content, 18k leaf must be sealed to keep it from tarnishing.",
+   "products": [
+    "18k-gold-leaf"
+   ]
+  },
+  {
+   "id": "12k",
+   "label": "12k",
+   "blurb": "12k gold leaf is 51% real gold with silver and palladium added, which produces a silver-colored leaf with a touch of color, also known as white gold. It must be sealed to keep it from tarnishing.",
+   "products": [
+    "12k-gold-leaf"
+   ]
+  }
+ ],
  "products": [
+  {
+   "id": "24k-gold-leaf",
+   "name": "Voltarra 24k Gold Leaf",
+   "brand": "Voltarra",
+   "madeIn": "Thailand",
+   "karat": "24k",
+   "thickness": "Standard",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Our 24 karat gold leaf is 99.9% real gold, and is the preferred leaf for gilding projects which require purity and a true gold color.",
+    "24k is commonly used for architectural projects, artwork, and religious iconography."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves. Booklets of 5 leaves are also available."
+    ],
+    [
+     "Composition",
+     "99.9% Au"
+    ],
+    [
+     "Made in",
+     "Thailand"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "GLP240Ls-5",
+     "mpn": "VLS240-5",
+     "name": "Voltarra 24k Gold Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 32,
+     "weightOz": 0.2,
+     "rating": 4.53,
+     "ratingCount": 55,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240Ls-10",
+     "mpn": "VLS240-10",
+     "name": "Voltarra 24k Gold Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 56,
+     "weightOz": 0.2,
+     "rating": 4.82,
+     "ratingCount": 61,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240Ls-25",
+     "mpn": "VLS240-25",
+     "name": "Voltarra 24k Gold Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 135,
+     "weightOz": 0.4,
+     "rating": 4.79,
+     "ratingCount": 75,
+     "stock": "low"
+    },
+    {
+     "sku": "GLP240Ls-100",
+     "mpn": "VLS240-100",
+     "name": "Voltarra 24k Gold Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 456,
+     "weightOz": 1.5,
+     "rating": 4.86,
+     "ratingCount": 35,
+     "stock": "low"
+    },
+    {
+     "sku": "GLP240Ls-250",
+     "mpn": "VLS240-250",
+     "name": "Voltarra 24k Gold Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 1052,
+     "weightOz": 2.5,
+     "rating": 4.77,
+     "ratingCount": 13,
+     "stock": "low"
+    },
+    {
+     "sku": "GLP240Ls-500",
+     "mpn": "VLS240-500",
+     "name": "Voltarra 24k Gold Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 1887,
+     "weightOz": 6.5,
+     "rating": 4.86,
+     "ratingCount": 22,
+     "stock": "low"
+    },
+    {
+     "sku": "GLP240Ts-5",
+     "mpn": "VTS240-5",
+     "name": "Voltarra 24k Gold Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 33,
+     "weightOz": 0.2,
+     "rating": 4.66,
+     "ratingCount": 35,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240Ts-10",
+     "mpn": "VTS240-10",
+     "name": "Voltarra 24k Gold Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 59,
+     "weightOz": 0.2,
+     "rating": 4.72,
+     "ratingCount": 39,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240Ts-25",
+     "mpn": "VTS240-25",
+     "name": "Voltarra 24k Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 138,
+     "weightOz": 0.5,
+     "rating": 4.71,
+     "ratingCount": 77,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240Ts-100",
+     "mpn": "VTS240-100",
+     "name": "Voltarra 24k Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 474,
+     "weightOz": 2,
+     "rating": 4.81,
+     "ratingCount": 36,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240Ts-250",
+     "mpn": "VTS240-250",
+     "name": "Voltarra 24k Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1090,
+     "weightOz": 5,
+     "rating": 4.92,
+     "ratingCount": 13,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240Ts-500",
+     "mpn": "VTS240-500",
+     "name": "Voltarra 24k Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 1957,
+     "weightOz": 12.1,
+     "rating": 4.74,
+     "ratingCount": 23,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "24k Double Genuine Gold Leaf",
+     "page": "order-24k-gold-double-leaf"
+    },
+    {
+     "name": "23.75k Genuine Gold Leaf",
+     "page": "order-2375k-gold-leaf"
+    },
+    {
+     "name": "24k Quad Gold Leaf",
+     "page": "order-24k-gold-quad-leaf"
+    },
+    {
+     "name": "24k & 23k Mini Bundles 100pc",
+     "page": "order-gold-leaf-mini-bundle"
+    },
+    {
+     "name": "Gilders Fine Detail Kit",
+     "page": "order-kit-kolner-detail"
+    },
+    {
+     "name": "Agate Burnishers",
+     "page": "cat-agate-burnishers"
+    }
+   ]
+  },
+  {
+   "id": "24k-gold-double-leaf",
+   "name": "Voltarra 24k Double Gold Leaf",
+   "brand": "Voltarra",
+   "madeIn": "Thailand",
+   "karat": "24k",
+   "thickness": "Double",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Our 24 karat double gold leaf 99.9% real gold, and is the preferred leaf for gilding projects which benefit from better coverage, purity, and durability.",
+    "“Double” is an industry term indicating that the gold is about 20% thicker than regular leaf. It is commonly used for outdoor architectural projects, artwork, and religious iconography."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Thickness",
+     "Double: about 20% thicker than regular leaf"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves. Booklets of 5 leaves are also available."
+    ],
+    [
+     "Composition",
+     "99.9% Au"
+    ],
+    [
+     "Made in",
+     "Thailand"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "GLP240LsD-5",
+     "mpn": "VLD240-5",
+     "name": "Voltarra 24k Double Gold Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 37,
+     "weightOz": 0.5,
+     "rating": 4.36,
+     "ratingCount": 14,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240LsD-10",
+     "mpn": "VLD240-10",
+     "name": "Voltarra 24k Double Gold Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 65,
+     "weightOz": 0.2,
+     "rating": 4.73,
+     "ratingCount": 15,
+     "stock": "low"
+    },
+    {
+     "sku": "GLP240LsD-25",
+     "mpn": "VLD240-25",
+     "name": "Voltarra 24k Double Gold Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 162,
+     "weightOz": 0.5,
+     "rating": 4.78,
+     "ratingCount": 32,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240LsD-100",
+     "mpn": "VLD240-100",
+     "name": "Voltarra 24k Double Gold Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 545,
+     "weightOz": 1.5,
+     "rating": 4.93,
+     "ratingCount": 15,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240LsD-250",
+     "mpn": "VLD240-250",
+     "name": "Voltarra 24k Double Gold Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 1245,
+     "weightOz": 2.5,
+     "rating": 4.83,
+     "ratingCount": 6,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240LsD-500",
+     "mpn": "VLD240-500",
+     "name": "Voltarra 24k Double Gold Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 2236,
+     "weightOz": 7,
+     "rating": 5,
+     "ratingCount": 10,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsD-5",
+     "mpn": "VTD240-5",
+     "name": "Voltarra 24k Double Gold Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 37,
+     "weightOz": 0.5,
+     "rating": 4.79,
+     "ratingCount": 14,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsD-10",
+     "mpn": "VTD240-10",
+     "name": "Voltarra 24k Double Gold Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 67,
+     "weightOz": 0.2,
+     "rating": 4.73,
+     "ratingCount": 15,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsD-25",
+     "mpn": "VTD240-25",
+     "name": "Voltarra 24k Double Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 167,
+     "weightOz": 0.5,
+     "rating": 4.83,
+     "ratingCount": 41,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsD-100",
+     "mpn": "VTD240-100",
+     "name": "Voltarra 24k Double Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 563,
+     "weightOz": 1.5,
+     "rating": 4.74,
+     "ratingCount": 19,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsD-250",
+     "mpn": "VTD240-250",
+     "name": "Voltarra 24k Double Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1286,
+     "weightOz": 3,
+     "rating": 4.71,
+     "ratingCount": 7,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsD-500",
+     "mpn": "VTD240-500",
+     "name": "Voltarra 24k Double Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 2308,
+     "weightOz": 12.3,
+     "rating": 4.92,
+     "ratingCount": 12,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "24k Gold Leaf",
+     "page": "order-24k-gold-leaf"
+    },
+    {
+     "name": "24k Triple Gold Leaf",
+     "page": "order-24k-gold-triple-leaf"
+    },
+    {
+     "name": "23.75k Double Genuine Gold Leaf",
+     "page": "order-2375k-gold-double-leaf"
+    },
+    {
+     "name": "Gilding Adhesives",
+     "page": "cat-gilding-adhesives"
+    },
+    {
+     "name": "23 Double Roll Gold",
+     "page": "order-23k-roll-gold"
+    },
+    {
+     "name": "24k & 23k Mini Bundles 100pc",
+     "page": "order-gold-leaf-mini-bundle"
+    }
+   ]
+  },
+  {
+   "id": "24k-gold-triple-leaf",
+   "name": "Voltarra 24k Triple Gold Leaf",
+   "brand": "Voltarra",
+   "madeIn": "Thailand",
+   "karat": "24k",
+   "thickness": "Triple",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Our 24 karat triple gold leaf is beautiful 99.9% real gold, and preferred for gilding projects which benefit from better coverage, purity, and durability.",
+    "“Triple Gold Leaf” is an industry term for gold leaf that is about 40% thicker than regular leaf. It can be used for indoor and outdoor applications and is ideal for all architectural projects, artwork, and religious iconography."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Thickness",
+     "Triple: about 40% thicker than regular leaf"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves. Booklets of 5 leaves are also available."
+    ],
+    [
+     "Composition",
+     "99.9% Au"
+    ],
+    [
+     "Made in",
+     "Thailand"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "GLP240LsH-5",
+     "mpn": "VLH240-5",
+     "name": "Voltarra 24k Triple Gold Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 40,
+     "weightOz": 0.5,
+     "rating": 4.67,
+     "ratingCount": 6,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240LsH-10",
+     "mpn": "VLH240-10",
+     "name": "Voltarra 24k Triple Gold Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 73,
+     "weightOz": 0.5,
+     "rating": 4.86,
+     "ratingCount": 7,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240LsH-25",
+     "mpn": "VLH240-25",
+     "name": "Voltarra 24k Triple Gold Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 183,
+     "weightOz": 0.5,
+     "rating": 4.8,
+     "ratingCount": 10,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240LsH-100",
+     "mpn": "VLH240-100",
+     "name": "Voltarra 24k Triple Gold Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 620,
+     "weightOz": 1.5,
+     "rating": 5,
+     "ratingCount": 5,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240LsH-250",
+     "mpn": "VLH240-250",
+     "name": "Voltarra 24k Triple Gold Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 1401,
+     "weightOz": 2.5,
+     "rating": 5,
+     "ratingCount": 2,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240LsH-500",
+     "mpn": "VLH240-500",
+     "name": "Voltarra 24k Triple Gold Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 2547,
+     "weightOz": 7.5,
+     "rating": 4.5,
+     "ratingCount": 2,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsH-5",
+     "mpn": "VTH240-5",
+     "name": "Voltarra 24k Triple Gold Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 41,
+     "weightOz": 0.5,
+     "rating": 4.8,
+     "ratingCount": 5,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsH-10",
+     "mpn": "VTH240-10",
+     "name": "Voltarra 24k Triple Gold Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 77,
+     "weightOz": 0.5,
+     "rating": 4.17,
+     "ratingCount": 6,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsH-25",
+     "mpn": "VTH240-25",
+     "name": "Voltarra 24k Triple Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 189,
+     "weightOz": 0.5,
+     "rating": 4.79,
+     "ratingCount": 38,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsH-100",
+     "mpn": "VTH240-100",
+     "name": "Voltarra 24k Triple Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 638,
+     "weightOz": 2,
+     "rating": 4.94,
+     "ratingCount": 18,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsH-250",
+     "mpn": "VTH240-250",
+     "name": "Voltarra 24k Triple Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1441,
+     "weightOz": 5,
+     "rating": 4.86,
+     "ratingCount": 7,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsH-500",
+     "mpn": "VTH240-500",
+     "name": "Voltarra 24k Triple Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 2620,
+     "weightOz": 12.2,
+     "rating": 4.82,
+     "ratingCount": 11,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "24k Quad Gold Leaf",
+     "page": "order-24k-gold-quad-leaf"
+    },
+    {
+     "name": "23.75k Triple Genuine Gold Leaf",
+     "page": "order-2375k-gold-triple-leaf"
+    },
+    {
+     "name": "24k Double Genuine Gold Leaf",
+     "page": "order-24k-gold-double-leaf"
+    },
+    {
+     "name": "24k & 23k Mini Bundles 100pc",
+     "page": "order-gold-leaf-mini-bundle"
+    },
+    {
+     "name": "Basic Knife",
+     "page": "order-basic-knife"
+    },
+    {
+     "name": "Gilders Cushions and Pads",
+     "page": "cat-gilding-cushions"
+    }
+   ]
+  },
+  {
+   "id": "24k-gold-quad-leaf",
+   "name": "Voltarra 24k Quad (XXXX) Thick Leaf",
+   "brand": "Voltarra",
+   "madeIn": "Thailand",
+   "karat": "24k",
+   "thickness": "Quad",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Our 24 karat quad gold leaf is 99.9% real gold. It is fantastic for gilding projects which benefit from better coverage, purity, and long lasting beauty. Highly recommended for outdoor and architectural applications where durability and longevity are needed.",
+    "“Quad Gold Leaf” is an industry term for gold leaf that is about 54% thicker and heavier than regular leaf. It can be used both indoor and outdoor and is ideal for artwork, statues, iconography and high visibility architectural projects such as steeples and domes."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Thickness",
+     "Quad: about 54% thicker than regular leaf"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves. Booklets of 5 leaves are also available."
+    ],
+    [
+     "Composition",
+     "99.9% Au"
+    ],
+    [
+     "Made in",
+     "Thailand"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "GLP240LsQ-5",
+     "mpn": "VLQ240-5",
+     "name": "Voltarra 24k Quad (XXXX) Thick Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 56,
+     "weightOz": 0.5,
+     "rating": 4.71,
+     "ratingCount": 7,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240LsQ-10",
+     "mpn": "VLQ240-10",
+     "name": "Voltarra 24k Quad (XXXX) Thick Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 95,
+     "weightOz": 0.5,
+     "rating": 4.57,
+     "ratingCount": 7,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240LsQ-25",
+     "mpn": "VLQ240-25",
+     "name": "Voltarra 24k Quad (XXXX) Thick Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 204,
+     "weightOz": 0.5,
+     "rating": 4.74,
+     "ratingCount": 23,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240LsQ-100",
+     "mpn": "VLQ240-100",
+     "name": "Voltarra 24k Quad (XXXX) Thick Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 700,
+     "weightOz": 1.5,
+     "rating": 4.82,
+     "ratingCount": 11,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240LsQ-250",
+     "mpn": "VLQ240-250",
+     "name": "Voltarra 24k Quad (XXXX) Thick Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 1590,
+     "weightOz": 2.5,
+     "rating": 4.8,
+     "ratingCount": 5,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240LsQ-500",
+     "mpn": "VLQ240-250",
+     "name": "Voltarra 24k Quad (XXXX) Thick Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 2902,
+     "weightOz": 7.5,
+     "rating": 4.75,
+     "ratingCount": 12,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsQ-5",
+     "mpn": "VTQ240-5",
+     "name": "Voltarra 24k Quad (XXXX) Thick Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 48,
+     "weightOz": 0.5,
+     "rating": 5,
+     "ratingCount": 3,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsQ-10",
+     "mpn": "VTQ240-10",
+     "name": "Voltarra 24k Quad (XXXX) Thick Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 88,
+     "weightOz": 0.5,
+     "rating": 5,
+     "ratingCount": 4,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsQ-25",
+     "mpn": "VTQ240-25",
+     "name": "Voltarra 24k Quad (XXXX) Thick Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 199,
+     "weightOz": 0.5,
+     "rating": 4.78,
+     "ratingCount": 9,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsQ-100",
+     "mpn": "VTQ240-100",
+     "name": "Voltarra 24k Quad (XXXX) Thick Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 739,
+     "weightOz": 1.5,
+     "rating": 4.75,
+     "ratingCount": 4,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsQ-250",
+     "mpn": "VTQ240-250",
+     "name": "Voltarra 24k Quad (XXXX) Thick Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1690,
+     "weightOz": 2.5,
+     "rating": 4.5,
+     "ratingCount": 2,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP240TsQ-500",
+     "mpn": "VTQ240-250",
+     "name": "Voltarra 24k Quad (XXXX) Thick Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 3101,
+     "weightOz": 7.5,
+     "rating": 4.8,
+     "ratingCount": 5,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "24k Triple Gold Leaf",
+     "page": "order-24k-gold-triple-leaf"
+    },
+    {
+     "name": "24k Double Genuine Gold Leaf",
+     "page": "order-24k-gold-double-leaf"
+    },
+    {
+     "name": "23.75k Triple Genuine Gold Leaf",
+     "page": "order-2375k-gold-triple-leaf"
+    },
+    {
+     "name": "23 Double Roll Gold",
+     "page": "order-23k-roll-gold"
+    },
+    {
+     "name": "Gilding Supplies",
+     "page": "cat-gilding-supplies"
+    },
+    {
+     "name": "Gilding Tools",
+     "page": "cat-gilding-tools"
+    }
+   ]
+  },
+  {
+   "id": "2375k-gold-leaf",
+   "name": "Voltarra 23.75k Gold Leaf",
+   "brand": "Voltarra",
+   "madeIn": "Thailand",
+   "karat": "23.75k",
+   "thickness": "Standard",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Our 23.75 karat gold leaf is 99% real gold with a touch of silver and copper, which produces a slightly softer color compared to 24k.",
+    "23.75k is one of the preferred leaves for gilding projects which require a high gold content. Commonly used for both indoor and outdoor architectural projects, artwork, and religious iconography. Double or Triple leaf is highly recommend for outdoor applications."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves. Booklets of 5 leaves are also available."
+    ],
+    [
+     "Composition",
+     "99.0% Au, 0.7% Ag, 0.3% Cu"
+    ],
+    [
+     "Made in",
+     "Thailand"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "GLP237Ls-5",
+     "mpn": "VLS237-5",
+     "name": "Voltarra 23.75k Gold Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 30,
+     "weightOz": 0.2,
+     "rating": 4.56,
+     "ratingCount": 9,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237Ls-10",
+     "mpn": "VLS237-10",
+     "name": "Voltarra 23.75k Gold Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 52,
+     "weightOz": 0.2,
+     "rating": 5,
+     "ratingCount": 10,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237Ls-25",
+     "mpn": "VLS237-25",
+     "name": "Voltarra 23.75k Gold Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 131,
+     "weightOz": 0.5,
+     "rating": 4.67,
+     "ratingCount": 27,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237Ls-100",
+     "mpn": "VLS237-100",
+     "name": "Voltarra 23.75k Gold Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 442,
+     "weightOz": 1.5,
+     "rating": 4.69,
+     "ratingCount": 13,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237Ls-250",
+     "mpn": "VLS237-250",
+     "name": "Voltarra 23.75k Gold Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 1014,
+     "weightOz": 2.5,
+     "rating": 4.8,
+     "ratingCount": 5,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237Ls-500",
+     "mpn": "VLS237-500",
+     "name": "Voltarra 23.75k Gold Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 1816,
+     "weightOz": 6.5,
+     "rating": 4.88,
+     "ratingCount": 8,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237Ts-5",
+     "mpn": "VTS237-5",
+     "name": "Voltarra 23.75k Gold Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 30,
+     "weightOz": 0.2,
+     "rating": 4.5,
+     "ratingCount": 6,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237Ts-10",
+     "mpn": "VTS237-10",
+     "name": "Voltarra 23.75k Gold Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 56,
+     "weightOz": 0.5,
+     "rating": 4.57,
+     "ratingCount": 7,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237Ts-25",
+     "mpn": "VTS237-25",
+     "name": "Voltarra 23.75k Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 137,
+     "weightOz": 0.5,
+     "rating": 4.65,
+     "ratingCount": 40,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237Ts-100",
+     "mpn": "VTS237-100",
+     "name": "Voltarra 23.75k Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 460,
+     "weightOz": 2,
+     "rating": 4.58,
+     "ratingCount": 19,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237Ts-250",
+     "mpn": "VTS237-250",
+     "name": "Voltarra 23.75k Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1053,
+     "weightOz": 5,
+     "rating": 4.57,
+     "ratingCount": 7,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237Ts-500",
+     "mpn": "VTS237-500",
+     "name": "Voltarra 23.75k Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 1888,
+     "weightOz": 12.2,
+     "rating": 4.92,
+     "ratingCount": 12,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "23.75k Double Genuine Gold Leaf",
+     "page": "order-2375k-gold-double-leaf"
+    },
+    {
+     "name": "23.75k Triple Genuine Gold Leaf",
+     "page": "order-2375k-gold-triple-leaf"
+    },
+    {
+     "name": "Gilders Clay Bole",
+     "page": "cat-clay-bole"
+    },
+    {
+     "name": "24k Gold Leaf",
+     "page": "order-24k-gold-leaf"
+    },
+    {
+     "name": "Noris Shell Gold",
+     "page": "order-shell-gold"
+    },
+    {
+     "name": "Gilding Tools",
+     "page": "cat-gilding-tools"
+    }
+   ]
+  },
+  {
+   "id": "2375k-gold-double-leaf",
+   "name": "Voltarra 23.75k Double Gold Leaf",
+   "brand": "Voltarra",
+   "madeIn": "Thailand",
+   "karat": "23.75k",
+   "thickness": "Double",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Our 23.75 karat double gold leaf is 99% real gold with a touch of silver and copper, which produces a slightly softer color compared to 24k.",
+    "“Double” is an industry term indicating that the gold is about 20% thicker than regular leaf. It is one of the preferred leafs for gilding projects which require a high gold content, better coverage, and durability. It can be used for indoor and outdoor applications. Ideal for all architectural projects, artwork, and religious iconography."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Thickness",
+     "Double: about 20% thicker than regular leaf"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves. Booklets of 5 leaves are also available."
+    ],
+    [
+     "Composition",
+     "99.0% Au, 0.7% Ag, 0.3% Cu"
+    ],
+    [
+     "Made in",
+     "Thailand"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "GLP237LsD-5",
+     "mpn": "VLD237-5",
+     "name": "Voltarra 23.75k Double Gold Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 37,
+     "weightOz": 0.2,
+     "rating": 4.67,
+     "ratingCount": 6,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237LsD-10",
+     "mpn": "VLD237-10",
+     "name": "Voltarra 23.75k Double Gold Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 61,
+     "weightOz": 0.2,
+     "rating": 4.71,
+     "ratingCount": 7,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237LsD-25",
+     "mpn": "VLD237-25",
+     "name": "Voltarra 23.75k Double Gold Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 157,
+     "weightOz": 0.5,
+     "rating": 4.76,
+     "ratingCount": 46,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237LsD-100",
+     "mpn": "VLD237-100",
+     "name": "Voltarra 23.75k Double Gold Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 527,
+     "weightOz": 1.5,
+     "rating": 4.86,
+     "ratingCount": 22,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237LsD-250",
+     "mpn": "VLD237-250",
+     "name": "Voltarra 23.75k Double Gold Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 1208,
+     "weightOz": 2.5,
+     "rating": 5,
+     "ratingCount": 8,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237LsD-500",
+     "mpn": "VLD237-500",
+     "name": "Voltarra 23.75k Double Gold Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 2168,
+     "weightOz": 7,
+     "rating": 4.71,
+     "ratingCount": 14,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237TsD-5",
+     "mpn": "VTD237-5",
+     "name": "Voltarra 23.75k Double Gold Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 36,
+     "weightOz": 0.2,
+     "rating": 4.4,
+     "ratingCount": 5,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237TsD-10",
+     "mpn": "VTD237-10",
+     "name": "Voltarra 23.75k Double Gold Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 65,
+     "weightOz": 0.2,
+     "rating": 4.67,
+     "ratingCount": 6,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237TsD-25",
+     "mpn": "VTD237-25",
+     "name": "Voltarra 23.75k Double Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 161,
+     "weightOz": 0.5,
+     "rating": 4.76,
+     "ratingCount": 115,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237TsD-100",
+     "mpn": "VTD237-100",
+     "name": "Voltarra 23.75k Double Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 546,
+     "weightOz": 2,
+     "rating": 4.87,
+     "ratingCount": 53,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237TsD-250",
+     "mpn": "VTD237-250",
+     "name": "Voltarra 23.75k Double Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1247,
+     "weightOz": 5,
+     "rating": 4.85,
+     "ratingCount": 20,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237TsD-500",
+     "mpn": "VTD237-500",
+     "name": "Voltarra 23.75k Double Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 2237,
+     "weightOz": 12.2,
+     "rating": 4.73,
+     "ratingCount": 33,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "23.75k Triple Genuine Gold Leaf",
+     "page": "order-2375k-gold-triple-leaf"
+    },
+    {
+     "name": "23.75k Genuine Gold Leaf",
+     "page": "order-2375k-gold-leaf"
+    },
+    {
+     "name": "24k Double Genuine Gold Leaf",
+     "page": "order-24k-gold-double-leaf"
+    },
+    {
+     "name": "23k Double Genuine Gold Leaf",
+     "page": "order-23k-gold-double-leaf"
+    },
+    {
+     "name": "24k Quad Gold Leaf",
+     "page": "order-24k-gold-quad-leaf"
+    },
+    {
+     "name": "Gilders Tips",
+     "page": "cat-gilders-tips"
+    }
+   ]
+  },
+  {
+   "id": "2375k-gold-triple-leaf",
+   "name": "Voltarra 23.75k Triple Gold Leaf",
+   "brand": "Voltarra",
+   "madeIn": "Thailand",
+   "karat": "23.75k",
+   "thickness": "Triple",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Our genuine 23.75k triple gold leaf is 99% gold with a touch of silver and copper, which produces a slightly softer color compared to 24k.",
+    "“Triple” is an industry term for gold leaf that is about 40% thicker than regular leaf. It is an excellent choice for gilding projects which require a high gold content, better coverage, and increased durability. It can be used for indoor and outdoor applications. Ideal for all architectural projects, artwork, and religious iconography."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Thickness",
+     "Triple: about 40% thicker than regular leaf"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves. Booklets of 5 leaves are also available."
+    ],
+    [
+     "Composition",
+     "99.0% Au, 0.7% Ag, 0.3% Cu"
+    ],
+    [
+     "Made in",
+     "Thailand"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "GLP237LsH-5",
+     "mpn": "VLH237-5",
+     "name": "Voltarra 23.75k Triple Gold Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 40,
+     "weightOz": 0.5,
+     "rating": 4.67,
+     "ratingCount": 3,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237LsH-10",
+     "mpn": "VLH237-10",
+     "name": "Voltarra 23.75k Triple Gold Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 67,
+     "weightOz": 0.5,
+     "rating": 5,
+     "ratingCount": 3,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237LsH-25",
+     "mpn": "VLH237-25",
+     "name": "Voltarra 23.75k Triple Gold Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 170,
+     "weightOz": 0.5,
+     "rating": 4.86,
+     "ratingCount": 21,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237LsH-100",
+     "mpn": "VLH237-100",
+     "name": "Voltarra 23.75k Triple Gold Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 572,
+     "weightOz": 1.5,
+     "rating": 4.6,
+     "ratingCount": 10,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237LsH-250",
+     "mpn": "VLH237-250",
+     "name": "Voltarra 23.75k Triple Gold Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 1349,
+     "weightOz": 2.5,
+     "rating": 5,
+     "ratingCount": 4,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237LsH-500",
+     "mpn": "VLH237-500",
+     "name": "Voltarra 23.75k Triple Gold Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 2435,
+     "weightOz": 7.5,
+     "rating": 4.71,
+     "ratingCount": 7,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237TsH-5",
+     "mpn": "VTH237-5",
+     "name": "Voltarra 23.75k Triple Gold Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 40,
+     "weightOz": 0.5,
+     "rating": 5,
+     "ratingCount": 3,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237TsH-10",
+     "mpn": "VTH237-10",
+     "name": "Voltarra 23.75k Triple Gold Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 72,
+     "weightOz": 0.5,
+     "rating": 4.67,
+     "ratingCount": 3,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237TsH-25",
+     "mpn": "VTH237-25",
+     "name": "Voltarra 23.75k Triple Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 177,
+     "weightOz": 0.5,
+     "rating": 4.81,
+     "ratingCount": 42,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237TsH-100",
+     "mpn": "VTH237-100",
+     "name": "Voltarra 23.75k Triple Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 603,
+     "weightOz": 2,
+     "rating": 4.85,
+     "ratingCount": 20,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237TsH-250",
+     "mpn": "VTH237-250",
+     "name": "Voltarra 23.75k Triple Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1386,
+     "weightOz": 5,
+     "rating": 5,
+     "ratingCount": 8,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP237TsH-500",
+     "mpn": "VTH237-500",
+     "name": "Voltarra 23.75k Triple Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 2512,
+     "weightOz": 12.2,
+     "rating": 4.92,
+     "ratingCount": 13,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "23.75k Double Genuine Gold Leaf",
+     "page": "order-2375k-gold-double-leaf"
+    },
+    {
+     "name": "23.75k Genuine Gold Leaf",
+     "page": "order-2375k-gold-leaf"
+    },
+    {
+     "name": "24k Double Genuine Gold Leaf",
+     "page": "order-24k-gold-double-leaf"
+    },
+    {
+     "name": "24k Quad Gold Leaf",
+     "page": "order-24k-gold-quad-leaf"
+    },
+    {
+     "name": "Gilders Fine Hair Dusters",
+     "page": "order-brushes-gilders-fine-duster"
+    },
+    {
+     "name": "Gilders Knives and Cushions",
+     "page": "cat-gilding-pads-knives"
+    }
+   ]
+  },
+  {
+   "id": "rosenoblelgoldleaf",
+   "name": "Noris 23.75k Double Rosenoble Gold Leaf",
+   "brand": "Noris",
+   "madeIn": "Germany",
+   "karat": "23.75k",
+   "thickness": "Double",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Our 23.75 Karat Rosenoble Double Gold leaf is 99% gold, ideal for outdoor and indoor applications.",
+    "Rosenoble Gold Leaf is ideal for architectural projects, artwork, calligraphy and religious iconography or gilding on glass."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves. Booklets of 5 leaves are also available."
+    ],
+    [
+     "Composition",
+     "99% Au"
+    ],
+    [
+     "Made in",
+     "Germany"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "NORRNLsD-5",
+     "mpn": "2080-48080b",
+     "name": "Noris 23.75k Double Rosenoble Gold Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 32,
+     "weightOz": 0.9,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRNLsD-10",
+     "mpn": null,
+     "name": "Noris 23.75k Double Rosenoble Gold Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 54,
+     "weightOz": 1.8,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRNLsD-25",
+     "mpn": null,
+     "name": "Noris 23.75k Double Rosenoble Gold Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 136,
+     "weightOz": 0.4,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRNLsD-100",
+     "mpn": null,
+     "name": "Noris 23.75k Double Rosenoble Gold Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 539,
+     "weightOz": 1.4,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRNLsD-250",
+     "mpn": null,
+     "name": "Noris 23.75k Double Rosenoble Gold Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 1286,
+     "weightOz": 3.4,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRNLsD-500",
+     "mpn": "2080-48080b",
+     "name": "Noris 23.75k Double Rosenoble Gold Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 2439,
+     "weightOz": 6.8,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRNTsD-5",
+     "mpn": "2080-48080t",
+     "name": "Noris 23.75k Double Rosenoble Gold Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 34,
+     "weightOz": 0.9,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRNTsD-10",
+     "mpn": null,
+     "name": "Noris 23.75k Double Rosenoble Gold Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 55,
+     "weightOz": 1.8,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRNTsD-25",
+     "mpn": null,
+     "name": "Noris 23.75k Double Rosenoble Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 138,
+     "weightOz": 0.5,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRNTsD-100",
+     "mpn": null,
+     "name": "Noris 23.75k Double Rosenoble Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 548,
+     "weightOz": 2.2,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRNTsD-250",
+     "mpn": null,
+     "name": "Noris 23.75k Double Rosenoble Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1306,
+     "weightOz": 5.5,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRNTsD-500",
+     "mpn": "2080-48080t",
+     "name": "Noris 23.75k Double Rosenoble Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 2579,
+     "weightOz": 11.1,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "Rose Gold Leaf",
+     "page": "order-rosegoldleaf"
+    },
+    {
+     "name": "Red Gold",
+     "page": "order-23k-red-gold-leaf"
+    },
+    {
+     "name": "Moon Gold",
+     "page": "order-22k-moon-gold-leaf"
+    },
+    {
+     "name": "22k Genuine Gold Leaf",
+     "page": "order-22k-gold-leaf"
+    },
+    {
+     "name": "Gilders Clay Bole",
+     "page": "cat-clay-bole"
+    },
+    {
+     "name": "DC Flatliner Striping Brush",
+     "page": "order-brushes-dc-flatliner"
+    }
+   ]
+  },
+  {
+   "id": "23k-gold-leaf",
+   "name": "Voltarra 23k Gold Leaf",
+   "brand": "Voltarra",
+   "madeIn": "Thailand",
+   "karat": "23k",
+   "thickness": "Standard",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Our 23 karat gold leaf is 95.8% real gold with a touch of silver and copper, which gives it a slightly lighter color compared to 24k and 23.75k.",
+    "Frequently used on gilding projects which require a high gold content, 23k is commonly seen on gilding picture frames, outdoor signs, and artwork. Double leaf is highly recommend for outdoor applications."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves. Booklets of 5 leaves are also available."
+    ],
+    [
+     "Composition",
+     "95.8% Au, 3.5% Ag, 0.7% Cu"
+    ],
+    [
+     "Made in",
+     "Thailand"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "GLP230Ls-5",
+     "mpn": "VLS230-5",
+     "name": "Voltarra 23k Gold Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 29,
+     "weightOz": 0.2,
+     "rating": 4.64,
+     "ratingCount": 14,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230Ls-10",
+     "mpn": "VLS230-10",
+     "name": "Voltarra 23k Gold Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 52,
+     "weightOz": 0.2,
+     "rating": 4.63,
+     "ratingCount": 16,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230Ls-25",
+     "mpn": "VLS230-25",
+     "name": "Voltarra 23k Gold Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 126,
+     "weightOz": 0.5,
+     "rating": 4.87,
+     "ratingCount": 186,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230Ls-100",
+     "mpn": "VLS230-100",
+     "name": "Voltarra 23k Gold Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 424,
+     "weightOz": 1.5,
+     "rating": 4.92,
+     "ratingCount": 86,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230Ls-250",
+     "mpn": "VLS230-250",
+     "name": "Voltarra 23k Gold Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 974,
+     "weightOz": 3,
+     "rating": 4.78,
+     "ratingCount": 32,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230Ls-500",
+     "mpn": "VLS230-500",
+     "name": "Voltarra 23k Gold Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 1747,
+     "weightOz": 6.5,
+     "rating": 4.89,
+     "ratingCount": 54,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230Ts-5",
+     "mpn": "VTS230-5",
+     "name": "Voltarra 23k Gold Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 29,
+     "weightOz": 0.2,
+     "rating": 4.86,
+     "ratingCount": 14,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230Ts-10",
+     "mpn": "VTS230-10",
+     "name": "Voltarra 23k Gold Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 53,
+     "weightOz": 0.5,
+     "rating": 4.88,
+     "ratingCount": 16,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230Ts-25",
+     "mpn": "VTS230-25",
+     "name": "Voltarra 23k Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 131,
+     "weightOz": 0.5,
+     "rating": 4.81,
+     "ratingCount": 110,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230Ts-100",
+     "mpn": "VTS230-100",
+     "name": "Voltarra 23k Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 443,
+     "weightOz": 2,
+     "rating": 4.82,
+     "ratingCount": 51,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230Ts-250",
+     "mpn": "VTS230-250",
+     "name": "Voltarra 23k Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1014,
+     "weightOz": 5,
+     "rating": 4.95,
+     "ratingCount": 19,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230Ts-500",
+     "mpn": "VTS230-500",
+     "name": "Voltarra 23k Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 1818,
+     "weightOz": 12,
+     "rating": 4.84,
+     "ratingCount": 32,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "23k Double Genuine Gold Leaf",
+     "page": "order-23k-gold-double-leaf"
+    },
+    {
+     "name": "22k Genuine Gold Leaf",
+     "page": "order-22k-gold-leaf"
+    },
+    {
+     "name": "24k & 23k Mini Bundles 100pc",
+     "page": "order-gold-leaf-mini-bundle"
+    },
+    {
+     "name": "Gold Powder",
+     "page": "order-gold-powder"
+    },
+    {
+     "name": "24k and 23k Gold Leaf Scrap",
+     "page": "order-gold-leaf-scrap"
+    },
+    {
+     "name": "Gilders Tips",
+     "page": "cat-gilders-tips"
+    }
+   ]
+  },
+  {
+   "id": "23k-gold-double-leaf",
+   "name": "Voltarra 23k Double Gold Leaf",
+   "brand": "Voltarra",
+   "madeIn": "Thailand",
+   "karat": "23k",
+   "thickness": "Double",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Our 23 karat double gold leaf is 95.8% real gold with a touch of silver and copper, which gives it a slightly lighter color compared to 24k and 23.75k.",
+    "“Double” is an industry term indicating that the gold is about 20% thicker than regular leaf. Ideal for gilding projects which require a high gold content and durability. 23k double is commonly used for architectural projects, outdoor signs, and artwork."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Thickness",
+     "Double: about 20% thicker than regular leaf"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves. Booklets of 5 leaves are also available."
+    ],
+    [
+     "Composition",
+     "95.8% Au, 3.5% Ag, 0.7% Cu"
+    ],
+    [
+     "Made in",
+     "Thailand"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "GLP230LsD-5",
+     "mpn": "VLD230-5",
+     "name": "Voltarra 23k Double Gold Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 36,
+     "weightOz": 0.5,
+     "rating": 4.8,
+     "ratingCount": 5,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230LsD-10",
+     "mpn": "VLD230-10",
+     "name": "Voltarra 23k Double Gold Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 60,
+     "weightOz": 0.5,
+     "rating": 4.67,
+     "ratingCount": 6,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230LsD-25",
+     "mpn": "VLD230-25",
+     "name": "Voltarra 23k Double Gold Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 144,
+     "weightOz": 0.5,
+     "rating": 4.61,
+     "ratingCount": 70,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230LsD-100",
+     "mpn": "VLD230-100",
+     "name": "Voltarra 23k Double Gold Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 486,
+     "weightOz": 1.5,
+     "rating": 4.58,
+     "ratingCount": 33,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230LsD-250",
+     "mpn": "VLD230-250",
+     "name": "Voltarra 23k Double Gold Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 1112,
+     "weightOz": 3,
+     "rating": 4.83,
+     "ratingCount": 12,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230LsD-500",
+     "mpn": "VLD230-500",
+     "name": "Voltarra 23k Double Gold Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 1992,
+     "weightOz": 9.5,
+     "rating": 4.9,
+     "ratingCount": 21,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230TsD-5",
+     "mpn": "VTD230-5",
+     "name": "Voltarra 23k Double Gold Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 36,
+     "weightOz": 0.5,
+     "rating": 4.8,
+     "ratingCount": 5,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230TsD-10",
+     "mpn": "VTD230-10",
+     "name": "Voltarra 23k Double Gold Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 63,
+     "weightOz": 0.5,
+     "rating": 4.83,
+     "ratingCount": 6,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230TsD-25",
+     "mpn": "VTD230-25",
+     "name": "Voltarra 23k Double Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 149,
+     "weightOz": 0.5,
+     "rating": 4.65,
+     "ratingCount": 52,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230TsD-100",
+     "mpn": "VTD230-100",
+     "name": "Voltarra 23k Double Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 502,
+     "weightOz": 1.5,
+     "rating": 4.79,
+     "ratingCount": 24,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230TsD-250",
+     "mpn": "VTD230-250",
+     "name": "Voltarra 23k Double Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1150,
+     "weightOz": 3,
+     "rating": 4.67,
+     "ratingCount": 9,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP230TsD-500",
+     "mpn": "VTD230-500",
+     "name": "Voltarra 23k Double Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 2062,
+     "weightOz": 12.2,
+     "rating": 4.8,
+     "ratingCount": 15,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "23k Genuine Gold Leaf",
+     "page": "order-23k-gold-leaf"
+    },
+    {
+     "name": "23.75k Double Genuine Gold Leaf",
+     "page": "order-2375k-gold-double-leaf"
+    },
+    {
+     "name": "24k Double Genuine Gold Leaf",
+     "page": "order-24k-gold-double-leaf"
+    },
+    {
+     "name": "Kolner Instacoll Kits",
+     "page": "order-kit-kolner"
+    },
+    {
+     "name": "23 Double Roll Gold",
+     "page": "order-23k-roll-gold"
+    },
+    {
+     "name": "Kolner Instacoll Yellow Base HA",
+     "page": "order-supplies-kolner-instacoll-base-HA-yellow"
+    }
+   ]
+  },
+  {
+   "id": "noris-23k-leaf",
+   "name": "Noris 23k Gold Leaf",
+   "brand": "Noris",
+   "madeIn": "Germany",
+   "karat": "23k",
+   "thickness": "Standard",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Noris 23 karat gold leaf averages 95.8% real gold with a touch of silver and copper, which gives it a slightly lighter color compared to 24k and 23.75k.",
+    "Frequently used on gilding projects which require a high gold content, 23k is commonly seen on gilding picture frames, outdoor signs, and artwork. Double leaf is highly recommend for outdoor applications."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Leaf types",
+     "Transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves."
+    ],
+    [
+     "Made in",
+     "Germany"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "NL230Ts-25",
+     "mpn": "2050-48080t",
+     "name": "Noris 23k Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 132,
+     "weightOz": 0.5,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NL230Ts-100",
+     "mpn": "2050-48080t",
+     "name": "Noris 23k Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 429,
+     "weightOz": 0.5,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NL230Ts-250",
+     "mpn": "2050-48080t",
+     "name": "Noris 23k Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1189,
+     "weightOz": 0.5,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NL230Ts-500",
+     "mpn": "2050-48080t",
+     "name": "Noris 23k Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 2289,
+     "weightOz": 0.5,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "Noris 23k Double Gold Leaf",
+     "page": "order-noris-23k-double-gold-leaf"
+    },
+    {
+     "name": "23.75k Triple Genuine Gold Leaf",
+     "page": "order-2375k-gold-triple-leaf"
+    },
+    {
+     "name": "Noris Rolls",
+     "page": "order-237-roll-gold"
+    },
+    {
+     "name": "Red Clay Bole",
+     "page": "order-supplies-bole-red"
+    },
+    {
+     "name": "Basic Knife",
+     "page": "order-basic-knife"
+    },
+    {
+     "name": "Basic Gilders Tip",
+     "page": "order-tip-basic"
+    }
+   ]
+  },
+  {
+   "id": "noris-23k-double-gold-leaf",
+   "name": "Noris 23k Double Gold Leaf",
+   "brand": "Noris",
+   "madeIn": "Germany",
+   "karat": "23k",
+   "thickness": "Double",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Noris 23 karat double gold leaf is 95.8% real gold with a touch of silver and copper, which gives it a slightly lighter color compared to 24k and 23.75k.",
+    "Frequently used on gilding projects which require a high gold content, 23k is commonly seen on gilding picture frames, outdoor signs, and artwork. Double leaf is highly recommended for outdoor applications."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Leaf types",
+     "Transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves."
+    ],
+    [
+     "Made in",
+     "Germany"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "NL230TsD-25",
+     "mpn": "050-080080t",
+     "name": "Noris 23k Double Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 139,
+     "weightOz": 0.5,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NL230TsD-100",
+     "mpn": "050-080080t",
+     "name": "Noris 23k Double Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 498,
+     "weightOz": 0.5,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NL230TsD-250",
+     "mpn": "050-080080t",
+     "name": "Noris 23k Double Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1239,
+     "weightOz": 0.5,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NL230TsD-500",
+     "mpn": "050-080080t",
+     "name": "Noris 23k Double Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 2339,
+     "weightOz": 0.5,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "Noris 23k Gold Leaf",
+     "page": "order-noris-23k-leaf"
+    },
+    {
+     "name": "22k Genuine Gold Leaf",
+     "page": "order-22k-gold-leaf"
+    },
+    {
+     "name": "Noris Shell Gold",
+     "page": "order-shell-gold"
+    },
+    {
+     "name": "Gold Powder",
+     "page": "order-gold-powder"
+    },
+    {
+     "name": "Slow Size",
+     "page": "order-supplies-size-slow"
+    }
+   ]
+  },
+  {
+   "id": "23k-red-gold-leaf",
+   "name": "23k Red Gold Leaf",
+   "brand": null,
+   "madeIn": "Thailand",
+   "karat": "23k",
+   "thickness": "Standard",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Our 23 karat Red Gold is 98% gold and 2% copper which gives it a slightly more reddish tone than 23k leaf made with silver.",
+    "Red gold is most commonly used on picture frames, artwork, statues and signs where a darker reddish tone is needed. With its high gold content it is ideal for outdoor projects."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves."
+    ],
+    [
+     "Composition",
+     "98% Gold, 2% Copper"
+    ],
+    [
+     "Made in",
+     "Thailand"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "GLP233Ls-5",
+     "mpn": null,
+     "name": "23k Red Gold Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 30,
+     "weightOz": 0.5,
+     "rating": 5,
+     "ratingCount": 4,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP233Ls-10",
+     "mpn": null,
+     "name": "23k Red Gold Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 51,
+     "weightOz": 0.5,
+     "rating": 5,
+     "ratingCount": 4,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP233Ls-25",
+     "mpn": null,
+     "name": "23k Red Gold Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 130,
+     "weightOz": 0.5,
+     "rating": 4.6,
+     "ratingCount": 5,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP233Ls-100",
+     "mpn": null,
+     "name": "23k Red Gold Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 441,
+     "weightOz": 1.5,
+     "rating": 5,
+     "ratingCount": 3,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP233Ls-250",
+     "mpn": null,
+     "name": "23k Red Gold Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 1008,
+     "weightOz": 2.5,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP233Ls-500",
+     "mpn": null,
+     "name": "23k Red Gold Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 1800,
+     "weightOz": 6.5,
+     "rating": 4.33,
+     "ratingCount": 3,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP233Ts-5",
+     "mpn": null,
+     "name": "23k Red Gold Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 30,
+     "weightOz": 0.5,
+     "rating": 4.5,
+     "ratingCount": 4,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP233Ts-10",
+     "mpn": null,
+     "name": "23k Red Gold Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 55,
+     "weightOz": 0.5,
+     "rating": 5,
+     "ratingCount": 4,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP233Ts-25",
+     "mpn": null,
+     "name": "23k Red Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 136,
+     "weightOz": 0.5,
+     "rating": 4.67,
+     "ratingCount": 6,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP233Ts-100",
+     "mpn": null,
+     "name": "23k Red Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 459,
+     "weightOz": 2,
+     "rating": 4.33,
+     "ratingCount": 3,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP233Ts-250",
+     "mpn": null,
+     "name": "23k Red Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1046,
+     "weightOz": 5,
+     "rating": 5,
+     "ratingCount": 2,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP233Ts-500",
+     "mpn": null,
+     "name": "23k Red Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 1872,
+     "weightOz": 12.2,
+     "rating": 5,
+     "ratingCount": 4,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "23k Genuine Gold Leaf",
+     "page": "order-23k-gold-leaf"
+    },
+    {
+     "name": "Moon Gold",
+     "page": "order-22k-moon-gold-leaf"
+    },
+    {
+     "name": "23 Double Roll Gold",
+     "page": "order-23k-roll-gold"
+    },
+    {
+     "name": "Gilders Cushions and Pads",
+     "page": "cat-gilding-cushions"
+    },
+    {
+     "name": "Gilders Tips",
+     "page": "cat-gilders-tips"
+    },
+    {
+     "name": "Agate Burnishers",
+     "page": "cat-agate-burnishers"
+    }
+   ]
+  },
   {
    "id": "22k-gold-leaf",
    "name": "Voltarra 22k Gold Leaf",
    "brand": "Voltarra",
    "madeIn": "Thailand",
+   "karat": "22k",
+   "thickness": "Standard",
    "category": {
     "name": "Genuine Gold Leaf",
     "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
    },
-   "summary": "Our 22 karat gold leaf is 91.8% real gold with silver and copper added, which gives it a lighter color than gold leaf with a higher gold content.",
-   "uses": "One of the preferred leafs for gilding projects which don't require a higher gold content. It is most commonly used on picture frames, artwork, and signs. If used outdoors, 22k leaf should be sealed.",
+   "about": [
+    "Our 22 karat gold leaf is 91.8% real gold with silver and copper added, which gives it a lighter color than gold leaf with a higher gold content.",
+    "One of the preferred leafs for gilding projects which don't require a higher gold content. It is most commonly used on picture frames, artwork, and signs. If used outdoors, 22k leaf should be sealed."
+   ],
    "specs": [
     [
      "Leaf size",
@@ -47,7 +2980,15 @@
    "bulkThreshold": 2000,
    "infoLinks": [
     {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
      "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
      "url": "https://www.goldenleafproducts.com/info-packaging.html"
     }
    ],
@@ -55,160 +2996,1108 @@
     {
      "sku": "GLP220Ls-5",
      "mpn": "VLS220-5",
-     "name": "22K Gold Leaf Booklet - 5 Loose Leaves",
+     "name": "Voltarra 22k Gold Leaf - 5 loose leaves",
      "leafType": "loose",
      "leaves": 5,
      "price": 26,
      "weightOz": 0.2,
      "rating": 4.67,
-     "ratingCount": 12
+     "ratingCount": 12,
+     "stock": "in"
     },
     {
      "sku": "GLP220Ls-10",
      "mpn": "VLS220-10",
-     "name": "22K Gold Leaf Booklet - 10 Loose Leaves",
+     "name": "Voltarra 22k Gold Leaf - 10 loose leaves",
      "leafType": "loose",
      "leaves": 10,
      "price": 48,
      "weightOz": 0.2,
      "rating": 4.79,
-     "ratingCount": 14
+     "ratingCount": 14,
+     "stock": "in"
     },
     {
      "sku": "GLP220Ls-25",
      "mpn": "VLS220-25",
-     "name": "22K Gold Leaf Book - 25 Loose Leaves",
+     "name": "Voltarra 22k Gold Leaf - 25 loose leaves",
      "leafType": "loose",
      "leaves": 25,
      "price": 119,
      "weightOz": 0.5,
      "rating": 4.8,
-     "ratingCount": 265
+     "ratingCount": 265,
+     "stock": "in"
     },
     {
      "sku": "GLP220Ls-100",
      "mpn": "VLS220-100",
-     "name": "22K Gold Leaf 4 Books - 100 Loose Leaves",
+     "name": "Voltarra 22k Gold Leaf - 100 loose leaves",
      "leafType": "loose",
      "leaves": 100,
      "price": 400,
      "weightOz": 1.5,
      "rating": 4.81,
-     "ratingCount": 123
+     "ratingCount": 123,
+     "stock": "in"
     },
     {
      "sku": "GLP220Ls-250",
      "mpn": "VLS220-250",
-     "name": "22K Gold Leaf Half Pack - 250 Loose Leaves",
+     "name": "Voltarra 22k Gold Leaf - 250 loose leaves",
      "leafType": "loose",
      "leaves": 250,
      "price": 915,
      "weightOz": 2.5,
      "rating": 4.82,
-     "ratingCount": 45
+     "ratingCount": 45,
+     "stock": "in"
     },
     {
      "sku": "GLP220Ls-500",
      "mpn": "VLS220-500",
-     "name": "22K Gold Leaf Pack - 500 Loose Leaves",
+     "name": "Voltarra 22k Gold Leaf - 500 loose leaves",
      "leafType": "loose",
      "leaves": 500,
      "price": 1643,
      "weightOz": 6.5,
      "rating": 4.88,
-     "ratingCount": 77
+     "ratingCount": 77,
+     "stock": "in"
     },
     {
      "sku": "GLP220Ts-5",
      "mpn": "VTS220-5",
-     "name": "22K Gold Leaf Booklet - 5 Transfer Leaves",
+     "name": "Voltarra 22k Gold Leaf - 5 transfer leaves",
      "leafType": "transfer",
      "leaves": 5,
      "price": 27,
      "weightOz": 0.2,
      "rating": 4.92,
-     "ratingCount": 12
+     "ratingCount": 12,
+     "stock": "in"
     },
     {
      "sku": "GLP220Ts-10",
      "mpn": "VTS220-10",
-     "name": "22K Gold Leaf Booklet - 10 Transfer Leaves",
+     "name": "Voltarra 22k Gold Leaf - 10 transfer leaves",
      "leafType": "transfer",
      "leaves": 10,
      "price": 50,
      "weightOz": 0.5,
      "rating": 4.69,
-     "ratingCount": 13
+     "ratingCount": 13,
+     "stock": "in"
     },
     {
      "sku": "GLP220Ts-25",
      "mpn": "VTS220-25",
-     "name": "22K Gold Leaf Book - 25 Transfer Leaves",
+     "name": "Voltarra 22k Gold Leaf - 25 transfer leaves",
      "leafType": "transfer",
      "leaves": 25,
      "price": 124,
      "weightOz": 0.5,
      "rating": 4.7,
-     "ratingCount": 69
+     "ratingCount": 69,
+     "stock": "in"
     },
     {
      "sku": "GLP220Ts-100",
      "mpn": "VTS220-100",
-     "name": "22K Gold Leaf 4 Books - 100 Transfer Leaves",
+     "name": "Voltarra 22k Gold Leaf - 100 transfer leaves",
      "leafType": "transfer",
      "leaves": 100,
      "price": 417,
      "weightOz": 2.0,
      "rating": 4.66,
-     "ratingCount": 32
+     "ratingCount": 32,
+     "stock": "in"
     },
     {
      "sku": "GLP220Ts-250",
      "mpn": "VTS220-250",
-     "name": "22K Gold Leaf Half Pack - 250 Transfer Leaves",
+     "name": "Voltarra 22k Gold Leaf - 250 transfer leaves",
      "leafType": "transfer",
      "leaves": 250,
      "price": 955,
      "weightOz": 5.0,
      "rating": 4.75,
-     "ratingCount": 12
+     "ratingCount": 12,
+     "stock": "in"
     },
     {
      "sku": "GLP220Ts-500",
      "mpn": "VTS220-500",
-     "name": "22K Gold Leaf Pack - 500 Transfer Leaves",
+     "name": "Voltarra 22k Gold Leaf - 500 transfer leaves",
      "leafType": "transfer",
      "leaves": 500,
      "price": 1712,
      "weightOz": 12.0,
      "rating": 4.75,
-     "ratingCount": 20
+     "ratingCount": 20,
+     "stock": "in"
     }
    ],
    "related": [
     {
      "name": "23k Gold Leaf",
-     "url": "https://www.goldenleafproducts.com/order-23k-gold-leaf.html"
+     "page": "order-23k-gold-leaf"
     },
     {
      "name": "18k Gold Leaf",
-     "url": "https://www.goldenleafproducts.com/order-18k-gold-leaf.html"
+     "page": "order-18k-gold-leaf"
     },
     {
      "name": "Rosenoble Gold Leaf",
-     "url": "https://www.goldenleafproducts.com/order-rosenoblelgoldleaf.html"
+     "page": "order-rosenoblelgoldleaf"
     },
     {
      "name": "Imitation Gold Leaf",
-     "url": "https://www.goldenleafproducts.com/order-imitation-gold-leaf.html"
+     "page": "order-imitation-gold-leaf"
     },
     {
      "name": "Kölner Squirrel Hair Gilders Tips",
-     "url": "https://www.goldenleafproducts.com/order-tip-kolner-squirrel.html"
+     "page": "order-tip-kolner-squirrel"
     },
     {
      "name": "Agate Burnishers",
-     "url": "https://www.goldenleafproducts.com/cat-agate-burnishers.html"
+     "page": "cat-agate-burnishers"
+    }
+   ]
+  },
+  {
+   "id": "22k-moon-gold-leaf",
+   "name": "22k Moon Gold Leaf",
+   "brand": null,
+   "madeIn": "Thailand",
+   "karat": "22k",
+   "thickness": "Standard",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Our 22 karat Moon Gold is 91% gold with silver and palladium added which gives it a different color tone as compared to 22k made with copper.",
+    "Moon gold is one of the preferred leafs for gilding projects which don't require a higher gold content. It is most commonly used on picture frames, artwork, statues and signs."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves."
+    ],
+    [
+     "Composition",
+     "91% Gold, 4.5% Silver, 4.5% Palladium"
+    ],
+    [
+     "Made in",
+     "Thailand"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "GLP222Ls-5",
+     "mpn": null,
+     "name": "22k Moon Gold Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 29,
+     "weightOz": 0.2,
+     "rating": 4.6,
+     "ratingCount": 5,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP222Ls-10",
+     "mpn": null,
+     "name": "22k Moon Gold Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 56,
+     "weightOz": 0.2,
+     "rating": 5,
+     "ratingCount": 6,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP222Ls-25",
+     "mpn": null,
+     "name": "22k Moon Gold Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 136,
+     "weightOz": 0.5,
+     "rating": 5,
+     "ratingCount": 5,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP222Ls-100",
+     "mpn": null,
+     "name": "22k Moon Gold Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 441,
+     "weightOz": 1.5,
+     "rating": 5,
+     "ratingCount": 3,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP222Ls-250",
+     "mpn": null,
+     "name": "22k Moon Gold Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 1008,
+     "weightOz": 2.5,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP222Ls-500",
+     "mpn": null,
+     "name": "22k Moon Gold Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 1808,
+     "weightOz": 6.5,
+     "rating": 4.67,
+     "ratingCount": 3,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP222Ts-5",
+     "mpn": null,
+     "name": "22k Moon Gold Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 29,
+     "weightOz": 0.2,
+     "rating": 4.83,
+     "ratingCount": 6,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP222Ts-10",
+     "mpn": null,
+     "name": "22k Moon Gold Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 55,
+     "weightOz": 0.5,
+     "rating": 4.86,
+     "ratingCount": 7,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP222Ts-25",
+     "mpn": null,
+     "name": "22k Moon Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 136,
+     "weightOz": 0.5,
+     "rating": 5,
+     "ratingCount": 8,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP222Ts-100",
+     "mpn": null,
+     "name": "22k Moon Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 457,
+     "weightOz": 2,
+     "rating": 4.75,
+     "ratingCount": 4,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP222Ts-250",
+     "mpn": null,
+     "name": "22k Moon Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1046,
+     "weightOz": 5,
+     "rating": 4.5,
+     "ratingCount": 2,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP222Ts-500",
+     "mpn": null,
+     "name": "22k Moon Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 1875,
+     "weightOz": 12.2,
+     "rating": 5,
+     "ratingCount": 4,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "Genuine Palladium Leaf",
+     "page": "order-palladium-leaf"
+    },
+    {
+     "name": "12k Gold Leaf",
+     "page": "order-12k-gold-leaf"
+    },
+    {
+     "name": "22k Genuine Gold Leaf",
+     "page": "order-22k-gold-leaf"
+    },
+    {
+     "name": "Topcoat Sealers",
+     "page": "cat-topcoat-sealers"
+    },
+    {
+     "name": "Gilding Brushes",
+     "page": "cat-brushes"
+    },
+    {
+     "name": "Kölner Instacoll",
+     "page": "cat-kolner-instacoll"
+    }
+   ]
+  },
+  {
+   "id": "rosegoldleaf",
+   "name": "Noris 22k Double Rose Gold Leaf",
+   "brand": "Noris",
+   "madeIn": "Germany",
+   "karat": "22k",
+   "thickness": "Double",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "22k Rose Gold contains mostly gold with copper and silver added to produce a pinkish red hue color. The silver tends to soften the color.",
+    "22k Rose Gold is used on picture frames, icons, calligraphy, art works and many other gilding projects when a pinkish red hue color tone is desired."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves. Booklets of 5 leaves are also available."
+    ],
+    [
+     "Composition",
+     "97.1% Au"
+    ],
+    [
+     "Made in",
+     "Germany"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "NORRGLsD-5",
+     "mpn": "043-080080bh",
+     "name": "Noris 22k Double Rose Gold Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 26,
+     "weightOz": 0.9,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRGLsD-10",
+     "mpn": null,
+     "name": "Noris 22k Double Rose Gold Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 49,
+     "weightOz": 1.8,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRGLsD-25",
+     "mpn": null,
+     "name": "Noris 22k Double Rose Gold Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 122,
+     "weightOz": 0.4,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRGLsD-100",
+     "mpn": null,
+     "name": "Noris 22k Double Rose Gold Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 529,
+     "weightOz": 1.4,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRGLsD-250",
+     "mpn": null,
+     "name": "Noris 22k Double Rose Gold Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 1249,
+     "weightOz": 3.4,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRGLsD-500",
+     "mpn": "043-080080b",
+     "name": "Noris 22k Double Rose Gold Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 2398,
+     "weightOz": 6.8,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRGTsD-5",
+     "mpn": "043-080080th",
+     "name": "Noris 22k Double Rose Gold Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 27,
+     "weightOz": 0.9,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRGTsD-10",
+     "mpn": null,
+     "name": "Noris 22k Double Rose Gold Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 50,
+     "weightOz": 1.8,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRGTsD-25",
+     "mpn": null,
+     "name": "Noris 22k Double Rose Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 124,
+     "weightOz": 0.5,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRGTsD-100",
+     "mpn": null,
+     "name": "Noris 22k Double Rose Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 549,
+     "weightOz": 2.2,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRGTsD-250",
+     "mpn": null,
+     "name": "Noris 22k Double Rose Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 1319,
+     "weightOz": 5.5,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    },
+    {
+     "sku": "NORRGTsD-500",
+     "mpn": "043-080080t",
+     "name": "Noris 22k Double Rose Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 2579,
+     "weightOz": 11,
+     "rating": null,
+     "ratingCount": null,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "Rosenoble Gold Leaf",
+     "page": "order-rosenoblelgoldleaf"
+    },
+    {
+     "name": "22k Genuine Gold Leaf",
+     "page": "order-22k-gold-leaf"
+    },
+    {
+     "name": "Moon Gold",
+     "page": "order-22k-moon-gold-leaf"
+    },
+    {
+     "name": "Red Gold",
+     "page": "order-23k-red-gold-leaf"
+    },
+    {
+     "name": "Agate Burnishers",
+     "page": "cat-agate-burnishers"
+    },
+    {
+     "name": "Gilders Knives",
+     "page": "cat-gilding-knives"
+    }
+   ]
+  },
+  {
+   "id": "18k-gold-leaf",
+   "name": "Voltarra 18k Gold Leaf",
+   "brand": "Voltarra",
+   "madeIn": "Thailand",
+   "karat": "18k",
+   "thickness": "Standard",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Our 18 karat gold leaf is a alloy of 75% gold and 25% silver, which gives the leaf a bright yellow color.",
+    "18k is commonly used in artwork where a lighter color is needed. Because of the high silver content of this leaf, 18k leaf MUST be sealed to keep it from tarnishing."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves. Booklets of 5 leaves are also available."
+    ],
+    [
+     "Made in",
+     "Thailand"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "GLP180Ls-5",
+     "mpn": "VLS180-5",
+     "name": "Voltarra 18k Gold Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 25,
+     "weightOz": 0.2,
+     "rating": 4.58,
+     "ratingCount": 12,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP180Ls-10",
+     "mpn": "VLS180-10",
+     "name": "Voltarra 18k Gold Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 44,
+     "weightOz": 0.2,
+     "rating": 4.77,
+     "ratingCount": 13,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP180Ls-25",
+     "mpn": "VLS180-25",
+     "name": "Voltarra 18k Gold Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 106,
+     "weightOz": 0.5,
+     "rating": 4.64,
+     "ratingCount": 22,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP180Ls-100",
+     "mpn": "VLS180-100",
+     "name": "Voltarra 18k Gold Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 347,
+     "weightOz": 1.5,
+     "rating": 4.8,
+     "ratingCount": 10,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP180Ls-250",
+     "mpn": "VLS180-250",
+     "name": "Voltarra 18k Gold Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 818,
+     "weightOz": 2.5,
+     "rating": 5,
+     "ratingCount": 4,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP180Ls-500",
+     "mpn": "VLS180-500",
+     "name": "Voltarra 18k Gold Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 1467,
+     "weightOz": 6.5,
+     "rating": 4.86,
+     "ratingCount": 7,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP180Ts-5",
+     "mpn": "VTS180-5",
+     "name": "Voltarra 18k Gold Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 26,
+     "weightOz": 0.2,
+     "rating": 4.71,
+     "ratingCount": 7,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP180Ts-10",
+     "mpn": "VTS180-10",
+     "name": "Voltarra 18k Gold Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 46,
+     "weightOz": 0.2,
+     "rating": 4.63,
+     "ratingCount": 8,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP180Ts-25",
+     "mpn": "VTS180-25",
+     "name": "Voltarra 18k Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 111,
+     "weightOz": 0.5,
+     "rating": 4.62,
+     "ratingCount": 13,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP180Ts-100",
+     "mpn": "VTS180-100",
+     "name": "Voltarra 18k Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 376,
+     "weightOz": 2,
+     "rating": 5,
+     "ratingCount": 6,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP180Ts-250",
+     "mpn": "VTS180-250",
+     "name": "Voltarra 18k Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 857,
+     "weightOz": 2,
+     "rating": 5,
+     "ratingCount": 2,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP180Ts-500",
+     "mpn": "VTS180-500",
+     "name": "Voltarra 18k Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 1538,
+     "weightOz": 12.2,
+     "rating": 4.67,
+     "ratingCount": 3,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "22k Genuine Gold Leaf",
+     "page": "order-22k-gold-leaf"
+    },
+    {
+     "name": "12k Gold Leaf",
+     "page": "order-12k-gold-leaf"
+    },
+    {
+     "name": "Kolner Large Table Gilders Cushion Pad",
+     "page": "order-tools-pad-kolner-table-large"
+    },
+    {
+     "name": "Noris 23k Gold Leaf",
+     "page": "order-noris-23k-leaf"
+    },
+    {
+     "name": "Gilding Brushes",
+     "page": "cat-brushes"
+    },
+    {
+     "name": "Kölner Miniatum 3D Gel",
+     "page": "order-supplies-kolner-miniatum-gel"
+    }
+   ]
+  },
+  {
+   "id": "12k-gold-leaf",
+   "name": "Voltarra 12k Gold Leaf",
+   "brand": "Voltarra",
+   "madeIn": "Thailand",
+   "karat": "12k",
+   "thickness": "Standard",
+   "category": {
+    "name": "Genuine Gold Leaf",
+    "url": "https://www.goldenleafproducts.com/cat-real-gold.html"
+   },
+   "about": [
+    "Our 12 karat gold leaf is 51% real gold with silver and palladium added, to produce a silver colored gold leaf with a touch of color.",
+    "12k, also known as 'White Gold', is used on gilding projects which require a silver color that is warmer than silver. It is commonly used for indoor architectural projects, picture frames, and artwork. Because of the high silver content of this leaf, all 12k leaf MUST be sealed to keep it from tarnishing."
+   ],
+   "specs": [
+    [
+     "Leaf size",
+     "3-1/8 in square"
+    ],
+    [
+     "Leaf types",
+     "Loose and transfer / patent"
+    ],
+    [
+     "Packaging",
+     "Books of 25 leaves each, or packs of 500 leaves. Booklets of 5 leaves are also available."
+    ],
+    [
+     "Composition",
+     "51.0% Au, 48.0% Ag, 1.0% Pd"
+    ],
+    [
+     "Made in",
+     "Thailand"
+    ]
+   ],
+   "leafTypes": [
+    {
+     "id": "loose",
+     "label": "Loose leaf"
+    },
+    {
+     "id": "transfer",
+     "label": "Transfer / patent leaf"
+    }
+   ],
+   "bulkThreshold": 2000,
+   "infoLinks": [
+    {
+     "label": "Material coverage",
+     "url": "https://www.goldenleafproducts.com/info-coverage.html"
+    },
+    {
+     "label": "Loose vs. transfer vs. rolls",
+     "url": "https://www.goldenleafproducts.com/info-loose-vs-transfer-vs-rolls.html"
+    },
+    {
+     "label": "Packaging",
+     "url": "https://www.goldenleafproducts.com/info-packaging.html"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "GLP120Ls-5",
+     "mpn": "VLS120-5",
+     "name": "Voltarra 12k Gold Leaf - 5 loose leaves",
+     "leafType": "loose",
+     "leaves": 5,
+     "price": 21,
+     "weightOz": 0.2,
+     "rating": 4.82,
+     "ratingCount": 11,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP120Ls-10",
+     "mpn": "VLS120-10",
+     "name": "Voltarra 12k Gold Leaf - 10 loose leaves",
+     "leafType": "loose",
+     "leaves": 10,
+     "price": 36,
+     "weightOz": 0.2,
+     "rating": 4.92,
+     "ratingCount": 12,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP120Ls-25",
+     "mpn": "VLS120-25",
+     "name": "Voltarra 12k Gold Leaf - 25 loose leaves",
+     "leafType": "loose",
+     "leaves": 25,
+     "price": 81,
+     "weightOz": 0.4,
+     "rating": 4.79,
+     "ratingCount": 29,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP120Ls-100",
+     "mpn": "VLS120-100",
+     "name": "Voltarra 12k Gold Leaf - 100 loose leaves",
+     "leafType": "loose",
+     "leaves": 100,
+     "price": 274,
+     "weightOz": 1.5,
+     "rating": 4.81,
+     "ratingCount": 27,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP120Ls-250",
+     "mpn": "VLS120-250",
+     "name": "Voltarra 12k Gold Leaf - 250 loose leaves",
+     "leafType": "loose",
+     "leaves": 250,
+     "price": 624,
+     "weightOz": 2.5,
+     "rating": 4.8,
+     "ratingCount": 10,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP120Ls-500",
+     "mpn": "VLS120-500",
+     "name": "Voltarra 12k Gold Leaf - 500 loose leaves",
+     "leafType": "loose",
+     "leaves": 500,
+     "price": 1121,
+     "weightOz": 7.5,
+     "rating": 4.94,
+     "ratingCount": 17,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP120Ts-5",
+     "mpn": "VTS120-5",
+     "name": "Voltarra 12k Gold Leaf - 5 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 5,
+     "price": 22,
+     "weightOz": 0.2,
+     "rating": 4.67,
+     "ratingCount": 9,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP120Ts-10",
+     "mpn": "VTS120-10",
+     "name": "Voltarra 12k Gold Leaf - 10 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 10,
+     "price": 40,
+     "weightOz": 0.2,
+     "rating": 4.7,
+     "ratingCount": 10,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP120Ts-25",
+     "mpn": "VTS120-25",
+     "name": "Voltarra 12k Gold Leaf - 25 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 25,
+     "price": 86,
+     "weightOz": 0.5,
+     "rating": 4.78,
+     "ratingCount": 36,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP120Ts-100",
+     "mpn": "VTS120-100",
+     "name": "Voltarra 12k Gold Leaf - 100 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 100,
+     "price": 292,
+     "weightOz": 2,
+     "rating": 4.65,
+     "ratingCount": 17,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP120Ts-250",
+     "mpn": "VTS120-250",
+     "name": "Voltarra 12k Gold Leaf - 250 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 250,
+     "price": 666,
+     "weightOz": 5,
+     "rating": 4.83,
+     "ratingCount": 6,
+     "stock": "in"
+    },
+    {
+     "sku": "GLP120Ts-500",
+     "mpn": "VTS120-500",
+     "name": "Voltarra 12k Gold Leaf - 500 transfer leaves",
+     "leafType": "transfer",
+     "leaves": 500,
+     "price": 1190,
+     "weightOz": 10.5,
+     "rating": 4.73,
+     "ratingCount": 11,
+     "stock": "in"
+    }
+   ],
+   "related": [
+    {
+     "name": "Silver Leaf",
+     "page": "order-silver-leaf"
+    },
+    {
+     "name": "Genuine Palladium Leaf",
+     "page": "order-palladium-leaf"
+    },
+    {
+     "name": "Imitation Silver Leaf",
+     "page": "order-imitation-silver-leaf"
+    },
+    {
+     "name": "Gilding Supplies",
+     "page": "cat-gilding-supplies"
+    },
+    {
+     "name": "Agate Burnishers",
+     "page": "cat-agate-burnishers"
+    },
+    {
+     "name": "Gilders Knives",
+     "page": "cat-gilding-knives"
     }
    ]
   }
