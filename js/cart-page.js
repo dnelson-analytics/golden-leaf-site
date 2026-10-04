@@ -53,7 +53,7 @@
         el("p", { class: "fine", text: "Prototype: checkout and payment are built in a later step. Nothing is ordered or charged." })));
   }
 
-  fetch("data/products.json")
+  fetch("data/products.json", { cache: "no-cache" })
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((data) => {
       const map = {};

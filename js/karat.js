@@ -58,7 +58,7 @@
       el("p", { class: "fine", text: "Swatch colors are illustrative. Photographs will replace them. Prices and stock are read from the current site." }));
   }
 
-  fetch("data/products.json")
+  fetch("data/products.json", { cache: "no-cache" })
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((data) => {
       const id = new URLSearchParams(location.search).get("k");
