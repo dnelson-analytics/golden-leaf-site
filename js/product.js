@@ -90,7 +90,8 @@
       lowNote.replaceChildren();
       if (low) {
         lowNote.append("This option is low on inventory, so it cannot be added to the cart right now. ",
-          el("a", { href: base + "index.html#help", text: "Ask about availability" }), ".");
+          el("a", { href: base + "index.html#help", text: "Ask about availability" }), " or call sales at ",
+          el("a", { href: "tel:+18888533672", text: "888-853-3672" }), ".");
       }
       bulk.replaceChildren();
       const b = product.bulk;
@@ -100,13 +101,16 @@
           bulk.append(
             el("b", { text: "That is " + leaves.toLocaleString("en-US") + " leaves. " }),
             "Orders above " + b.leaves.toLocaleString("en-US") + " leaves get special pricing. ",
-            el("a", { href: base + "index.html#help", text: "Send us a message" }), ".");
+            el("a", { href: base + "index.html#help", text: "Send us a message" }), " or call sales at ",
+            el("a", { href: "tel:+18888533672", text: "888-853-3672" }), ".");
         } else {
           bulk.append("Ordering more than " + b.leaves.toLocaleString("en-US") + " leaves? ",
-            el("a", { href: base + "index.html#help", text: "Ask about bulk pricing" }), ".");
+            el("a", { href: base + "index.html#help", text: "Ask about bulk pricing" }), " or call sales at ",
+            el("a", { href: "tel:+18888533672", text: "888-853-3672" }), ".");
         }
       } else if (b && b.note) {
-        bulk.append(b.note + " ", el("a", { href: base + "index.html#help", text: "Send us a message" }), ".");
+        bulk.append(b.note + " ", el("a", { href: base + "index.html#help", text: "Send us a message" }), " or call sales at ",
+          el("a", { href: "tel:+18888533672", text: "888-853-3672" }), ".");
       }
     }
 

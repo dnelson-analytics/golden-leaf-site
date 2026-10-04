@@ -200,6 +200,13 @@ section { padding-block: 5.5rem; }
 .ask { text-align: left; }
 .ask .section-head p { margin: 1rem 0 0; max-width: none; }
 .help { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 2.5rem; align-items: start; }
+.reach { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-bottom: 2.5rem; }
+.reach-card { background: var(--coal); border: 1px solid var(--line); padding: 1.4rem 1.5rem; display: grid; gap: 0.5rem; align-content: start; }
+.reach-card:first-child { border-color: var(--gold); }
+.reach-card h3 { margin: 0; font-family: var(--serif); font-weight: 500; font-size: 1.25rem; color: var(--gold-pale); }
+.reach-card p { margin: 0; font-size: 0.92rem; color: var(--muted); max-width: none; }
+.reach-card a { color: var(--gold-bright); border-bottom: 1px solid var(--gold); justify-self: start; }
+.reach-phone { font-family: var(--serif); font-size: 1.5rem; }
 .chips { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-bottom: 1.2rem; }
 .chips button { background: none; border: 1px solid var(--line); color: var(--ivory); font: inherit; font-size: 0.88rem; padding: 0.6rem 1rem; border-radius: 2px; cursor: pointer; transition: border-color 0.2s, background 0.2s; }
 .chips button:hover { border-color: var(--gold); }
@@ -235,7 +242,7 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--gold-bright); o
   .tiles { grid-template-columns: repeat(2, 1fr); }
   .projects { grid-template-columns: repeat(2, 1fr); }
   .craft-grid { grid-template-columns: repeat(2, 1fr); }
-  .help { grid-template-columns: 1fr; }
+  .help, .reach { grid-template-columns: 1fr; }
   .trust ul { grid-template-columns: repeat(2, 1fr); }
   .trust li:nth-child(3) { border-left: 0; }
   .trust li:nth-child(n+3) { border-top: 1px solid var(--line); }

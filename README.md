@@ -39,7 +39,7 @@ reads fully without JavaScript (see "AI readability" below).
   and shipping are not built yet.
 - To add a product, add an entry to `data/products.json` with the same shape.
 - A pack marked `"stock": "low"` shows as low inventory and cannot be added to
-  the cart; the page points to the help desk instead of "please call".
+  the cart; the page points to the help desk and the sales phone number.
 
 ## Home page notes
 

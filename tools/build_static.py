@@ -207,9 +207,9 @@ class Site:
         bulk = ""
         b = p.get("bulk")
         if b and b.get("leaves"):
-            bulk = f'<p class="bulk">Ordering more than {b["leaves"]:,} leaves? <a href="{base}index.html#help">Ask about bulk pricing</a>.</p>'
+            bulk = f'<p class="bulk">Ordering more than {b["leaves"]:,} leaves? <a href="{base}index.html#help">Ask about bulk pricing</a> or call sales at <a href="tel:+18888533672">888-853-3672</a>.</p>'
         elif b and b.get("note"):
-            bulk = f'<p class="bulk">{esc(b["note"])} <a href="{base}index.html#help">Send us a message</a>.</p>'
+            bulk = f'<p class="bulk">{esc(b["note"])} <a href="{base}index.html#help">Send us a message</a> or call sales at <a href="tel:+18888533672">888-853-3672</a>.</p>'
         eyebrow = " · ".join(x for x in [p.get("brand"), f"Made in {p['madeIn']}" if p.get("madeIn") else None] if x) or crumb["label"]
         specs = "".join(f"<dt>{esc(k)}</dt><dd>{esc(v)}</dd>" for k, v in p["specs"])
         about = "".join(f"<p>{esc(t)}</p>" for t in p["about"][1:])

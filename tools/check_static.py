@@ -108,7 +108,7 @@ def main():
             except ValueError as e:
                 errors.append(f"{rel}: invalid JSON-LD ({e})")
         for href in s.links:
-            if urlparse(href).scheme in ("http", "https", "mailto"):
+            if urlparse(href).scheme in ("http", "https", "mailto", "tel"):
                 continue
             target = urldefrag(href)[0]
             if not target:
