@@ -57,7 +57,7 @@
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((data) => {
       const map = {};
-      data.products.forEach((product) => product.variants.forEach((variant) => { map[variant.sku] = { product, variant }; }));
+      data.products.forEach((product) => product.variants.forEach((variant) => { if (!map[variant.sku]) map[variant.sku] = { product, variant }; }));
       render(map);
     })
     .catch(() => {

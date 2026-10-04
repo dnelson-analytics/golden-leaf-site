@@ -407,3 +407,16 @@ section[id] { scroll-margin-top: 4.5rem; }
 .s-palladium { background: radial-gradient(circle at 35% 30%, #f4f5f6, #b9bdc3 45%, #6f7379); }
 .s-variegated { background: conic-gradient(from 200deg at 40% 40%, #2c6f73, #7b4a8c, #c9a24a, #a8452f, #2c6f73); }
 .pdp-media.tone-variegated .foil { filter: hue-rotate(35deg) saturate(1.25) drop-shadow(0 30px 40px rgba(0, 0, 0, 0.65)); }
+
+/* Tool and supply swatches, hub pages */
+.s-agate { background: repeating-linear-gradient(115deg, #d8cfc2 0 7px, #b9ab96 7px 13px, #efe8dc 13px 17px, #9d8d77 17px 24px); }
+.s-steel { background: linear-gradient(120deg, #6c7178, #e2e5e9 40%, #ffffff 50%, #8d9299 80%); }
+.s-bristle { background: repeating-linear-gradient(90deg, #c9a56a 0 3px, #a8844a 3px 6px, #d8b97f 6px 9px); }
+.s-leather { background: radial-gradient(circle at 35% 30%, #c79a6b, #8a5f3a 55%, #5a3a21); }
+.s-kit { background: linear-gradient(135deg, #2b2418, #4a3c22 45%, #c9a24a 46%, #e9c466 54%, #2b2418 55%); }
+.s-liquid { background: radial-gradient(circle at 35% 30%, #f7dc9a, #c98a2a 55%, #7a4a12); }
+.s-powder { background: radial-gradient(circle at 35% 30%, #fbf6ea, #d9cdb4 55%, #9b8c6f); }
+.swatch-big { width: min(70%, 260px); aspect-ratio: 1; border-radius: 50%; margin: 1.2rem auto 0; box-shadow: inset 0 0 0 3px rgba(255, 255, 255, 0.4), 0 22px 40px rgba(0, 0, 0, 0.6); }
+.kback { margin: -1rem 0 1.6rem; font-size: 0.82rem; letter-spacing: 0.1em; text-transform: uppercase; }
+.kback a { color: var(--gold-bright); border-bottom: 1px solid var(--gold); }
+.kgrid.kgap { margin-top: 1rem; }

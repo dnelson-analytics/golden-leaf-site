@@ -140,7 +140,13 @@
     });
 
     const media = el("div", { class: "pdp-media tone-" + (product.tone || "gold") });
-    media.insertAdjacentHTML("afterbegin", foilSvg(product.tone));
+    if (product.media === "swatch") {
+      const big = el("div", { class: "swatch-big " + (product.swatch || ""), "aria-hidden": "true" });
+      if (product.color) big.style.background = "radial-gradient(circle at 35% 30%, rgba(255,255,255,0.55), " + product.color + " 55%)";
+      media.append(big);
+    } else {
+      media.insertAdjacentHTML("afterbegin", foilSvg(product.tone));
+    }
     media.append(el("span", { class: "foil-cap", text: "Illustration. Photography to come." }));
 
     const eyebrow = [product.brand, product.madeIn ? "Made in " + product.madeIn : null].filter(Boolean).join(" · ");
@@ -168,6 +174,7 @@
         el("dl", {}, ...product.specs.flatMap(([k, v]) => [el("dt", { text: k }), el("dd", { text: v })]))));
 
     const relatedLinks = product.related.map((r) => {
+      if (r.href) return el("li", {}, el("a", { href: r.href, text: r.name }));
       const local = r.page.startsWith("order-") && ids.has(r.page.slice(6));
       return el("li", {}, el("a", local
         ? { href: "product.html?p=" + r.page.slice(6), text: r.name }
@@ -176,7 +183,7 @@
     const related = el("section", { class: "pdp-related" },
       el("h2", { text: "You may also be interested in" }),
       el("ul", {}, ...relatedLinks),
-      el("p", { class: "fine", text: "Leaf pages open here. Other items open the current site until their pages are built." }));
+      el("p", { class: "fine", text: "These pages open here. A few items open the current site." }));
 
     const crumbs = el("nav", { class: "crumbs", "aria-label": "Breadcrumb" },
       el("a", { href: "index.html", text: "Home" }), " / ",

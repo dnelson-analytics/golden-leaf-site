@@ -18,44 +18,71 @@
     return "k" + id.replace(".", "").replace("k", "");
   }
 
+  function dotFor(p) {
+    const dot = el("div", { class: "dot " + (p.swatch || (p.karat ? karatDot(p.karat) : "k24")), "aria-hidden": "true" });
+    if (p.color) dot.style.background = "radial-gradient(circle at 35% 30%, rgba(255,255,255,0.55), " + p.color + " 55%)";
+    return dot;
+  }
+
   function render(data, group, isKarat) {
     const title = isKarat ? group.label + " Genuine Gold Leaf" : group.label;
     document.title = title + " - Golden Leaf Products Prototype";
     const byId = Object.fromEntries(data.products.map((p) => [p.id, p]));
+    const byCollection = Object.fromEntries(data.collections.map((c) => [c.id, c]));
     const param = isKarat ? "k" : "c";
-    const siblings = isKarat ? data.karats : data.collections;
+    const parent = !isKarat && group.parent ? byCollection[group.parent] : null;
+    const siblings = isKarat ? data.karats : data.collections.filter((c) => (c.parent || null) === (group.parent || null));
     const swatch = isKarat ? karatDot(group.id) : group.swatch;
 
     const tabs = el("nav", { class: "ktabs", "aria-label": isKarat ? "Karat" : "Collection" },
       ...siblings.map((s) => el("a", { href: "karat.html?" + param + "=" + encodeURIComponent(s.id), "aria-current": s.id === group.id ? "page" : null, text: s.label })));
 
+    const back = parent
+      ? el("p", { class: "kback" }, el("a", { href: "karat.html?c=" + parent.id, text: "← " + parent.label }))
+      : null;
+
     const head = el("div", { class: "khead" },
       el("div", { class: "dot " + swatch, "aria-hidden": "true" }),
       el("div", {},
-        el("p", { class: "eyebrow", text: isKarat ? "Genuine gold leaf" : "Collection" }),
+        el("p", { class: "eyebrow", text: isKarat ? "Genuine gold leaf" : parent ? parent.label : "Collection" }),
         el("h1", { text: isKarat ? group.label + " gold leaf" : group.label }),
         el("p", { class: "lede", text: group.blurb })));
+
+    const childCards = (group.children || []).map((cid) => {
+      const c = byCollection[cid];
+      return el("a", { class: "kcard", href: "karat.html?c=" + c.id },
+        el("div", { class: "dot " + c.swatch, "aria-hidden": "true" }),
+        el("h3", { text: c.label }),
+        el("p", { class: "kfacts", text: c.blurb }),
+        el("p", { class: "kprice" }, el("b", { text: String(c.products.length) }), el("small", { text: c.products.length === 1 ? " product" : " products" })),
+        el("span", { class: "go", text: "Browse" }));
+    });
 
     const cards = group.products.map((pid) => {
       const p = byId[pid];
       const prices = p.variants.map((v) => v.price);
       const low = p.variants.some((v) => v.stock === "low");
       const comp = (p.specs.find((s) => s[0] === "Composition") || [])[1];
-      const dot = p.swatch || (p.karat ? karatDot(p.karat) : "k24");
+      const single = p.variants.length === 1;
       return el("a", { class: "kcard", href: "product.html?p=" + p.id },
-        el("div", { class: "dot " + dot, "aria-hidden": "true" }),
+        dotFor(p),
         el("h3", { text: p.name }),
         el("p", { class: "kfacts", text: p.facts.join(" · ") }),
         comp ? el("p", { class: "kcomp", text: comp }) : null,
-        el("p", { class: "kprice" }, el("small", { text: "From " }), el("b", { text: money.format(Math.min(...prices)) }), el("small", { text: " · " + p.variants.length + " " + p.unitNoun })),
-        low ? el("span", { class: "klow", text: "Some options low on inventory" }) : null,
-        el("span", { class: "go", text: "View options" }));
+        el("p", { class: "kprice" },
+          el("small", { text: single ? "" : "From " }),
+          el("b", { text: money.format(Math.min(...prices)) }),
+          single ? null : el("small", { text: " · " + p.variants.length + " " + p.unitNoun })),
+        low ? el("span", { class: "klow", text: single ? "Low inventory" : "Some options low on inventory" }) : null,
+        el("span", { class: "go", text: single ? "View product" : "View options" }));
     });
 
-    root.replaceChildren(
-      tabs, head,
-      el("div", { class: "kgrid" }, ...cards),
-      el("p", { class: "fine", text: "Swatch colors are illustrative. Photographs will replace them. Prices and stock are read from the current site." }));
+    root.replaceChildren(...[
+      tabs, back, head,
+      childCards.length ? el("div", { class: "kgrid" }, ...childCards) : null,
+      cards.length ? el("div", { class: "kgrid" + (childCards.length ? " kgap" : "") }, ...cards) : null,
+      el("p", { class: "fine", text: "Swatch colors are illustrative. Photographs will replace them. Prices and stock are read from the current site." }),
+    ].filter(Boolean));
   }
 
   fetch("data/products.json", { cache: "no-cache" })
