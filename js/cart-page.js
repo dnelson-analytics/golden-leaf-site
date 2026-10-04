@@ -21,7 +21,7 @@
         el("div", { class: "cart-empty" },
           el("h2", { text: "Your cart is empty" }),
           el("p", { text: "Add some gold leaf to get started." }),
-          el("a", { class: "btn btn-gold", href: "product.html?p=22k-gold-leaf", text: "Shop 22k gold leaf" })));
+          el("a", { class: "btn btn-gold", href: "p/22k-gold-leaf/", text: "Shop 22k gold leaf" })));
       return;
     }
 
@@ -36,7 +36,7 @@
       rm.addEventListener("click", () => { GLPCart.remove(line.sku); render(variantBySku); });
       return el("li", { class: "cart-line" },
         el("div", { class: "cl-info" },
-          el("a", { href: "product.html?p=" + product.id, text: variant.name }),
+          el("a", { href: "p/" + product.id + "/", text: variant.name }),
           el("small", { text: "SKU " + variant.sku + " · " + money.format(variant.price) + " each" })),
         el("label", { class: "qty" }, "Qty", qty),
         el("b", { class: "cl-total", text: money.format(lineTotal) }),

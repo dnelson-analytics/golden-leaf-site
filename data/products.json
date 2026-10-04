@@ -536,7 +536,7 @@
    "swatch": null,
    "crumb": {
     "label": "24k gold leaf",
-    "url": "karat.html?k=24k"
+    "url": "k/24k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -782,7 +782,7 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ],
    "media": "foil",
@@ -798,7 +798,7 @@
    "swatch": null,
    "crumb": {
     "label": "24k gold leaf",
-    "url": "karat.html?k=24k"
+    "url": "k/24k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -1040,7 +1040,7 @@
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "23 Double Roll Gold",
@@ -1064,7 +1064,7 @@
    "swatch": null,
    "crumb": {
     "label": "24k gold leaf",
-    "url": "karat.html?k=24k"
+    "url": "k/24k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -1314,7 +1314,7 @@
     },
     {
      "name": "Gilders Cushions and Pads",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     }
    ],
    "media": "foil",
@@ -1330,7 +1330,7 @@
    "swatch": null,
    "crumb": {
     "label": "24k gold leaf",
-    "url": "karat.html?k=24k"
+    "url": "k/24k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -1576,11 +1576,11 @@
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     },
     {
      "name": "Gilding Tools",
-     "href": "karat.html?c=gilding-tools"
+     "href": "c/gilding-tools/"
     }
    ],
    "media": "foil",
@@ -1596,7 +1596,7 @@
    "swatch": null,
    "crumb": {
     "label": "23.75k gold leaf",
-    "url": "karat.html?k=23.75k"
+    "url": "k/23.75k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -1830,7 +1830,7 @@
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "name": "24k Gold Leaf",
@@ -1842,7 +1842,7 @@
     },
     {
      "name": "Gilding Tools",
-     "href": "karat.html?c=gilding-tools"
+     "href": "c/gilding-tools/"
     }
    ],
    "media": "foil",
@@ -1858,7 +1858,7 @@
    "swatch": null,
    "crumb": {
     "label": "23.75k gold leaf",
-    "url": "karat.html?k=23.75k"
+    "url": "k/23.75k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -2108,7 +2108,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     }
    ],
    "media": "foil",
@@ -2124,7 +2124,7 @@
    "swatch": null,
    "crumb": {
     "label": "23.75k gold leaf",
-    "url": "karat.html?k=23.75k"
+    "url": "k/23.75k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -2374,7 +2374,7 @@
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     }
    ],
    "media": "foil",
@@ -2390,7 +2390,7 @@
    "swatch": null,
    "crumb": {
     "label": "23.75k gold leaf",
-    "url": "karat.html?k=23.75k"
+    "url": "k/23.75k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -2632,7 +2632,7 @@
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "name": "DC Flatliner Striping Brush",
@@ -2652,7 +2652,7 @@
    "swatch": null,
    "crumb": {
     "label": "23k gold leaf",
-    "url": "karat.html?k=23k"
+    "url": "k/23k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -2898,7 +2898,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     }
    ],
    "media": "foil",
@@ -2914,7 +2914,7 @@
    "swatch": null,
    "crumb": {
     "label": "23k gold leaf",
-    "url": "karat.html?k=23k"
+    "url": "k/23k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -3180,7 +3180,7 @@
    "swatch": null,
    "crumb": {
     "label": "23k gold leaf",
-    "url": "karat.html?k=23k"
+    "url": "k/23k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -3326,7 +3326,7 @@
    "swatch": null,
    "crumb": {
     "label": "23k gold leaf",
-    "url": "karat.html?k=23k"
+    "url": "k/23k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -3468,7 +3468,7 @@
    "swatch": null,
    "crumb": {
     "label": "23k gold leaf",
-    "url": "karat.html?k=23k"
+    "url": "k/23k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -3706,15 +3706,15 @@
     },
     {
      "name": "Gilders Cushions and Pads",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ],
    "media": "foil",
@@ -3730,7 +3730,7 @@
    "swatch": null,
    "crumb": {
     "label": "22k gold leaf",
-    "url": "karat.html?k=22k"
+    "url": "k/22k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -3976,7 +3976,7 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ],
    "media": "foil",
@@ -3992,7 +3992,7 @@
    "swatch": null,
    "crumb": {
     "label": "22k gold leaf",
-    "url": "karat.html?k=22k"
+    "url": "k/22k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -4230,11 +4230,11 @@
     },
     {
      "name": "Topcoat Sealers",
-     "href": "karat.html?c=topcoat-sealers"
+     "href": "c/topcoat-sealers/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Kölner Instacoll",
@@ -4254,7 +4254,7 @@
    "swatch": null,
    "crumb": {
     "label": "22k gold leaf",
-    "url": "karat.html?k=22k"
+    "url": "k/22k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -4496,11 +4496,11 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     },
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     }
    ],
    "media": "foil",
@@ -4516,7 +4516,7 @@
    "swatch": null,
    "crumb": {
     "label": "18k gold leaf",
-    "url": "karat.html?k=18k"
+    "url": "k/18k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -4754,7 +4754,7 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Kölner Miniatum 3D Gel",
@@ -4774,7 +4774,7 @@
    "swatch": null,
    "crumb": {
     "label": "12k gold leaf",
-    "url": "karat.html?k=12k"
+    "url": "k/12k/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -5012,15 +5012,15 @@
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     },
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     }
    ],
    "media": "foil",
@@ -5036,7 +5036,7 @@
    "swatch": "s-silver",
    "crumb": {
     "label": "Silver, copper & palladium",
-    "url": "karat.html?c=silver-copper-palladium"
+    "url": "c/silver-copper-palladium/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -5274,7 +5274,7 @@
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     }
    ],
    "media": "foil",
@@ -5290,7 +5290,7 @@
    "swatch": "s-copper",
    "crumb": {
     "label": "Silver, copper & palladium",
-    "url": "karat.html?c=silver-copper-palladium"
+    "url": "c/silver-copper-palladium/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -5456,7 +5456,7 @@
     },
     {
      "name": "Variegated Leaf",
-     "href": "karat.html?c=variegated-leaf"
+     "href": "c/variegated-leaf/"
     },
     {
      "name": "Acrylic Topcoat Clear Gloss",
@@ -5468,11 +5468,11 @@
     },
     {
      "name": "Imitation Gold and Silver Leaf",
-     "href": "karat.html?c=imitation"
+     "href": "c/imitation/"
     },
     {
      "name": "Gilding Tools",
-     "href": "karat.html?c=gilding-tools"
+     "href": "c/gilding-tools/"
     }
    ],
    "media": "foil",
@@ -5488,7 +5488,7 @@
    "swatch": "s-palladium",
    "crumb": {
     "label": "Silver, copper & palladium",
-    "url": "karat.html?c=silver-copper-palladium"
+    "url": "c/silver-copper-palladium/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -5666,11 +5666,11 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     }
    ],
    "media": "foil",
@@ -5686,7 +5686,7 @@
    "swatch": "s-imitation",
    "crumb": {
     "label": "Imitation gold & silver",
-    "url": "karat.html?c=imitation"
+    "url": "c/imitation/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -5856,7 +5856,7 @@
     },
     {
      "name": "23k Gold Leaf",
-     "href": "karat.html?k=23k"
+     "href": "k/23k/"
     },
     {
      "name": "Imitation Silver Leaf",
@@ -5864,11 +5864,11 @@
     },
     {
      "name": "Variegated Leaf",
-     "href": "karat.html?c=variegated-leaf"
+     "href": "c/variegated-leaf/"
     },
     {
      "name": "Gilding Tools",
-     "href": "karat.html?c=gilding-tools"
+     "href": "c/gilding-tools/"
     }
    ],
    "media": "foil",
@@ -5884,7 +5884,7 @@
    "swatch": "s-silver",
    "crumb": {
     "label": "Imitation gold & silver",
-    "url": "karat.html?c=imitation"
+    "url": "c/imitation/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -6062,7 +6062,7 @@
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     }
    ],
    "media": "foil",
@@ -6078,7 +6078,7 @@
    "swatch": "s-variegated",
    "crumb": {
     "label": "Variegated leaf",
-    "url": "karat.html?c=variegated-leaf"
+    "url": "c/variegated-leaf/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -6204,7 +6204,7 @@
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     }
    ],
    "media": "foil",
@@ -6220,7 +6220,7 @@
    "swatch": "s-variegated",
    "crumb": {
     "label": "Variegated leaf",
-    "url": "karat.html?c=variegated-leaf"
+    "url": "c/variegated-leaf/"
    },
    "groupLabel": "Leaf type",
    "sizeLabel": "Pack size",
@@ -6346,7 +6346,7 @@
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     }
    ],
    "media": "foil",
@@ -6362,7 +6362,7 @@
    "swatch": "k23",
    "crumb": {
     "label": "Roll leaf",
-    "url": "karat.html?c=roll-leaf"
+    "url": "c/roll-leaf/"
    },
    "groupLabel": null,
    "sizeLabel": "Roll width",
@@ -6534,7 +6534,7 @@
    "swatch": "k2375",
    "crumb": {
     "label": "Roll leaf",
-    "url": "karat.html?c=roll-leaf"
+    "url": "c/roll-leaf/"
    },
    "groupLabel": null,
    "sizeLabel": "Roll width",
@@ -6682,7 +6682,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "Kölner Small Double Edged Gilders Knife",
@@ -6690,7 +6690,7 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ],
    "media": "foil",
@@ -6706,7 +6706,7 @@
    "swatch": "s-copper",
    "crumb": {
     "label": "Roll leaf",
-    "url": "karat.html?c=roll-leaf"
+    "url": "c/roll-leaf/"
    },
    "groupLabel": null,
    "sizeLabel": "Roll width",
@@ -6842,11 +6842,11 @@
     },
     {
      "name": "Imitation Gold and Silver Leaf",
-     "href": "karat.html?c=imitation"
+     "href": "c/imitation/"
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Gold Roller 2\"",
@@ -6866,7 +6866,7 @@
    "swatch": "s-imitation",
    "crumb": {
     "label": "Roll leaf",
-    "url": "karat.html?c=roll-leaf"
+    "url": "c/roll-leaf/"
    },
    "groupLabel": null,
    "sizeLabel": "Roll width",
@@ -7004,11 +7004,11 @@
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     }
    ],
    "media": "foil",
@@ -7024,7 +7024,7 @@
    "swatch": "s-silver",
    "crumb": {
     "label": "Roll leaf",
-    "url": "karat.html?c=roll-leaf"
+    "url": "c/roll-leaf/"
    },
    "groupLabel": null,
    "sizeLabel": "Roll width",
@@ -7169,7 +7169,7 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ],
    "media": "foil",
@@ -7185,7 +7185,7 @@
    "swatch": "k2375",
    "crumb": {
     "label": "Powder, shell, flake & scrap",
-    "url": "karat.html?c=specialty-gold"
+    "url": "c/specialty-gold/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -7312,7 +7312,7 @@
    "swatch": "k24",
    "crumb": {
     "label": "Powder, shell, flake & scrap",
-    "url": "karat.html?c=specialty-gold"
+    "url": "c/specialty-gold/"
    },
    "groupLabel": "Karat",
    "sizeLabel": "Weight",
@@ -7410,7 +7410,7 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     },
     {
      "name": "Detail Brushes",
@@ -7442,7 +7442,7 @@
    "swatch": "k24",
    "crumb": {
     "label": "Powder, shell, flake & scrap",
-    "url": "karat.html?c=specialty-gold"
+    "url": "c/specialty-gold/"
    },
    "groupLabel": null,
    "sizeLabel": "Karat",
@@ -7532,11 +7532,11 @@
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "24k and 23k Gold Leaf Scrap",
@@ -7556,7 +7556,7 @@
    "swatch": "k24",
    "crumb": {
     "label": "Powder, shell, flake & scrap",
-    "url": "karat.html?c=specialty-gold"
+    "url": "c/specialty-gold/"
    },
    "groupLabel": null,
    "sizeLabel": "Weight",
@@ -7640,7 +7640,7 @@
     },
     {
      "name": "24k Gold Leaf",
-     "href": "karat.html?k=24k"
+     "href": "k/24k/"
     },
     {
      "name": "24k Quad Gold Leaf",
@@ -7668,7 +7668,7 @@
    "swatch": "k24",
    "crumb": {
     "label": "Powder, shell, flake & scrap",
-    "url": "karat.html?c=specialty-gold"
+    "url": "c/specialty-gold/"
    },
    "groupLabel": "Karat",
    "sizeLabel": "Weight",
@@ -7790,11 +7790,11 @@
     },
     {
      "name": "Imitation Gold and Silver Leaf",
-     "href": "karat.html?c=imitation"
+     "href": "c/imitation/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     }
    ],
    "media": "foil",
@@ -7812,7 +7812,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gesso, kaolin & more",
-    "url": "karat.html?c=other-supplies"
+    "url": "c/other-supplies/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -7845,15 +7845,15 @@
    "related": [
     {
      "name": "24k Gold Leaf",
-     "href": "karat.html?k=24k"
+     "href": "k/24k/"
     },
     {
      "name": "23.75k Gold Leaf",
-     "href": "karat.html?k=23.75k"
+     "href": "k/23.75k/"
     },
     {
      "name": "23k Gold Leaf",
-     "href": "karat.html?k=23k"
+     "href": "k/23k/"
     },
     {
      "page": "order-22k-gold-leaf",
@@ -7881,7 +7881,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gesso, kaolin & more",
-    "url": "karat.html?c=other-supplies"
+    "url": "c/other-supplies/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -7951,7 +7951,7 @@
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "page": "order-brushes-ox-hair-size-brush",
@@ -7959,7 +7959,7 @@
     },
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     },
     {
      "name": "Genuine Gold Leaf",
@@ -7967,7 +7967,7 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ]
   },
@@ -7983,7 +7983,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's tips",
-    "url": "karat.html?c=gilders-tips"
+    "url": "c/gilders-tips/"
    },
    "groupLabel": null,
    "sizeLabel": "Option",
@@ -8050,7 +8050,7 @@
     },
     {
      "name": "Basecoat Primer Sealer",
-     "href": "karat.html?c=basecoat-primer-sealer"
+     "href": "c/basecoat-primer-sealer/"
     },
     {
      "page": "order-supplies-gelatin",
@@ -8070,7 +8070,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Other tools",
-    "url": "karat.html?c=other-tools"
+    "url": "c/other-tools/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -8120,15 +8120,15 @@
     },
     {
      "name": "Gilders Cushions and Pads",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     },
     {
      "name": "Variegated Leaf",
-     "href": "karat.html?c=variegated-leaf"
+     "href": "c/variegated-leaf/"
     }
    ]
   },
@@ -8144,7 +8144,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Other tools",
-    "url": "karat.html?c=other-tools"
+    "url": "c/other-tools/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -8198,7 +8198,7 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "page": "order-brushes-taklon",
@@ -8218,7 +8218,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Other tools",
-    "url": "karat.html?c=other-tools"
+    "url": "c/other-tools/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -8292,7 +8292,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Other tools",
-    "url": "karat.html?c=other-tools"
+    "url": "c/other-tools/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -8329,7 +8329,7 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "page": "order-supplies-size-water",
@@ -8337,11 +8337,11 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     }
    ]
   },
@@ -8357,7 +8357,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Other tools",
-    "url": "karat.html?c=other-tools"
+    "url": "c/other-tools/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -8402,7 +8402,7 @@
     },
     {
      "name": "Gilders Size and Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "page": "order-tools-kolner-instacoll-tissues",
@@ -8430,7 +8430,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -8485,11 +8485,11 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "name": "Genuine Gold, Silver, Copper and Palladium Leaf",
@@ -8497,7 +8497,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     }
    ]
   },
@@ -8513,7 +8513,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -8572,7 +8572,7 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "All Leaf",
@@ -8596,7 +8596,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gesso, kaolin & more",
-    "url": "karat.html?c=other-supplies"
+    "url": "c/other-supplies/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -8648,11 +8648,11 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "24k Gold Leaf",
-     "href": "karat.html?k=24k"
+     "href": "k/24k/"
     },
     {
      "page": "order-supplies-size-quick",
@@ -8672,7 +8672,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -8741,15 +8741,15 @@
     },
     {
      "name": "Basecoat Primer Sealer",
-     "href": "karat.html?c=basecoat-primer-sealer"
+     "href": "c/basecoat-primer-sealer/"
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     }
    ]
   },
@@ -8765,7 +8765,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Color and size",
@@ -8840,7 +8840,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     }
    ]
   },
@@ -8856,7 +8856,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Type and size",
@@ -8944,7 +8944,7 @@
     },
     {
      "name": "24k Gold Leaf",
-     "href": "karat.html?k=24k"
+     "href": "k/24k/"
     }
    ]
   },
@@ -8960,7 +8960,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -9014,7 +9014,7 @@
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Genuine Gold Leaf",
@@ -9038,7 +9038,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -9129,7 +9129,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -9209,15 +9209,15 @@
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     }
    ]
   },
@@ -9233,7 +9233,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner gilding products",
-    "url": "karat.html?c=kolner-gilding-products"
+    "url": "c/kolner-gilding-products/"
    },
    "groupLabel": null,
    "sizeLabel": "Color",
@@ -9330,7 +9330,7 @@
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "page": "order-brushes-taklon",
@@ -9350,7 +9350,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Caselo casein paints",
-    "url": "karat.html?c=caselo-paints"
+    "url": "c/caselo-paints/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -9441,7 +9441,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gesso, kaolin & more",
-    "url": "karat.html?c=other-supplies"
+    "url": "c/other-supplies/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -9506,7 +9506,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's tips",
-    "url": "karat.html?c=gilders-tips"
+    "url": "c/gilders-tips/"
    },
    "groupLabel": null,
    "sizeLabel": "Length",
@@ -9633,11 +9633,11 @@
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ]
   },
@@ -9653,7 +9653,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's cushions",
-    "url": "karat.html?c=gilders-cushions"
+    "url": "c/gilders-cushions/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -9703,7 +9703,7 @@
     },
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     },
     {
      "name": "Genuine Gold, Silver, Copper and Palladium Leaf",
@@ -9727,7 +9727,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -9785,11 +9785,11 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     }
    ]
   },
@@ -9805,7 +9805,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Topcoat sealers",
-    "url": "karat.html?c=topcoat-sealers"
+    "url": "c/topcoat-sealers/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -9886,11 +9886,11 @@
    "related": [
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Basecoat Primer Sealer",
-     "href": "karat.html?c=basecoat-primer-sealer"
+     "href": "c/basecoat-primer-sealer/"
     },
     {
      "page": "order-supplies-acrylic-topcoat-satin",
@@ -9898,7 +9898,7 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Genuine Gold, Silver, Copper and Palladium Leaf",
@@ -9922,7 +9922,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner gilding products",
-    "url": "karat.html?c=kolner-gilding-products"
+    "url": "c/kolner-gilding-products/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -9997,7 +9997,7 @@
     },
     {
      "name": "Gilding Tools",
-     "href": "karat.html?c=gilding-tools"
+     "href": "c/gilding-tools/"
     }
    ]
   },
@@ -10013,7 +10013,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilding brushes",
-    "url": "karat.html?c=gilding-brushes"
+    "url": "c/gilding-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -10136,11 +10136,11 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     },
     {
      "name": "Genuine Gold, Silver, Copper and Palladium Leaf",
@@ -10160,7 +10160,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilding brushes",
-    "url": "karat.html?c=gilding-brushes"
+    "url": "c/gilding-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Width",
@@ -10240,19 +10240,19 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     }
    ]
   },
@@ -10268,7 +10268,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilding brushes",
-    "url": "karat.html?c=gilding-brushes"
+    "url": "c/gilding-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -10387,7 +10387,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "page": "order-brushes-japan-brushes",
@@ -10395,7 +10395,7 @@
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Kölner Instacoll",
@@ -10415,7 +10415,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -10512,7 +10512,7 @@
     },
     {
      "name": "Basecoat Primer Sealer",
-     "href": "karat.html?c=basecoat-primer-sealer"
+     "href": "c/basecoat-primer-sealer/"
     },
     {
      "name": "Genuine Gold, Silver, Copper and Palladium Leaf",
@@ -10532,7 +10532,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -10625,11 +10625,11 @@
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Genuine Gold, Silver, Copper and Palladium Leaf",
@@ -10649,7 +10649,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -10750,7 +10750,7 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     }
    ]
   },
@@ -10766,7 +10766,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -10822,15 +10822,15 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Gilders Cushions and Pads",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     }
    ]
   },
@@ -10846,7 +10846,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -10900,15 +10900,15 @@
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     }
    ]
   },
@@ -10924,7 +10924,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -10982,7 +10982,7 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "page": "order-silver-leaf",
@@ -11002,7 +11002,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Size & adhesives",
-    "url": "karat.html?c=size-and-adhesives"
+    "url": "c/size-and-adhesives/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -11048,7 +11048,7 @@
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     },
     {
      "page": "order-palladium-leaf",
@@ -11060,7 +11060,7 @@
     },
     {
      "name": "Pinstriping Brushes",
-     "href": "karat.html?c=pinstriping-brushes"
+     "href": "c/pinstriping-brushes/"
     },
     {
      "page": "order-supplies-size-quick",
@@ -11080,7 +11080,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Basecoat primer sealer",
-    "url": "karat.html?c=basecoat-primer-sealer"
+    "url": "c/basecoat-primer-sealer/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -11156,11 +11156,11 @@
     },
     {
      "name": "Topcoat Sealers",
-     "href": "karat.html?c=topcoat-sealers"
+     "href": "c/topcoat-sealers/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Genuine Gold Leaf",
@@ -11168,7 +11168,7 @@
     },
     {
      "name": "Imitation Gold and Silver Leaf",
-     "href": "karat.html?c=imitation"
+     "href": "c/imitation/"
     }
    ]
   },
@@ -11184,7 +11184,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Basecoat primer sealer",
-    "url": "karat.html?c=basecoat-primer-sealer"
+    "url": "c/basecoat-primer-sealer/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -11256,15 +11256,15 @@
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Topcoat Sealers",
-     "href": "karat.html?c=topcoat-sealers"
+     "href": "c/topcoat-sealers/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Genuine Gold Leaf",
@@ -11288,7 +11288,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Basecoat primer sealer",
-    "url": "karat.html?c=basecoat-primer-sealer"
+    "url": "c/basecoat-primer-sealer/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -11360,15 +11360,15 @@
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Topcoat Sealers",
-     "href": "karat.html?c=topcoat-sealers"
+     "href": "c/topcoat-sealers/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Genuine Gold Leaf",
@@ -11376,7 +11376,7 @@
     },
     {
      "name": "Imitation Gold and Silver Leaf",
-     "href": "karat.html?c=imitation"
+     "href": "c/imitation/"
     }
    ]
   },
@@ -11392,7 +11392,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Topcoat sealers",
-    "url": "karat.html?c=topcoat-sealers"
+    "url": "c/topcoat-sealers/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -11460,11 +11460,11 @@
    "related": [
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Basecoat Primer Sealer",
-     "href": "karat.html?c=basecoat-primer-sealer"
+     "href": "c/basecoat-primer-sealer/"
     },
     {
      "page": "order-supplies-acrylic-topcoat-gloss",
@@ -11472,7 +11472,7 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     },
     {
      "name": "Genuine Gold, Silver, Copper and Palladium Leaf",
@@ -11480,7 +11480,7 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     }
    ]
   },
@@ -11496,7 +11496,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Topcoat sealers",
-    "url": "karat.html?c=topcoat-sealers"
+    "url": "c/topcoat-sealers/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -11576,7 +11576,7 @@
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     },
     {
      "page": "order-silver-leaf",
@@ -11584,7 +11584,7 @@
     },
     {
      "name": "Gilding Tools",
-     "href": "karat.html?c=gilding-tools"
+     "href": "c/gilding-tools/"
     }
    ]
   },
@@ -11600,7 +11600,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Topcoat sealers",
-    "url": "karat.html?c=topcoat-sealers"
+    "url": "c/topcoat-sealers/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -11667,7 +11667,7 @@
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     },
     {
      "name": "All Leaf",
@@ -11691,7 +11691,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Sinopia clay bole",
-    "url": "karat.html?c=clay-bole"
+    "url": "c/clay-bole/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -11765,7 +11765,7 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "page": "order-gold-leaf-scrap",
@@ -11789,7 +11789,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Sinopia clay bole",
-    "url": "karat.html?c=clay-bole"
+    "url": "c/clay-bole/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -11863,7 +11863,7 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     },
     {
      "page": "order-supplies-rabbit-skin-glue",
@@ -11887,7 +11887,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Sinopia clay bole",
-    "url": "karat.html?c=clay-bole"
+    "url": "c/clay-bole/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -11989,7 +11989,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Sinopia clay bole",
-    "url": "karat.html?c=clay-bole"
+    "url": "c/clay-bole/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -12067,15 +12067,15 @@
     },
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     },
     {
      "name": "Gilders Cushions and Pads",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     }
    ]
   },
@@ -12091,7 +12091,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Sinopia clay bole",
-    "url": "karat.html?c=clay-bole"
+    "url": "c/clay-bole/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -12147,7 +12147,7 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     },
     {
      "name": "Genuine Gold Leaf",
@@ -12167,7 +12167,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Sinopia clay bole",
-    "url": "karat.html?c=clay-bole"
+    "url": "c/clay-bole/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -12243,7 +12243,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Sinopia clay bole",
-    "url": "karat.html?c=clay-bole"
+    "url": "c/clay-bole/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -12345,7 +12345,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Sinopia clay bole",
-    "url": "karat.html?c=clay-bole"
+    "url": "c/clay-bole/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -12397,11 +12397,11 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "Gilders Cushions and Pads",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "page": "order-tools-thorn-tip",
@@ -12421,7 +12421,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Sinopia clay bole",
-    "url": "karat.html?c=clay-bole"
+    "url": "c/clay-bole/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -12481,7 +12481,7 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ]
   },
@@ -12497,7 +12497,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilding brushes",
-    "url": "karat.html?c=gilding-brushes"
+    "url": "c/gilding-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Width",
@@ -12568,15 +12568,15 @@
     },
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     }
    ]
   },
@@ -12592,7 +12592,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner gilding products",
-    "url": "karat.html?c=kolner-gilding-products"
+    "url": "c/kolner-gilding-products/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -12672,15 +12672,15 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Gilders Cushions and Pads",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     }
    ]
   },
@@ -12696,7 +12696,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner gilding products",
-    "url": "karat.html?c=kolner-gilding-products"
+    "url": "c/kolner-gilding-products/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -12754,11 +12754,11 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     }
    ]
   },
@@ -12774,7 +12774,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner gilding products",
-    "url": "karat.html?c=kolner-gilding-products"
+    "url": "c/kolner-gilding-products/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -12852,7 +12852,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner gilding products",
-    "url": "karat.html?c=kolner-gilding-products"
+    "url": "c/kolner-gilding-products/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -12932,15 +12932,15 @@
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     }
    ]
   },
@@ -12956,7 +12956,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner gilding products",
-    "url": "karat.html?c=kolner-gilding-products"
+    "url": "c/kolner-gilding-products/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -13010,7 +13010,7 @@
     },
     {
      "name": "Heavy Leaf",
-     "href": "karat.html?c=heavy-leaf"
+     "href": "c/heavy-leaf/"
     },
     {
      "page": "order-tools-kolner-instacoll-tool",
@@ -13018,7 +13018,7 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     }
    ]
   },
@@ -13034,7 +13034,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner gilding products",
-    "url": "karat.html?c=kolner-gilding-products"
+    "url": "c/kolner-gilding-products/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -13101,15 +13101,15 @@
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "24k Gold Leaf",
-     "href": "karat.html?k=24k"
+     "href": "k/24k/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     }
    ]
   },
@@ -13125,7 +13125,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner gilding products",
-    "url": "karat.html?c=kolner-gilding-products"
+    "url": "c/kolner-gilding-products/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -13192,7 +13192,7 @@
     },
     {
      "name": "Silver, Copper and Palladium Leaf",
-     "href": "karat.html?c=silver-copper-palladium"
+     "href": "c/silver-copper-palladium/"
     },
     {
      "page": "order-gold-powder",
@@ -13200,7 +13200,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     }
    ]
   },
@@ -13216,7 +13216,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner gilding products",
-    "url": "karat.html?c=kolner-gilding-products"
+    "url": "c/kolner-gilding-products/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -13277,15 +13277,15 @@
     },
     {
      "name": "Pinstriping Brushes",
-     "href": "karat.html?c=pinstriping-brushes"
+     "href": "c/pinstriping-brushes/"
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Gilders Size and Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "page": "order-variegated01",
@@ -13309,7 +13309,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner gilding products",
-    "url": "karat.html?c=kolner-gilding-products"
+    "url": "c/kolner-gilding-products/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -13363,7 +13363,7 @@
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Genuine Gold Leaf",
@@ -13387,7 +13387,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilding kits",
-    "url": "karat.html?c=gilding-kits"
+    "url": "c/gilding-kits/"
    },
    "groupLabel": null,
    "sizeLabel": "Option",
@@ -13458,7 +13458,7 @@
     },
     {
      "name": "23k Gold Leaf",
-     "href": "karat.html?k=23k"
+     "href": "k/23k/"
     }
    ]
   },
@@ -13474,7 +13474,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilding kits",
-    "url": "karat.html?c=gilding-kits"
+    "url": "c/gilding-kits/"
    },
    "groupLabel": null,
    "sizeLabel": "Option",
@@ -13604,7 +13604,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilding kits",
-    "url": "karat.html?c=gilding-kits"
+    "url": "c/gilding-kits/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -13642,7 +13642,7 @@
    "related": [
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "page": "order-supplies-kolner-archicoll-gel",
@@ -13678,7 +13678,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's tips",
-    "url": "karat.html?c=gilders-tips"
+    "url": "c/gilders-tips/"
    },
    "groupLabel": null,
    "sizeLabel": "Length",
@@ -13805,7 +13805,7 @@
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     },
     {
      "page": "order-tools-thorn-tip",
@@ -13825,7 +13825,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilding brushes",
-    "url": "karat.html?c=gilding-brushes"
+    "url": "c/gilding-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -13978,11 +13978,11 @@
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ]
   },
@@ -13998,7 +13998,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's knives",
-    "url": "karat.html?c=gilders-knives"
+    "url": "c/gilders-knives/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -14044,7 +14044,7 @@
     },
     {
      "name": "Gilders Cushions and Pads",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "page": "order-basic-knife",
@@ -14072,7 +14072,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's knives",
-    "url": "karat.html?c=gilders-knives"
+    "url": "c/gilders-knives/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -14118,7 +14118,7 @@
     },
     {
      "name": "Gilders Cushions and Pads",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Genuine Gold, Silver, Copper and Palladium Leaf",
@@ -14126,11 +14126,11 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     }
    ]
   },
@@ -14146,7 +14146,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's knives",
-    "url": "karat.html?c=gilders-knives"
+    "url": "c/gilders-knives/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -14192,15 +14192,15 @@
     },
     {
      "name": "Gilders Cushions and Pads",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Imitation Gold and Silver Leaf",
-     "href": "karat.html?c=imitation"
+     "href": "c/imitation/"
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     },
     {
      "page": "order-pad-knife-combo",
@@ -14220,7 +14220,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's cushions",
-    "url": "karat.html?c=gilders-cushions"
+    "url": "c/gilders-cushions/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -14270,7 +14270,7 @@
     },
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     },
     {
      "name": "Genuine Gold, Silver, Copper and Palladium Leaf",
@@ -14294,7 +14294,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's cushions",
-    "url": "karat.html?c=gilders-cushions"
+    "url": "c/gilders-cushions/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -14344,7 +14344,7 @@
     },
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     },
     {
      "page": "order-tools-thorn-tip",
@@ -14368,7 +14368,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's cushions",
-    "url": "karat.html?c=gilders-cushions"
+    "url": "c/gilders-cushions/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -14418,15 +14418,15 @@
     },
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     }
    ]
   },
@@ -14442,7 +14442,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's cushions",
-    "url": "karat.html?c=gilders-cushions"
+    "url": "c/gilders-cushions/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -14516,7 +14516,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Other tools",
-    "url": "karat.html?c=other-tools"
+    "url": "c/other-tools/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -14558,7 +14558,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "Kölner Instacoll HA",
@@ -14570,11 +14570,11 @@
     },
     {
      "name": "23k Gold Leaf",
-     "href": "karat.html?k=23k"
+     "href": "k/23k/"
     },
     {
      "name": "Gilding Tools",
-     "href": "karat.html?c=gilding-tools"
+     "href": "c/gilding-tools/"
     }
    ]
   },
@@ -14590,7 +14590,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Other tools",
-    "url": "karat.html?c=other-tools"
+    "url": "c/other-tools/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -14632,15 +14632,15 @@
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Basecoat Primer Sealer",
-     "href": "karat.html?c=basecoat-primer-sealer"
+     "href": "c/basecoat-primer-sealer/"
     },
     {
      "name": "Kölner Instacoll",
@@ -14664,7 +14664,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's knives",
-    "url": "karat.html?c=gilders-knives"
+    "url": "c/gilders-knives/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -14697,27 +14697,27 @@
    "related": [
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "Gilders Cushions and Pads",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "24k Gold Leaf",
-     "href": "karat.html?k=24k"
+     "href": "k/24k/"
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ]
   },
@@ -14733,7 +14733,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's cushions",
-    "url": "karat.html?c=gilders-cushions"
+    "url": "c/gilders-cushions/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -14809,11 +14809,11 @@
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "page": "order-tools-pad-basic-table-seconds",
@@ -14833,7 +14833,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -14883,15 +14883,15 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "name": "24k Gold Leaf",
-     "href": "karat.html?k=24k"
+     "href": "k/24k/"
     }
    ]
   },
@@ -14907,7 +14907,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -14961,11 +14961,11 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "23k Gold Leaf",
-     "href": "karat.html?k=23k"
+     "href": "k/23k/"
     }
    ]
   },
@@ -14981,7 +14981,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -15031,7 +15031,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "page": "order-gold-leaf-scrap",
@@ -15055,7 +15055,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -15105,7 +15105,7 @@
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "page": "order-supplies-rabbit-skin-glue",
@@ -15113,7 +15113,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     }
    ]
   },
@@ -15129,7 +15129,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -15179,7 +15179,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "page": "order-gold-leaf-scrap",
@@ -15203,7 +15203,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -15257,11 +15257,11 @@
     },
     {
      "name": "Gilders Cushions and Pads",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     }
    ]
   },
@@ -15277,7 +15277,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -15351,7 +15351,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -15405,11 +15405,11 @@
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     }
    ]
   },
@@ -15425,7 +15425,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -15479,11 +15479,11 @@
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     }
    ]
   },
@@ -15499,7 +15499,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -15549,11 +15549,11 @@
     },
     {
      "name": "Imitation Gold and Silver Leaf",
-     "href": "karat.html?c=imitation"
+     "href": "c/imitation/"
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     }
    ]
   },
@@ -15569,7 +15569,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -15643,7 +15643,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -15693,7 +15693,7 @@
     },
     {
      "name": "Variegated Leaf",
-     "href": "karat.html?c=variegated-leaf"
+     "href": "c/variegated-leaf/"
     },
     {
      "page": "order-18k-gold-leaf",
@@ -15717,7 +15717,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -15775,7 +15775,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     }
    ]
   },
@@ -15791,7 +15791,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -15841,7 +15841,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "page": "order-22k-gold-leaf",
@@ -15865,7 +15865,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -15919,7 +15919,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "page": "order-gold-leaf-scrap",
@@ -15939,7 +15939,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -15989,7 +15989,7 @@
     },
     {
      "name": "23.75k Gold Leaf",
-     "href": "karat.html?k=23.75k"
+     "href": "k/23.75k/"
     },
     {
      "page": "order-brushes-japan-brushes",
@@ -16013,7 +16013,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -16067,7 +16067,7 @@
     },
     {
      "name": "Topcoat Sealers",
-     "href": "karat.html?c=topcoat-sealers"
+     "href": "c/topcoat-sealers/"
     },
     {
      "page": "order-23k-roll-gold",
@@ -16087,7 +16087,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -16137,7 +16137,7 @@
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     },
     {
      "page": "order-copper-leaf",
@@ -16145,7 +16145,7 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     }
    ]
   },
@@ -16161,7 +16161,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -16235,7 +16235,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -16285,11 +16285,11 @@
     },
     {
      "name": "Variegated Leaf",
-     "href": "karat.html?c=variegated-leaf"
+     "href": "c/variegated-leaf/"
     },
     {
      "name": "Gilding Tools",
-     "href": "karat.html?c=gilding-tools"
+     "href": "c/gilding-tools/"
     }
    ]
   },
@@ -16305,7 +16305,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -16359,7 +16359,7 @@
     },
     {
      "name": "Imitation Gold and Silver Leaf",
-     "href": "karat.html?c=imitation"
+     "href": "c/imitation/"
     },
     {
      "name": "Genuine Gold Leaf",
@@ -16379,7 +16379,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -16429,7 +16429,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "page": "order-gold-leaf-scrap",
@@ -16453,7 +16453,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -16511,7 +16511,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     }
    ]
   },
@@ -16527,7 +16527,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -16577,15 +16577,15 @@
     },
     {
      "name": "Gilding Tools",
-     "href": "karat.html?c=gilding-tools"
+     "href": "c/gilding-tools/"
     },
     {
      "name": "23k Gold Leaf",
-     "href": "karat.html?k=23k"
+     "href": "k/23k/"
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     }
    ]
   },
@@ -16601,7 +16601,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -16651,7 +16651,7 @@
     },
     {
      "name": "24k Gold Leaf",
-     "href": "karat.html?k=24k"
+     "href": "k/24k/"
     },
     {
      "page": "order-tools-thorn-tip",
@@ -16675,7 +16675,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -16725,7 +16725,7 @@
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "page": "order-imitation-gold-leaf",
@@ -16733,7 +16733,7 @@
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     }
    ]
   },
@@ -16749,7 +16749,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -16803,7 +16803,7 @@
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "page": "order-brushes-cat-tongue",
@@ -16823,7 +16823,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -16897,7 +16897,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -16951,7 +16951,7 @@
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "page": "order-18k-gold-leaf",
@@ -16971,7 +16971,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -17029,7 +17029,7 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     }
    ]
   },
@@ -17045,7 +17045,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -17095,7 +17095,7 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "page": "order-tip-kolner-squirrel",
@@ -17103,7 +17103,7 @@
     },
     {
      "name": "23.75k Gold Leaf",
-     "href": "karat.html?k=23.75k"
+     "href": "k/23.75k/"
     }
    ]
   },
@@ -17119,7 +17119,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -17169,15 +17169,15 @@
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     }
    ]
   },
@@ -17193,7 +17193,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -17247,7 +17247,7 @@
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     },
     {
      "page": "order-gold-leaf-mini-bundle",
@@ -17267,7 +17267,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -17317,11 +17317,11 @@
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "page": "order-tip-kolner-synthetic",
@@ -17341,7 +17341,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -17415,7 +17415,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -17465,15 +17465,15 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     }
    ]
   },
@@ -17489,7 +17489,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Agate burnishers",
-    "url": "karat.html?c=agate-burnishers"
+    "url": "c/agate-burnishers/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -17539,7 +17539,7 @@
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "page": "order-brushes-gilders-mops",
@@ -17547,7 +17547,7 @@
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     }
    ]
   },
@@ -17563,7 +17563,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilding brushes",
-    "url": "karat.html?c=gilding-brushes"
+    "url": "c/gilding-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -17660,11 +17660,11 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     },
     {
      "name": "Genuine Gold, Silver, Copper and Palladium Leaf",
@@ -17684,7 +17684,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilding brushes",
-    "url": "karat.html?c=gilding-brushes"
+    "url": "c/gilding-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -17730,15 +17730,15 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "Gilding Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     },
     {
      "name": "Basecoat Primer Sealer",
-     "href": "karat.html?c=basecoat-primer-sealer"
+     "href": "c/basecoat-primer-sealer/"
     },
     {
      "name": "Genuine Gold Leaf",
@@ -17758,7 +17758,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilding brushes",
-    "url": "karat.html?c=gilding-brushes"
+    "url": "c/gilding-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Width",
@@ -17829,15 +17829,15 @@
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     },
     {
      "name": "Imitation Gold and Silver Leaf",
-     "href": "karat.html?c=imitation"
+     "href": "c/imitation/"
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     }
    ]
   },
@@ -17853,7 +17853,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilding brushes",
-    "url": "karat.html?c=gilding-brushes"
+    "url": "c/gilding-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Width",
@@ -17942,7 +17942,7 @@
     },
     {
      "name": "Variegated Leaf",
-     "href": "karat.html?c=variegated-leaf"
+     "href": "c/variegated-leaf/"
     },
     {
      "page": "order-gold-leaf-scrap",
@@ -17966,7 +17966,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilding brushes",
-    "url": "karat.html?c=gilding-brushes"
+    "url": "c/gilding-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -18016,11 +18016,11 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "24k Gold Leaf",
-     "href": "karat.html?k=24k"
+     "href": "k/24k/"
     },
     {
      "page": "order-supplies-gelatin",
@@ -18040,7 +18040,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's tips",
-    "url": "karat.html?c=gilders-tips"
+    "url": "c/gilders-tips/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -18090,7 +18090,7 @@
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     },
     {
      "page": "order-brushes-surplus-removal",
@@ -18098,7 +18098,7 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ]
   },
@@ -18114,7 +18114,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's tips",
-    "url": "karat.html?c=gilders-tips"
+    "url": "c/gilders-tips/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -18168,7 +18168,7 @@
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     },
     {
      "page": "order-brushes-gilders-mops",
@@ -18188,7 +18188,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's tips",
-    "url": "karat.html?c=gilders-tips"
+    "url": "c/gilders-tips/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -18262,7 +18262,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Pinstriping brushes",
-    "url": "karat.html?c=pinstriping-brushes"
+    "url": "c/pinstriping-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -18357,7 +18357,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's cushions",
-    "url": "karat.html?c=gilders-cushions"
+    "url": "c/gilders-cushions/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -18426,7 +18426,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner gilding products",
-    "url": "karat.html?c=kolner-gilding-products"
+    "url": "c/kolner-gilding-products/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -18506,7 +18506,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner gilding products",
-    "url": "karat.html?c=kolner-gilding-products"
+    "url": "c/kolner-gilding-products/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -18584,7 +18584,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Caselo casein paints",
-    "url": "karat.html?c=caselo-paints"
+    "url": "c/caselo-paints/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -18655,11 +18655,11 @@
     },
     {
      "name": "Pinstriping Brushes",
-     "href": "karat.html?c=pinstriping-brushes"
+     "href": "c/pinstriping-brushes/"
     },
     {
      "name": "24k Gold Leaf",
-     "href": "karat.html?k=24k"
+     "href": "k/24k/"
     }
    ]
   },
@@ -18675,7 +18675,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Caselo casein paints",
-    "url": "karat.html?c=caselo-paints"
+    "url": "c/caselo-paints/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -18766,7 +18766,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Caselo casein paints",
-    "url": "karat.html?c=caselo-paints"
+    "url": "c/caselo-paints/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -18857,7 +18857,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Caselo casein paints",
-    "url": "karat.html?c=caselo-paints"
+    "url": "c/caselo-paints/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -18948,7 +18948,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Caselo casein paints",
-    "url": "karat.html?c=caselo-paints"
+    "url": "c/caselo-paints/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -19019,11 +19019,11 @@
     },
     {
      "name": "Gilding Brushes",
-     "href": "karat.html?c=gilding-brushes"
+     "href": "c/gilding-brushes/"
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ]
   },
@@ -19039,7 +19039,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Caselo casein paints",
-    "url": "karat.html?c=caselo-paints"
+    "url": "c/caselo-paints/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -19114,7 +19114,7 @@
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     }
    ]
   },
@@ -19130,7 +19130,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Caselo casein paints",
-    "url": "karat.html?c=caselo-paints"
+    "url": "c/caselo-paints/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -19205,7 +19205,7 @@
     },
     {
      "name": "Gilders Knives and Cushions",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     }
    ]
   },
@@ -19221,7 +19221,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Caselo casein paints",
-    "url": "karat.html?c=caselo-paints"
+    "url": "c/caselo-paints/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -19296,7 +19296,7 @@
     },
     {
      "name": "Gilding Kits",
-     "href": "karat.html?c=gilding-kits"
+     "href": "c/gilding-kits/"
     }
    ]
   },
@@ -19312,7 +19312,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Caselo casein paints",
-    "url": "karat.html?c=caselo-paints"
+    "url": "c/caselo-paints/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -19387,7 +19387,7 @@
     },
     {
      "name": "Roll Leaf",
-     "href": "karat.html?c=roll-leaf"
+     "href": "c/roll-leaf/"
     }
    ]
   },
@@ -19403,7 +19403,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Caselo casein paints",
-    "url": "karat.html?c=caselo-paints"
+    "url": "c/caselo-paints/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -19478,7 +19478,7 @@
     },
     {
      "name": "Gilders Size and Adhesives",
-     "href": "karat.html?c=size-and-adhesives"
+     "href": "c/size-and-adhesives/"
     }
    ]
   },
@@ -19494,7 +19494,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's knives",
-    "url": "karat.html?c=gilders-knives"
+    "url": "c/gilders-knives/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -19527,27 +19527,27 @@
    "related": [
     {
      "name": "Gilders Knives",
-     "href": "karat.html?c=gilders-knives"
+     "href": "c/gilders-knives/"
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "name": "Gilders Cushions and Pads",
-     "href": "karat.html?c=gilders-cushions"
+     "href": "c/gilders-cushions/"
     },
     {
      "name": "24k Gold Leaf",
-     "href": "karat.html?k=24k"
+     "href": "k/24k/"
     },
     {
      "name": "Sinopia Clay Bole",
-     "href": "karat.html?c=clay-bole"
+     "href": "c/clay-bole/"
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ]
   },
@@ -19563,7 +19563,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner Poliment",
-    "url": "karat.html?c=poliment"
+    "url": "c/poliment/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -19656,7 +19656,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner Poliment",
-    "url": "karat.html?c=poliment"
+    "url": "c/poliment/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -19749,7 +19749,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner Poliment",
-    "url": "karat.html?c=poliment"
+    "url": "c/poliment/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -19842,7 +19842,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Kölner Poliment",
-    "url": "karat.html?c=poliment"
+    "url": "c/poliment/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -19935,7 +19935,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's tips",
-    "url": "karat.html?c=gilders-tips"
+    "url": "c/gilders-tips/"
    },
    "groupLabel": null,
    "sizeLabel": "Length",
@@ -20062,11 +20062,11 @@
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ]
   },
@@ -20082,7 +20082,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's cushions",
-    "url": "karat.html?c=gilders-cushions"
+    "url": "c/gilders-cushions/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -20137,7 +20137,7 @@
     },
     {
      "name": "Gilder's Tips",
-     "href": "karat.html?c=gilders-tips"
+     "href": "c/gilders-tips/"
     },
     {
      "page": "order-tools-pad-kolner-table",
@@ -20145,11 +20145,11 @@
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     },
     {
      "name": "Genuine Gold Leaf",
@@ -20169,7 +20169,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Pinstriping brushes",
-    "url": "karat.html?c=pinstriping-brushes"
+    "url": "c/pinstriping-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -20264,7 +20264,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Pinstriping brushes",
-    "url": "karat.html?c=pinstriping-brushes"
+    "url": "c/pinstriping-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -20368,7 +20368,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Pinstriping brushes",
-    "url": "karat.html?c=pinstriping-brushes"
+    "url": "c/pinstriping-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -20450,7 +20450,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Pinstriping brushes",
-    "url": "karat.html?c=pinstriping-brushes"
+    "url": "c/pinstriping-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -20545,7 +20545,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Pinstriping brushes",
-    "url": "karat.html?c=pinstriping-brushes"
+    "url": "c/pinstriping-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Item",
@@ -20610,7 +20610,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Pinstriping brushes",
-    "url": "karat.html?c=pinstriping-brushes"
+    "url": "c/pinstriping-brushes/"
    },
    "groupLabel": null,
    "sizeLabel": "Size",
@@ -20705,7 +20705,7 @@
    "media": "swatch",
    "crumb": {
     "label": "Gilder's tips",
-    "url": "karat.html?c=gilders-tips"
+    "url": "c/gilders-tips/"
    },
    "groupLabel": null,
    "sizeLabel": "Length",
@@ -20832,11 +20832,11 @@
     },
     {
      "name": "Gilding Supplies",
-     "href": "karat.html?c=gilding-supplies"
+     "href": "c/gilding-supplies/"
     },
     {
      "name": "Agate Burnishers",
-     "href": "karat.html?c=agate-burnishers"
+     "href": "c/agate-burnishers/"
     }
    ]
   }

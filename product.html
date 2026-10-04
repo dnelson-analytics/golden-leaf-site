@@ -4,18 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
-  <title>Product - Golden Leaf Products Prototype</title>
-  <link rel="stylesheet" href="css/styles.css">
-  <script>document.documentElement.className = "js";</script>
+  <title>Golden Leaf Products (prototype)</title>
+  <script>
+    // Old query-string links forward to the static pages: product.html?p=ID -> p/ID/
+    var id = new URLSearchParams(location.search).get("p"); location.replace(id ? "p/" + encodeURIComponent(id) + "/" : "index.html");
+  </script>
 </head>
 <body>
-  <div id="site-header"></div>
-  <main class="wrap inner" id="product" aria-live="polite">
-    <p class="fine">Loading...</p>
-  </main>
-  <div id="site-footer"></div>
-  <script src="js/cart.js"></script>
-  <script src="js/layout.js"></script>
-  <script src="js/product.js"></script>
+  <p><a href="index.html">Golden Leaf Products home</a></p>
 </body>
 </html>

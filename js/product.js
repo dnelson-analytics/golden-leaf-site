@@ -2,6 +2,7 @@
   const root = document.getElementById("product");
   const money = GLPCart.money;
   const LIVE = "https://www.goldenleafproducts.com/";
+  const base = document.body.dataset.base || "";
   const TONES = { gold: "#e2bb5a", silver: "#d9dde3", copper: "#c8703f", imitation: "#cdb04c", palladium: "#c9ccd1", variegated: "#b9a24a" };
 
   function foilSvg(tone) {
@@ -39,8 +40,7 @@
   }
 
   function render(product, ids) {
-    document.title = product.name + " - Golden Leaf Products Prototype";
-    const groups = [];
+        const groups = [];
     product.variants.forEach((v) => { if (v.group && !groups.includes(v.group)) groups.push(v.group); });
     const state = { group: groups[0] || null, sku: null, qty: 1 };
     const variantsFor = () => product.variants.filter((v) => !state.group || v.group === state.group);
@@ -90,7 +90,7 @@
       lowNote.replaceChildren();
       if (low) {
         lowNote.append("This option is low on inventory, so it cannot be added to the cart right now. ",
-          el("a", { href: "index.html#help", text: "Ask about availability" }), ".");
+          el("a", { href: base + "index.html#help", text: "Ask about availability" }), ".");
       }
       bulk.replaceChildren();
       const b = product.bulk;
@@ -100,13 +100,13 @@
           bulk.append(
             el("b", { text: "That is " + leaves.toLocaleString("en-US") + " leaves. " }),
             "Orders above " + b.leaves.toLocaleString("en-US") + " leaves get special pricing. ",
-            el("a", { href: "index.html#help", text: "Send us a message" }), ".");
+            el("a", { href: base + "index.html#help", text: "Send us a message" }), ".");
         } else {
           bulk.append("Ordering more than " + b.leaves.toLocaleString("en-US") + " leaves? ",
-            el("a", { href: "index.html#help", text: "Ask about bulk pricing" }), ".");
+            el("a", { href: base + "index.html#help", text: "Ask about bulk pricing" }), ".");
         }
       } else if (b && b.note) {
-        bulk.append(b.note + " ", el("a", { href: "index.html#help", text: "Send us a message" }), ".");
+        bulk.append(b.note + " ", el("a", { href: base + "index.html#help", text: "Send us a message" }), ".");
       }
     }
 
@@ -136,7 +136,7 @@
       status.replaceChildren(
         el("b", { text: "Added. " }),
         state.qty + " x " + current().name + " ",
-        el("a", { href: "cart.html", text: "View cart" }));
+        el("a", { href: base + "cart.html", text: "View cart" }));
     });
 
     const media = el("div", { class: "pdp-media tone-" + (product.tone || "gold") });
@@ -174,10 +174,10 @@
         el("dl", {}, ...product.specs.flatMap(([k, v]) => [el("dt", { text: k }), el("dd", { text: v })]))));
 
     const relatedLinks = product.related.map((r) => {
-      if (r.href) return el("li", {}, el("a", { href: r.href, text: r.name }));
+      if (r.href) return el("li", {}, el("a", { href: base + r.href, text: r.name }));
       const local = r.page.startsWith("order-") && ids.has(r.page.slice(6));
       return el("li", {}, el("a", local
-        ? { href: "product.html?p=" + r.page.slice(6), text: r.name }
+        ? { href: base + "p/" + r.page.slice(6) + "/", text: r.name }
         : { href: LIVE + r.page + ".html", rel: "noopener", text: r.name }));
     });
     const related = el("section", { class: "pdp-related" },
@@ -186,23 +186,23 @@
       el("p", { class: "fine", text: "These pages open here. A few items open the current site." }));
 
     const crumbs = el("nav", { class: "crumbs", "aria-label": "Breadcrumb" },
-      el("a", { href: "index.html", text: "Home" }), " / ",
-      el("a", { href: product.crumb.url, text: product.crumb.label }), " / ",
+      el("a", { href: base + "index.html", text: "Home" }), " / ",
+      el("a", { href: base + product.crumb.url, text: product.crumb.label }), " / ",
       el("span", { text: product.name }));
 
     root.replaceChildren(crumbs, el("div", { class: "pdp" }, media, buy), details, related);
     refresh();
   }
 
-  fetch("data/products.json", { cache: "no-cache" })
+  fetch(base + "data/products.json", { cache: "no-cache" })
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((data) => {
       const ids = new Set(data.products.map((p) => p.id));
-      const id = new URLSearchParams(location.search).get("p");
+      const id = root.dataset.product || new URLSearchParams(location.search).get("p");
       const product = data.products.find((p) => p.id === id) || data.products[0];
       render(product, ids);
     })
     .catch(() => {
-      root.replaceChildren(el("p", { class: "wrap fine", text: "Product details could not be loaded. If you opened this file directly, serve the folder over http instead." }));
+      if (!root.dataset.product) root.replaceChildren(el("p", { class: "wrap fine", text: "Product details could not be loaded. If you opened this file directly, serve the folder over http instead." }));
     });
 })();

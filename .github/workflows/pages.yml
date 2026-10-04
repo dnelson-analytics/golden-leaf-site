@@ -22,10 +22,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - name: Assemble site
-        run: |
-          mkdir _site
-          cp -r index.html product.html karat.html cart.html assets css js data _site/
+      - name: Build static pages
+        run: python3 tools/build_static.py --out _site
+      - name: Check built pages
+        run: python3 tools/check_static.py _site
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
