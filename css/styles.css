@@ -427,3 +427,9 @@ section[id] { scroll-margin-top: 4.5rem; }
 .kback { margin: -1rem 0 1.6rem; font-size: 0.82rem; letter-spacing: 0.1em; text-transform: uppercase; }
 .kback a { color: var(--gold-bright); border-bottom: 1px solid var(--gold); }
 .kgrid.kgap { margin-top: 1rem; }
+/* Owner's product photos (where a product has one). Photos keep their own
+   proportions inside a square, on a light panel so white backgrounds sit cleanly. */
+.pdp-media img.photo, .photo-big img { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: contain; background: #f7f3ea; border-radius: 4px; }
+.photo-big { max-width: 420px; margin: 1.2rem 0; }
+.photo-big .foil-cap { position: static; display: block; margin-top: 0.6rem; }
+.kcard .kphoto { width: 88px; height: 88px; object-fit: contain; background: #f7f3ea; border-radius: 4px; margin-bottom: 0.4rem; }
