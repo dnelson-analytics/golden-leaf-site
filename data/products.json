@@ -786,6 +786,8 @@
     }
    ],
    "media": "foil",
+   "image": "assets/photos/24k-gold-leaf.jpg",
+   "imageAlt": "Voltarra 24k Gold Leaf",
    "color": null
   },
   {
@@ -1846,6 +1848,8 @@
     }
    ],
    "media": "foil",
+   "image": "assets/photos/2375k-gold-leaf.jpg",
+   "imageAlt": "Voltarra 23.75k Gold Leaf",
    "color": null
   },
   {
@@ -2902,6 +2906,8 @@
     }
    ],
    "media": "foil",
+   "image": "assets/photos/23k-gold-leaf.jpg",
+   "imageAlt": "Voltarra 23k Gold Leaf",
    "color": null
   },
   {
@@ -3718,6 +3724,8 @@
     }
    ],
    "media": "foil",
+   "image": "assets/photos/23k-red-gold-leaf.jpg",
+   "imageAlt": "23k Red Gold Leaf",
    "color": null
   },
   {
@@ -3980,6 +3988,8 @@
     }
    ],
    "media": "foil",
+   "image": "assets/photos/22k-gold-leaf.jpg",
+   "imageAlt": "Voltarra 22k Gold Leaf",
    "color": null
   },
   {
@@ -4242,6 +4252,8 @@
     }
    ],
    "media": "foil",
+   "image": "assets/photos/22k-moon-gold-leaf.jpg",
+   "imageAlt": "22k Moon Gold Leaf",
    "color": null
   },
   {
@@ -4762,6 +4774,8 @@
     }
    ],
    "media": "foil",
+   "image": "assets/photos/18k-gold-leaf.jpg",
+   "imageAlt": "Voltarra 18k Gold Leaf",
    "color": null
   },
   {
@@ -5024,6 +5038,8 @@
     }
    ],
    "media": "foil",
+   "image": "assets/photos/12k-gold-leaf.jpg",
+   "imageAlt": "Voltarra 12k Gold Leaf",
    "color": null
   },
   {
@@ -5278,6 +5294,8 @@
     }
    ],
    "media": "foil",
+   "image": "assets/photos/silver-leaf.jpg",
+   "imageAlt": "Voltarra Silver Leaf",
    "color": null
   },
   {
@@ -5476,6 +5494,8 @@
     }
    ],
    "media": "foil",
+   "image": "assets/photos/copper-leaf.jpg",
+   "imageAlt": "Copper Leaf",
    "color": null
   },
   {
@@ -5674,6 +5694,8 @@
     }
    ],
    "media": "foil",
+   "image": "assets/photos/palladium-leaf.jpg",
+   "imageAlt": "Palladium Leaf",
    "color": null
   },
   {
@@ -7300,6 +7322,8 @@
     }
    ],
    "media": "foil",
+   "image": "assets/photos/shell-gold.jpg",
+   "imageAlt": "Noris Shell Gold",
    "color": null
   },
   {
@@ -7798,6 +7822,8 @@
     }
    ],
    "media": "foil",
+   "image": "assets/photos/gold-leaf-scrap.jpg",
+   "imageAlt": "24k & 23k Gold Leaf Scrap",
    "color": null
   },
   {
@@ -8068,6 +8094,8 @@
    "swatch": "s-steel",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/tools-kolner-instacoll-tool.jpg",
+   "imageAlt": "Kölner Instacoll Tool",
    "crumb": {
     "label": "Other tools",
     "url": "c/other-tools/"
@@ -8355,6 +8383,8 @@
    "swatch": "s-steel",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/tools-pipette.jpg",
+   "imageAlt": "Plastic Pipet",
    "crumb": {
     "label": "Other tools",
     "url": "c/other-tools/"
@@ -8670,6 +8700,8 @@
    "swatch": "s-liquid",
    "color": "#b3382c",
    "media": "swatch",
+   "image": "assets/photos/supplies-kolner-permacoll-red.jpg",
+   "imageAlt": "Kölner Permacoll Size Red",
    "crumb": {
     "label": "Size & adhesives",
     "url": "c/size-and-adhesives/"
@@ -9036,6 +9068,8 @@
    "swatch": "s-liquid",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/supplies-kolner-miniatum-ink.jpg",
+   "imageAlt": "Kölner Miniatum Ink",
    "crumb": {
     "label": "Size & adhesives",
     "url": "c/size-and-adhesives/"
@@ -9127,6 +9161,8 @@
    "swatch": "s-liquid",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/supplies-kolner-instacoll-base-yellow.jpg",
+   "imageAlt": "Kölner Instacoll Yellow Base",
    "crumb": {
     "label": "Size & adhesives",
     "url": "c/size-and-adhesives/"
@@ -9231,6 +9267,8 @@
    "swatch": "s-liquid",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/supplies-kolner-permacoll-patina.jpg",
+   "imageAlt": "Kölner Permacoll Patina",
    "crumb": {
     "label": "Kölner gilding products",
     "url": "c/kolner-gilding-products/"
@@ -9348,6 +9386,8 @@
    "swatch": "s-liquid",
    "color": "#a8223d",
    "media": "swatch",
+   "image": "assets/photos/supplies-caselo-carmin.jpg",
+   "imageAlt": "Kolner Caselo Carmin Red Casein Paint",
    "crumb": {
     "label": "Caselo casein paints",
     "url": "c/caselo-paints/"
@@ -9504,6 +9544,8 @@
    "swatch": "s-bristle",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/tip-kolner-squirrel.jpg",
+   "imageAlt": "Kölner Squirrel Hair Gilders Tips",
    "crumb": {
     "label": "Gilder's tips",
     "url": "c/gilders-tips/"
@@ -10011,6 +10053,8 @@
    "swatch": "s-bristle",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/brushes-cat-tongue.jpg",
+   "imageAlt": "Cat’s Tongue Brushes",
    "crumb": {
     "label": "Gilding brushes",
     "url": "c/gilding-brushes/"
@@ -10158,6 +10202,8 @@
    "swatch": "s-bristle",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/brushes-taklon.jpg",
+   "imageAlt": "Taklon Brushes",
    "crumb": {
     "label": "Gilding brushes",
     "url": "c/gilding-brushes/"
@@ -10647,6 +10693,8 @@
    "swatch": "s-liquid",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/supplies-size-water.jpg",
+   "imageAlt": "Water Size",
    "crumb": {
     "label": "Size & adhesives",
     "url": "c/size-and-adhesives/"
@@ -10764,6 +10812,8 @@
    "swatch": "s-liquid",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/supplies-kolner-permacoll-clear.jpg",
+   "imageAlt": "Kölner Permacoll Size Clear",
    "crumb": {
     "label": "Size & adhesives",
     "url": "c/size-and-adhesives/"
@@ -10844,6 +10894,8 @@
    "swatch": "s-liquid",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/supplies-kolner-permacoll-HA-clear.jpg",
+   "imageAlt": "Kölner Permacoll Size HA Clear",
    "crumb": {
     "label": "Size & adhesives",
     "url": "c/size-and-adhesives/"
@@ -11000,6 +11052,8 @@
    "swatch": "s-liquid",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/supplies-kolner-signcoll.jpg",
+   "imageAlt": "Kolner Signcoll",
    "crumb": {
     "label": "Size & adhesives",
     "url": "c/size-and-adhesives/"
@@ -12590,6 +12644,8 @@
    "swatch": "s-liquid",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/supplies-kolner-instacoll-base-clear.jpg",
+   "imageAlt": "Kölner Instacoll Clear Base",
    "crumb": {
     "label": "Kölner gilding products",
     "url": "c/kolner-gilding-products/"
@@ -12850,6 +12906,8 @@
    "swatch": "s-liquid",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/supplies-kolner-instacoll-activator.jpg",
+   "imageAlt": "Kölner Instacoll Activator",
    "crumb": {
     "label": "Kölner gilding products",
     "url": "c/kolner-gilding-products/"
@@ -13032,6 +13090,8 @@
    "swatch": "s-liquid",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/supplies-kolner-instacoll-activator-HA.jpg",
+   "imageAlt": "Kölner Instacoll Activator HA",
    "crumb": {
     "label": "Kölner gilding products",
     "url": "c/kolner-gilding-products/"
@@ -13602,6 +13662,8 @@
    "swatch": "s-kit",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/kit-kolner-detail.jpg",
+   "imageAlt": "Kölner Fine Detail Kit",
    "crumb": {
     "label": "Gilding kits",
     "url": "c/gilding-kits/"
@@ -13676,6 +13738,8 @@
    "swatch": "s-bristle",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/tip-kolner-synthetic.jpg",
+   "imageAlt": "Kolner Synthetic Gilders Tips",
    "crumb": {
     "label": "Gilder's tips",
     "url": "c/gilders-tips/"
@@ -13823,6 +13887,8 @@
    "swatch": "s-bristle",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/brushes-gilders-fine-duster.jpg",
+   "imageAlt": "Gilders Fine Hair Dusters",
    "crumb": {
     "label": "Gilding brushes",
     "url": "c/gilding-brushes/"
@@ -13996,6 +14062,8 @@
    "swatch": "s-steel",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/tools-knife-kolner-double-small.jpg",
+   "imageAlt": "Kölner Small Double Edged Gilders Knife",
    "crumb": {
     "label": "Gilder's knives",
     "url": "c/gilders-knives/"
@@ -14070,6 +14138,8 @@
    "swatch": "s-steel",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/tools-knife-kolner-double-large.jpg",
+   "imageAlt": "Kölner Large Double Edged Gilders Knife",
    "crumb": {
     "label": "Gilder's knives",
     "url": "c/gilders-knives/"
@@ -14144,6 +14214,8 @@
    "swatch": "s-steel",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/tools-gilders-knife-professional.jpg",
+   "imageAlt": "Kölner Professional Gilders Knife",
    "crumb": {
     "label": "Gilder's knives",
     "url": "c/gilders-knives/"
@@ -14588,6 +14660,8 @@
    "swatch": "s-steel",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/tools-goldrollerLarg.jpg",
+   "imageAlt": "Gold Un-Roller 4\"",
    "crumb": {
     "label": "Other tools",
     "url": "c/other-tools/"
@@ -14831,6 +14905,8 @@
    "swatch": "s-agate",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/agate-burnisher-01.jpg",
+   "imageAlt": "Agate Burnisher #1",
    "crumb": {
     "label": "Agate burnishers",
     "url": "c/agate-burnishers/"
@@ -14979,6 +15055,8 @@
    "swatch": "s-agate",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/agate-burnisher-03.jpg",
+   "imageAlt": "Agate Burnisher #3",
    "crumb": {
     "label": "Agate burnishers",
     "url": "c/agate-burnishers/"
@@ -15349,6 +15427,8 @@
    "swatch": "s-agate",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/agate-burnisher-08.jpg",
+   "imageAlt": "Agate Burnisher #8",
    "crumb": {
     "label": "Agate burnishers",
     "url": "c/agate-burnishers/"
@@ -15789,6 +15869,8 @@
    "swatch": "s-agate",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/agate-burnisher-14.jpg",
+   "imageAlt": "Agate Burnisher #14",
    "crumb": {
     "label": "Agate burnishers",
     "url": "c/agate-burnishers/"
@@ -16233,6 +16315,8 @@
    "swatch": "s-agate",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/agate-burnisher-22.jpg",
+   "imageAlt": "Agate Burnisher #22",
    "crumb": {
     "label": "Agate burnishers",
     "url": "c/agate-burnishers/"
@@ -18038,6 +18122,8 @@
    "swatch": "s-bristle",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/tip-premium.jpg",
+   "imageAlt": "Premium Gilders Tip",
    "crumb": {
     "label": "Gilder's tips",
     "url": "c/gilders-tips/"
@@ -18112,6 +18198,8 @@
    "swatch": "s-bristle",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/tip-basic.jpg",
+   "imageAlt": "Basic Gilders Tip",
    "crumb": {
     "label": "Gilder's tips",
     "url": "c/gilders-tips/"
@@ -18186,6 +18274,8 @@
    "swatch": "s-bristle",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/tip-triple.jpg",
+   "imageAlt": "Triple Gilders Tip",
    "crumb": {
     "label": "Gilder's tips",
     "url": "c/gilders-tips/"
@@ -18260,6 +18350,8 @@
    "swatch": "s-bristle",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/brushes-dc-flatliner.jpg",
+   "imageAlt": "DC Flatliner Striping Brush",
    "crumb": {
     "label": "Pinstriping brushes",
     "url": "c/pinstriping-brushes/"
@@ -18424,6 +18516,8 @@
    "swatch": "s-liquid",
    "color": "#232323",
    "media": "swatch",
+   "image": "assets/photos/supplies-kolner-permacoll-black.jpg",
+   "imageAlt": "Kölner Permacoll Size Black",
    "crumb": {
     "label": "Kölner gilding products",
     "url": "c/kolner-gilding-products/"
@@ -18582,6 +18676,8 @@
    "swatch": "s-liquid",
    "color": "#c99a33",
    "media": "swatch",
+   "image": "assets/photos/supplies-caselo-ockre.jpg",
+   "imageAlt": "Kolner Caselo Yellow Ockre Casein Paint",
    "crumb": {
     "label": "Caselo casein paints",
     "url": "c/caselo-paints/"
@@ -18673,6 +18769,8 @@
    "swatch": "s-liquid",
    "color": "#e8c93b",
    "media": "swatch",
+   "image": "assets/photos/supplies-caselo-yellow.jpg",
+   "imageAlt": "Kolner Caselo Yellow Casein Paint",
    "crumb": {
     "label": "Caselo casein paints",
     "url": "c/caselo-paints/"
@@ -18764,6 +18862,8 @@
    "swatch": "s-liquid",
    "color": "#c8322a",
    "media": "swatch",
+   "image": "assets/photos/supplies-caselo-signal-red.jpg",
+   "imageAlt": "Kolner Caselo Signal Red Casein Paint",
    "crumb": {
     "label": "Caselo casein paints",
     "url": "c/caselo-paints/"
@@ -19310,6 +19410,8 @@
    "swatch": "s-liquid",
    "color": "#222222",
    "media": "swatch",
+   "image": "assets/photos/supplies-caselo-black.jpg",
+   "imageAlt": "Kolner Caselo Black Casein Paint",
    "crumb": {
     "label": "Caselo casein paints",
     "url": "c/caselo-paints/"
@@ -19401,6 +19503,8 @@
    "swatch": "s-liquid",
    "color": "#f3f1eb",
    "media": "swatch",
+   "image": "assets/photos/supplies-caselo-white.jpg",
+   "imageAlt": "Kolner Caselo White Casein Paint",
    "crumb": {
     "label": "Caselo casein paints",
     "url": "c/caselo-paints/"
@@ -19561,6 +19665,8 @@
    "swatch": "s-powder",
    "color": "#d9ae3a",
    "media": "swatch",
+   "image": "assets/photos/poliment-yellow.jpg",
+   "imageAlt": "Kolner Poliment Yellow",
    "crumb": {
     "label": "Kölner Poliment",
     "url": "c/poliment/"
@@ -19654,6 +19760,8 @@
    "swatch": "s-powder",
    "color": "#b98a35",
    "media": "swatch",
+   "image": "assets/photos/poliment-ockre.jpg",
+   "imageAlt": "Kolner Poliment Ockre",
    "crumb": {
     "label": "Kölner Poliment",
     "url": "c/poliment/"
@@ -19747,6 +19855,8 @@
    "swatch": "s-powder",
    "color": "#9c3f2c",
    "media": "swatch",
+   "image": "assets/photos/poliment-oxyred.jpg",
+   "imageAlt": "Kolner Poliment Oxyred",
    "crumb": {
     "label": "Kölner Poliment",
     "url": "c/poliment/"
@@ -19840,6 +19950,8 @@
    "swatch": "s-powder",
    "color": "#a22f2a",
    "media": "swatch",
+   "image": "assets/photos/poliment-armenian-red.jpg",
+   "imageAlt": "Kolner Poliment Armenian Red",
    "crumb": {
     "label": "Kölner Poliment",
     "url": "c/poliment/"
@@ -20543,6 +20655,8 @@
    "swatch": "s-bristle",
    "color": null,
    "media": "swatch",
+   "image": "assets/photos/brushes-xcaliber.jpg",
+   "imageAlt": "Xcaliber Pinstriping Brush",
    "crumb": {
     "label": "Pinstriping brushes",
     "url": "c/pinstriping-brushes/"
