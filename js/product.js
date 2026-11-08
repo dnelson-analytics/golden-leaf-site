@@ -144,14 +144,17 @@
     });
 
     const media = el("div", { class: "pdp-media tone-" + (product.tone || "gold") });
-    if (product.media === "swatch") {
+    if (product.image) {
+      media.classList.add("has-photo");
+      media.append(el("img", { class: "photo", src: base + product.image, alt: product.imageAlt || product.name, width: "600", height: "600" }));
+    } else if (product.media === "swatch") {
       const big = el("div", { class: "swatch-big " + (product.swatch || ""), "aria-hidden": "true" });
       if (product.color) big.style.background = "radial-gradient(circle at 35% 30%, rgba(255,255,255,0.55), " + product.color + " 55%)";
       media.append(big);
     } else {
       media.insertAdjacentHTML("afterbegin", foilSvg(product.tone));
     }
-    media.append(el("span", { class: "foil-cap", text: "Illustration. Photography to come." }));
+    media.append(el("span", { class: "foil-cap", text: product.image ? "Photo from Golden Leaf Products." : "Illustration. Photography to come." }));
 
     const eyebrow = [product.brand, product.madeIn ? "Made in " + product.madeIn : null].filter(Boolean).join(" · ");
     const groupLabel = !product.groupLabel ? null

@@ -26,6 +26,7 @@ class Scan(HTMLParser):
         self.title = ""
         self.desc = ""
         self.links = []
+        self.imgs = []
         self.ld = []
         self.text = []
         self.rows = 0
@@ -45,6 +46,8 @@ class Scan(HTMLParser):
             self.desc = a.get("content", "")
         elif tag == "a" and a.get("href"):
             self.links.append(a["href"])
+        elif tag == "img" and a.get("src"):
+            self.imgs.append((a["src"], a.get("alt")))
         elif tag == "script" and a.get("type") == "application/ld+json":
             self._in = "ld"
             self._buf = []
@@ -118,6 +121,11 @@ def main():
                 path = path / "index.html"
             if not path.exists():
                 errors.append(f"{rel}: broken link {href}")
+        for src, alt in s.imgs:
+            if alt is None:
+                errors.append(f"{rel}: image without alt {src}")
+            if not (page.parent / src).resolve().is_file():
+                errors.append(f"{rel}: missing image {src}")
         if rel.startswith("p/"):
             p = products[rel.split("/")[1]]
             if s.rows != len(p["variants"]):
@@ -127,6 +135,11 @@ def main():
                 if row_price != want:
                     errors.append(f"{rel}: price {row_price} != {want} for {v['sku']}")
             group = next((b for b in parsed if b.get("@type") == "ProductGroup"), None)
+            if p.get("image"):
+                if not any(src.endswith(p["image"]) and alt for src, alt in s.imgs):
+                    errors.append(f"{rel}: photo {p['image']} not shown with alt text")
+                if group and not str(group.get("image", "")).endswith(p["image"]):
+                    errors.append(f"{rel}: JSON-LD image missing")
             if not group:
                 errors.append(f"{rel}: no ProductGroup JSON-LD")
             else:

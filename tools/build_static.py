@@ -185,6 +185,8 @@ class Site:
         }
         if p.get("brand"):
             out["brand"] = {"@type": "Brand", "name": p["brand"]}
+        if p.get("image"):
+            out["image"] = self.base_url + p["image"]
         return out
 
     def product_main(self, p, base):
@@ -216,7 +218,10 @@ class Site:
         info = "".join(f'<li><a href="{esc(l["url"])}" rel="noopener">{esc(l["label"])}</a></li>' for l in p.get("infoLinks", []))
         related = "".join(f'<li><a href="{esc(self.link_for(r, base))}">{esc(r["name"])}</a></li>' for r in p["related"])
         swatch = ""
-        if p.get("media") == "swatch":
+        if p.get("image"):
+            swatch = (f'<figure class="photo-big"><img src="{base}{esc(p["image"])}" alt="{esc(p["imageAlt"])}" width="600" height="600">'
+                      '<figcaption class="foil-cap">Photo from Golden Leaf Products.</figcaption></figure>')
+        elif p.get("media") == "swatch":
             style = f' style="background: radial-gradient(circle at 35% 30%, rgba(255,255,255,0.55), {esc(p["color"])} 55%)"' if p.get("color") else ""
             swatch = f'<div class="swatch-big {esc(p.get("swatch") or "")}"{style} aria-hidden="true"></div>'
         return f"""  <main class="wrap inner" id="product" data-product="{esc(p['id'])}">
@@ -255,8 +260,9 @@ class Site:
         count = "" if single else f' <small>&middot; {len(p["variants"])} {esc(p["unitNoun"])}</small>'
         return (
             f'<a class="kcard" href="{base}p/{esc(p["id"])}/">'
-            f'<div class="dot {esc(dot_class)}"{style} aria-hidden="true"></div>'
-            f'<h3>{esc(p["name"])}</h3><p class="kfacts">{esc(" · ".join(p["facts"]))}</p>'
+            + (f'<img class="kphoto" src="{base}{esc(p["image"])}" alt="" width="88" height="88" loading="lazy">' if p.get("image")
+               else f'<div class="dot {esc(dot_class)}"{style} aria-hidden="true"></div>')
+            + f'<h3>{esc(p["name"])}</h3><p class="kfacts">{esc(" · ".join(p["facts"]))}</p>'
             + (f'<p class="kcomp">{esc(comp)}</p>' if comp else "")
             + f'<p class="kprice">{"" if single else "<small>From </small>"}<b>{esc(money(min(prices)))}</b>{count}</p>'
             + (f'<span class="klow">{"Low inventory" if single else "Some options low on inventory"}</span>' if low else "")
